@@ -1,0 +1,180 @@
+version: 2
+
+models:
+
+  # ── dim_schools ────────────────────────────────────────────────────────────
+  - name: dim_schools
+    description: >
+      Conformed school dimension. One row per CCSD school.
+      Used as a lookup by all fact tables.
+    config:
+      contract:
+        enforced: true
+    constraints:
+      - type: primary_key
+        columns: [school_id]
+    columns:
+      - name: school_id
+        description: CCSD 4-digit school identifier (natural key).
+        data_type: varchar
+        constraints:
+          - type: not_null
+          - type: unique
+        tests: [unique, not_null]
+      - name: nces_school_id
+        data_type: varchar
+      - name: school_name
+        data_type: varchar
+        constraints: [{type: not_null}]
+        tests: [not_null]
+      - name: school_type
+        data_type: varchar
+      - name: grade_band
+        data_type: varchar
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Elementary','Middle','High','Other']
+      - name: grade_low
+        data_type: varchar
+      - name: grade_high
+        data_type: varchar
+      - name: address
+        data_type: varchar
+      - name: city
+        data_type: varchar
+      - name: zip_code
+        data_type: varchar
+      - name: phone_digits
+        data_type: varchar
+      - name: principal_name
+        data_type: varchar
+      - name: ward
+        data_type: number
+      - name: is_title1
+        data_type: boolean
+        constraints: [{type: not_null}]
+      - name: is_charter
+        data_type: boolean
+      - name: is_elementary
+        data_type: boolean
+      - name: is_middle
+        data_type: boolean
+      - name: is_high_school
+        data_type: boolean
+      - name: source_loaded_at
+        data_type: timestamp_ntz
+      - name: dbt_updated_at
+        data_type: timestamp_ntz
+
+  # ── fct_enrollment_trends ──────────────────────────────────────────────────
+  - name: fct_enrollment_trends
+    description: >
+      Incremental fact table. Grain: school × year × grade × gender × ethnicity.
+      Refreshes nightly; on each run only the current school year's records
+      and any newly loaded rows are merged in.
+    config:
+      contract:
+        enforced: true
+    constraints:
+      - type: primary_key
+        columns: [enrollment_id]
+    columns:
+      - name: enrollment_id
+        data_type: varchar
+        constraints: [{type: not_null}, {type: unique}]
+        tests: [not_null, unique]
+      - name: school_id
+        data_type: varchar
+        constraints: [{type: not_null}]
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_schools')
+                field: school_id
+      - name: school_year
+        data_type: number
+        constraints: [{type: not_null}]
+      - name: school_name
+        data_type: varchar
+      - name: grade_band
+        data_type: varchar
+      - name: is_title1
+        data_type: boolean
+      - name: ward
+        data_type: number
+      - name: grade
+        data_type: varchar
+      - name: gender
+        data_type: varchar
+      - name: ethnicity
+        data_type: varchar
+      - name: student_count
+        data_type: number
+        constraints: [{type: not_null}]
+        tests:
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 1
+      - name: prior_year_count
+        data_type: number
+      - name: yoy_pct_change
+        data_type: float
+      - name: _loaded_at
+        data_type: timestamp_ntz
+      - name: dbt_updated_at
+        data_type: timestamp_ntz
+
+  # ── fct_school_performance ─────────────────────────────────────────────────
+  - name: fct_school_performance
+    description: >
+      Wide school-level scorecard. Grain: school × school_year.
+      Combines enrollment totals, attendance rates, and SBAC proficiency rates.
+    config:
+      contract:
+        enforced: true
+    constraints:
+      - type: unique
+        columns: [school_id, school_year]
+    columns:
+      - name: school_id
+        data_type: varchar
+        constraints: [{type: not_null}]
+        tests: [not_null]
+      - name: school_year
+        data_type: number
+        constraints: [{type: not_null}]
+      - name: school_name
+        data_type: varchar
+      - name: grade_band
+        data_type: varchar
+      - name: is_title1
+        data_type: boolean
+      - name: ward
+        data_type: number
+      - name: total_enrollment
+        data_type: number
+      - name: chronic_absenteeism_rate
+        data_type: float
+        tests:
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 0
+                max_value: 100
+      - name: ada_rate
+        data_type: float
+      - name: absenteeism_tier
+        data_type: varchar
+      - name: ela_proficiency_rate
+        data_type: float
+      - name: ela_suppressed
+        data_type: boolean
+      - name: math_proficiency_rate
+        data_type: float
+      - name: math_suppressed
+        data_type: boolean
+      - name: composite_proficiency_rate
+        data_type: float
+      - name: dbt_updated_at
+        data_type: timestamp_ntz

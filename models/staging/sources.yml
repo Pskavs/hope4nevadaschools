@@ -1,0 +1,42 @@
+version: 2
+
+sources:
+  - name: ccsd_seeds
+    description:
+      CCSD raw data loaded as dbt seeds from CSV exports sourced from the
+      Nevada Accountability Portal and CCSD Open Data.
+    database: CCSD_DEV
+    schema: DBT_CHRISTIAN_SEEDS
+
+    tables:
+      - name: ccsd_demographic
+        description: Annual enrollment counts by school, year, grade, gender, and ethnicity.
+        columns:
+          - name: organization_code
+            tests: [not_null]
+          - name: school_name
+            tests: [not_null]
+          - name: accountability_year
+            tests: [not_null]
+          - name: num_enrolled
+
+      - name: ccsd_assessment_3rd_8th_grade
+        description: CRT assessment proficiency rates by school and year.
+        columns:
+          - name: organization_code
+            tests: [not_null]
+          - name: school_name
+            tests: [not_null]
+          - name: school_year
+            tests: [not_null]
+
+      - name: ccsd_chronic_absenteeism
+        description: Chronic absenteeism rates by school and year.
+        columns:
+          - name: organization_code
+            tests: [not_null]
+          - name: school_name
+            tests: [not_null]
+          - name: accountability_year
+            tests: [not_null]
+          - name: chronic_absenteeism_rate

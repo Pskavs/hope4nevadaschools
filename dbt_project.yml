@@ -1,0 +1,60 @@
+name: 'ccsd_analytics'
+version: '1.0.0'
+config-version: 2
+
+profile: 'hope4nevadaschools'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+docs-paths: ["docs"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+# ──────────────────────────────────────────
+# Global model defaults + per-layer overrides
+# ──────────────────────────────────────────
+models:
+  ccsd_analytics:
+
+    staging:
+      +schema: staging
+      +materialized: view
+      +docs:
+        node_color: "#4A90D9"
+
+    marts:
+      +schema: marts
+      +materialized: table
+      +docs:
+        node_color: "#27AE60"
+
+      core:
+        +schema: marts_core
+
+seeds:
+  ccsd_analytics:
+    +schema: seeds
+    +quote_columns: false
+    ccsd_demographic:
+      +column_types:
+        Organizational Code: varchar
+    ccsd_assessment_3rd_8th_grade:
+      +column_types:
+        Organizational Code: varchar
+    ccsd_chronic_absenteeism:
+      +column_types:
+        Organizational Code: varchar
+
+vars:
+  ccsd_analytics:
+    # Override at runtime: dbt run --vars '{"start_year": 2022}'
+    start_year: 2019
+    current_school_year: '2023-2024'
+    min_enrollment_threshold: 10
