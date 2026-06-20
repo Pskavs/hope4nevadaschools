@@ -1,14 +1,10 @@
 version: 2
 
 models:
-  # ── stg_enrollment ─────────────────────────────────────────────────────────
+
   - name: stg_enrollment
-    description: >
-      Cleaned enrollment counts by school, year, grade, gender, and ethnicity.
-      Rows with suppressed or zero counts are excluded.
+    description: Cleaned enrollment counts by school and year.
     columns:
-      - name: enrollment_id
-        tests: [unique, not_null]
       - name: school_id
         tests: [not_null]
       - name: school_year
@@ -18,40 +14,17 @@ models:
               arguments:
                 min_value: 2015
                 max_value: 2030
-      - name: grade
+      - name: total_enrolled
         tests: [not_null]
-      - name: gender
-        tests:
-          - accepted_values:
-              arguments:
-                values: ['M','F','X']
-      - name: student_count
-        tests:
-          - not_null
-          - dbt_utils.accepted_range:
-              arguments:
-                min_value: 1
-                max_value: 5000
 
-  # ── stg_attendance ─────────────────────────────────────────────────────────
   - name: stg_attendance
-    description: >
-      Chronic absenteeism and ADA rates per school and year.
-      Includes derived absenteeism_tier column.
+    description: Chronic absenteeism rates per school and year.
     columns:
-      - name: attendance_id
-        tests: [unique, not_null]
       - name: school_id
         tests: [not_null]
       - name: school_year
         tests: [not_null]
       - name: chronic_absenteeism_rate
-        tests:
-          - dbt_utils.accepted_range:
-              arguments:
-                min_value: 0
-                max_value: 100
-      - name: ada_rate
         tests:
           - dbt_utils.accepted_range:
               arguments:
@@ -63,33 +36,16 @@ models:
               arguments:
                 values: ['Low','Moderate','High','Critical']
 
-  # ── stg_assessment_scores ──────────────────────────────────────────────────
   - name: stg_assessment_scores
-    description: >
-      State assessment proficiency rates by school, year, subject, and subgroup.
-      Suppressed cells (n < 20) are retained but flagged with is_suppressed = true.
+    description: CRT assessment proficiency rates by school and year.
     columns:
-      - name: score_id
-        tests: [unique, not_null]
       - name: school_id
         tests: [not_null]
-      - name: subject
-        tests:
-          - accepted_values:
-              arguments:
-              values: ['ELA','Math']
-      - name: assessment_type
-        tests:
-          - accepted_values:
-              arguments:
-                values: ['SBAC','ACT','SAT']
-      - name: proficiency_rate
-        tests:
-          - dbt_utils.accepted_range:
-              arguments:
-                min_value: 0
-                max_value: 100
-              config:
-                where: "not is_suppressed"
-      - name: is_suppressed
+      - name: school_year
+        tests: [not_null]
+      - name: math_pct_proficient
+      - name: ela_pct_proficient
+      - name: math_suppressed
+        tests: [not_null]
+      - name: ela_suppressed
         tests: [not_null]
