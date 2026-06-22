@@ -13667,3 +13667,41 @@ having count(*) > 1
 [0m16:57:40.272542 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F3225EDA90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F326EABE30>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F326EABEE0>]}
 [0m16:57:40.272855 [debug] [MainThread]: Flushing usage events
 [0m16:57:40.583365 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m17:00:00.159474 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023334A3E660>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000233317EB4D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023335E17ED0>]}
+
+
+============================== 17:00:00.163264 | a101b97f-a527-4576-bcc7-8a022e34b830 ==============================
+[0m17:00:00.163264 [info ] [MainThread]: Running with dbt=1.11.11
+[0m17:00:00.163662 [debug] [MainThread]: running dbt with arguments {'static_parser': 'True', 'no_print': 'None', 'version_check': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'printer_width': '80', 'write_json': 'True', 'empty': 'None', 'log_cache_events': 'False', 'introspect': 'True', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\ChristianPaskevicius\\.dbt', 'invocation_command': 'dbt ', 'use_colors': 'True', 'indirect_selection': 'eager', 'use_experimental_parser': 'False', 'log_path': 'c:\\Repos\\hope4nevadaschools\\logs'}
+[0m17:00:00.247306 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': 'a101b97f-a527-4576-bcc7-8a022e34b830', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002333515DBA0>]}
+[0m17:00:00.559997 [debug] [MainThread]: Set downloads directory='C:\Users\CHRIST~1\AppData\Local\Temp\dbt-downloads-dgqhmhe_'
+[0m17:00:00.560714 [debug] [MainThread]: Making package index registry request: GET https://hub.getdbt.com/api/v1/index.json
+[0m17:00:01.689392 [debug] [MainThread]: Response from registry index: GET https://hub.getdbt.com/api/v1/index.json 200
+[0m17:00:01.690548 [debug] [MainThread]: Making package registry request: GET https://hub.getdbt.com/api/v1/dbt-labs/dbt_utils.json
+[0m17:00:02.347536 [debug] [MainThread]: Response from registry: GET https://hub.getdbt.com/api/v1/dbt-labs/dbt_utils.json 200
+[0m17:00:02.352927 [debug] [MainThread]: Making package registry request: GET https://hub.getdbt.com/api/v1/dbt-labs/audit_helper.json
+[0m17:00:02.854135 [debug] [MainThread]: Response from registry: GET https://hub.getdbt.com/api/v1/dbt-labs/audit_helper.json 200
+[0m17:00:02.855887 [debug] [MainThread]: Making package registry request: GET https://hub.getdbt.com/api/v1/metaplane/dbt_expectations.json
+[0m17:00:03.345155 [debug] [MainThread]: Response from registry: GET https://hub.getdbt.com/api/v1/metaplane/dbt_expectations.json 200
+[0m17:00:03.348490 [debug] [MainThread]: Making package registry request: GET https://hub.getdbt.com/api/v1/godatadriven/dbt_date.json
+[0m17:00:03.873861 [debug] [MainThread]: Response from registry: GET https://hub.getdbt.com/api/v1/godatadriven/dbt_date.json 200
+[0m17:00:03.876387 [info ] [MainThread]: Installing dbt-labs/dbt_utils
+[0m17:00:04.632319 [info ] [MainThread]: Installed from version 1.4.0
+[0m17:00:04.632672 [info ] [MainThread]: Up to date!
+[0m17:00:04.632927 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'package', 'label': 'a101b97f-a527-4576-bcc7-8a022e34b830', 'property_': 'install', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023335E797B0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002333710C6B0>]}
+[0m17:00:04.633172 [info ] [MainThread]: Installing dbt-labs/audit_helper
+[0m17:00:05.101285 [info ] [MainThread]: Installed from version 0.14.0
+[0m17:00:05.101641 [info ] [MainThread]: Up to date!
+[0m17:00:05.102026 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'package', 'label': 'a101b97f-a527-4576-bcc7-8a022e34b830', 'property_': 'install', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023337110750>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023334A163F0>]}
+[0m17:00:05.102322 [info ] [MainThread]: Installing metaplane/dbt_expectations
+[0m17:00:06.612819 [info ] [MainThread]: Installed from version 0.10.10
+[0m17:00:06.613298 [info ] [MainThread]: Up to date!
+[0m17:00:06.613590 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'package', 'label': 'a101b97f-a527-4576-bcc7-8a022e34b830', 'property_': 'install', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023337042430>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002333707EB30>]}
+[0m17:00:06.613870 [info ] [MainThread]: Installing godatadriven/dbt_date
+[0m17:00:07.099801 [info ] [MainThread]: Installed from version 0.19.0
+[0m17:00:07.100326 [info ] [MainThread]: Up to date!
+[0m17:00:07.100630 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'package', 'label': 'a101b97f-a527-4576-bcc7-8a022e34b830', 'property_': 'install', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023335CB7590>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023335CB7DD0>]}
+[0m17:00:07.104580 [debug] [MainThread]: Command `cli deps` succeeded at 17:00:07.104440 after 7.12 seconds
+[0m17:00:07.104884 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023335D1AA40>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023335116350>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023335D0B070>]}
+[0m17:00:07.105129 [debug] [MainThread]: Flushing usage events
+[0m17:00:07.471102 [debug] [MainThread]: An error was encountered while trying to flush usage events

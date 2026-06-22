@@ -30,3 +30,5 @@ Thumbs.db
 # IDE
 .idea/
 *.iml
+
+dbt.logs
