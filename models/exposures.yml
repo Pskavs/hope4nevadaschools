@@ -1,0 +1,54 @@
+version: 2
+
+exposures:
+
+  # ── CCSD School Performance Dashboard ─────────────────────────────────────
+  - name: ccsd_school_performance_dashboard
+    label: "CCSD School Performance Dashboard"
+    type: dashboard
+    maturity: high
+    url: https://app.tableau.com/ccsd/school-performance   # replace with real URL
+    description: >
+      Tableau dashboard surfacing school-level enrollment, attendance, and
+      SBAC proficiency trends for CCSD leadership and the public.
+      Refreshed nightly after the dbt prod run.
+    depends_on:
+      - ref('fct_school_performance')
+      - ref('dim_schools')
+    owner:
+      name: Analytics Engineering Team
+      email: analytics@ccsd.net
+    tags: ['dashboard', 'tableau', 'school_performance']
+
+  # ── Enrollment Trends Report ───────────────────────────────────────────────
+  - name: enrollment_trends_report
+    label: "Annual Enrollment Trends Report"
+    type: ml          # downstream input to forecasting model
+    maturity: medium
+    description: >
+      Python-based enrollment forecasting model that reads fct_enrollment_trends
+      to project future year headcounts by school and grade band.
+      Used for facilities planning and budget allocation.
+    depends_on:
+      - ref('fct_enrollment_trends')
+      - ref('dim_schools')
+    owner:
+      name: Research & Accountability Office
+      email: research@ccsd.net
+    tags: ['forecast', 'enrollment', 'facilities']
+
+  # ── Nevada Report Card Export ──────────────────────────────────────────────
+  - name: nevada_report_card_extract
+    label: "Nevada Report Card Data Extract"
+    type: application
+    maturity: high
+    description: >
+      Nightly CSV extract sent to the Nevada Department of Education for
+      publication on the Nevada Report Card portal.
+      Derived from fct_school_performance filtered to SBAC subjects only.
+    depends_on:
+      - ref('fct_school_performance')
+    owner:
+      name: Data Governance Team
+      email: data-governance@ccsd.net
+    tags: ['state_reporting', 'nevada_doe', 'extract']
