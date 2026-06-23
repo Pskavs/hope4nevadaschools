@@ -13705,3 +13705,1220 @@ having count(*) > 1
 [0m17:00:07.104884 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023335D1AA40>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023335116350>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023335D0B070>]}
 [0m17:00:07.105129 [debug] [MainThread]: Flushing usage events
 [0m17:00:07.471102 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m16:48:57.225659 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002574398A900>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002574074B610>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025745D63ED0>]}
+
+
+============================== 16:48:57.229437 | 25290717-f6e6-4a67-8502-886bffaeea78 ==============================
+[0m16:48:57.229437 [info ] [MainThread]: Running with dbt=1.11.11
+[0m16:48:57.229859 [debug] [MainThread]: running dbt with arguments {'version_check': 'True', 'no_print': 'None', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'target_path': 'None', 'printer_width': '80', 'write_json': 'True', 'empty': 'None', 'log_cache_events': 'False', 'introspect': 'True', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\ChristianPaskevicius\\.dbt', 'use_colors': 'True', 'indirect_selection': 'eager', 'invocation_command': 'dbt test --select test_type:singular', 'use_experimental_parser': 'False', 'log_path': 'C:\\Repos\\hope4nevadaschools\\logs'}
+[0m16:48:57.865337 [debug] [MainThread]: Snowflake adapter: Setting snowflake.connector to ERROR (file logging only)
+[0m16:48:57.865723 [debug] [MainThread]: Snowflake adapter: Setting botocore to ERROR (file logging only)
+[0m16:48:57.865922 [debug] [MainThread]: Snowflake adapter: Setting boto3 to ERROR (file logging only)
+[0m16:48:58.053344 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '25290717-f6e6-4a67-8502-886bffaeea78', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000257440BDBA0>]}
+[0m16:48:58.095243 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '25290717-f6e6-4a67-8502-886bffaeea78', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025746D23130>]}
+[0m16:48:58.096932 [info ] [MainThread]: Registered adapter: snowflake=1.11.5
+[0m16:48:58.726961 [debug] [MainThread]: checksum: 30a8cc8fdcbf66701b0944d4ccce3fa46dd04b61e5df68b9f16d57b2e0e3f0be, vars: {}, profile: , target: , version: 1.11.11
+[0m16:49:05.087372 [debug] [MainThread]: Partial parsing enabled: 0 files deleted, 2 files added, 0 files changed.
+[0m16:49:05.087915 [debug] [MainThread]: Partial parsing: added file: ccsd_analytics://tests\assert_proficiency_not_negative.sql
+[0m16:49:05.088125 [debug] [MainThread]: Partial parsing: added file: ccsd_analytics://tests\assert_no_orphan_enrollments.sql
+[0m16:49:05.218455 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '25290717-f6e6-4a67-8502-886bffaeea78', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000257479CD250>]}
+[0m16:49:05.298186 [debug] [MainThread]: Wrote artifact WritableManifest to C:\Repos\hope4nevadaschools\target\manifest.json
+[0m16:49:05.332005 [debug] [MainThread]: Wrote artifact SemanticManifest to C:\Repos\hope4nevadaschools\target\semantic_manifest.json
+[0m16:49:05.353371 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '25290717-f6e6-4a67-8502-886bffaeea78', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000257472D0D70>]}
+[0m16:49:05.353733 [info ] [MainThread]: Found 6 models, 3 seeds, 30 data tests, 3 sources, 1010 macros
+[0m16:49:05.354031 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '25290717-f6e6-4a67-8502-886bffaeea78', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025747A550F0>]}
+[0m16:49:05.355274 [info ] [MainThread]: 
+[0m16:49:05.355595 [info ] [MainThread]: Concurrency: 4 threads (target='dev')
+[0m16:49:05.355887 [info ] [MainThread]: 
+[0m16:49:05.356371 [debug] [MainThread]: Acquiring new snowflake connection 'master'
+[0m16:49:05.359383 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV_dbt_christian_marts_core'
+[0m16:49:05.377207 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV_dbt_christian_staging'
+[0m16:49:05.382551 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV_dbt_christian_seeds'
+[0m16:49:11.224342 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV_dbt_christian_marts_core"
+[0m16:49:11.224981 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV_dbt_christian_seeds"
+[0m16:49:11.225314 [debug] [ThreadPool]: On list_CCSD_DEV_dbt_christian_marts_core: show objects in CCSD_DEV.dbt_christian_marts_core
+    limit 10000
+    
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV_dbt_christian_marts_core"} */;
+[0m16:49:11.225590 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV_dbt_christian_staging"
+[0m16:49:11.225859 [debug] [ThreadPool]: On list_CCSD_DEV_dbt_christian_seeds: show objects in CCSD_DEV.dbt_christian_seeds
+    limit 10000
+    
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV_dbt_christian_seeds"} */;
+[0m16:49:11.226071 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:49:11.226388 [debug] [ThreadPool]: On list_CCSD_DEV_dbt_christian_staging: show objects in CCSD_DEV.dbt_christian_staging
+    limit 10000
+    
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV_dbt_christian_staging"} */;
+[0m16:49:11.226715 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:49:11.226955 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:49:15.438118 [debug] [ThreadPool]: SQL status: SUCCESS 3 in 4.211 seconds
+[0m16:49:15.498031 [debug] [ThreadPool]: SQL status: SUCCESS 3 in 4.272 seconds
+[0m16:49:15.530937 [debug] [ThreadPool]: SQL status: SUCCESS 3 in 4.304 seconds
+[0m16:49:15.537209 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '25290717-f6e6-4a67-8502-886bffaeea78', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025746B94EF0>]}
+[0m16:49:15.552423 [debug] [Thread-2 (]: Began running node test.ccsd_analytics.assert_no_orphan_enrollments
+[0m16:49:15.553228 [debug] [Thread-3 (]: Began running node test.ccsd_analytics.assert_proficiency_not_negative
+[0m16:49:15.553707 [info ] [Thread-2 (]: 1 of 2 START test assert_no_orphan_enrollments ................................. [RUN]
+[0m16:49:15.554348 [info ] [Thread-3 (]: 2 of 2 START test assert_proficiency_not_negative .............................. [RUN]
+[0m16:49:15.555559 [debug] [Thread-2 (]: Acquiring new snowflake connection 'test.ccsd_analytics.assert_no_orphan_enrollments'
+[0m16:49:15.556557 [debug] [Thread-3 (]: Acquiring new snowflake connection 'test.ccsd_analytics.assert_proficiency_not_negative'
+[0m16:49:15.557137 [debug] [Thread-2 (]: Began compiling node test.ccsd_analytics.assert_no_orphan_enrollments
+[0m16:49:15.557717 [debug] [Thread-3 (]: Began compiling node test.ccsd_analytics.assert_proficiency_not_negative
+[0m16:49:15.562946 [debug] [Thread-2 (]: Writing injected SQL for node "test.ccsd_analytics.assert_no_orphan_enrollments"
+[0m16:49:15.564362 [debug] [Thread-3 (]: Writing injected SQL for node "test.ccsd_analytics.assert_proficiency_not_negative"
+[0m16:49:15.566840 [debug] [Thread-3 (]: Began executing node test.ccsd_analytics.assert_proficiency_not_negative
+[0m16:49:15.571421 [debug] [Thread-2 (]: Began executing node test.ccsd_analytics.assert_no_orphan_enrollments
+[0m16:49:15.590133 [debug] [Thread-3 (]: Writing runtime sql for node "test.ccsd_analytics.assert_proficiency_not_negative"
+[0m16:49:15.591091 [debug] [Thread-2 (]: Writing runtime sql for node "test.ccsd_analytics.assert_no_orphan_enrollments"
+[0m16:49:15.593099 [debug] [Thread-2 (]: Using snowflake connection "test.ccsd_analytics.assert_no_orphan_enrollments"
+[0m16:49:15.593614 [debug] [Thread-3 (]: Using snowflake connection "test.ccsd_analytics.assert_proficiency_not_negative"
+[0m16:49:15.593842 [debug] [Thread-2 (]: On test.ccsd_analytics.assert_no_orphan_enrollments: select
+      count(*) as failures,
+      count(*) != 0 as should_warn,
+      count(*) != 0 as should_error
+    from (
+      
+    
+  /*
+  This test fails if any enrollment record references a school_id that does not exist in dim_schools. This is a data integrity test to ensure that all enrollments are associated with valid schools.
+*/
+
+select
+    e.school_id,
+    e.school_year,
+    e.total_enrolled
+from CCSD_DEV.dbt_christian_marts_core.fct_enrollment_trends e
+left join CCSD_DEV.dbt_christian_marts_core.dim_schools s
+    on e.school_id = s.school_id
+where s.school_id is null
+  
+  
+      
+    ) dbt_internal_test
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "node_id": "test.ccsd_analytics.assert_no_orphan_enrollments"} */
+[0m16:49:15.594097 [debug] [Thread-3 (]: On test.ccsd_analytics.assert_proficiency_not_negative: select
+      count(*) as failures,
+      count(*) != 0 as should_warn,
+      count(*) != 0 as should_error
+    from (
+      
+    
+  /*
+  Fails if there is any proficiency_rate that is less than 0 or greater than 100. This is a data integrity test to ensure that all proficiency rates are within the valid range of 0 to 100.
+*/
+
+select
+    school_id,
+    school_year,
+    math_pct_proficient,
+    ela_pct_proficient
+from CCSD_DEV.dbt_christian_staging.stg_assessment_scores
+where (
+    (not math_suppressed and (math_pct_proficient < 0 or math_pct_proficient > 100))
+    or
+    (not ela_suppressed and (ela_pct_proficient < 0 or ela_pct_proficient > 100))
+)
+  
+  
+      
+    ) dbt_internal_test
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "node_id": "test.ccsd_analytics.assert_proficiency_not_negative"} */
+[0m16:49:15.594316 [debug] [Thread-2 (]: Opening a new connection, currently in state init
+[0m16:49:15.594510 [debug] [Thread-3 (]: Opening a new connection, currently in state init
+[0m16:49:17.163326 [debug] [Thread-3 (]: SQL status: SUCCESS 1 in 1.569 seconds
+[0m16:49:17.169267 [info ] [Thread-3 (]: 2 of 2 PASS assert_proficiency_not_negative .................................... [[32mPASS[0m in 1.61s]
+[0m16:49:17.169776 [debug] [Thread-3 (]: Finished running node test.ccsd_analytics.assert_proficiency_not_negative
+[0m16:49:17.631022 [debug] [Thread-2 (]: SQL status: SUCCESS 1 in 2.036 seconds
+[0m16:49:17.635992 [info ] [Thread-2 (]: 1 of 2 PASS assert_no_orphan_enrollments ....................................... [[32mPASS[0m in 2.08s]
+[0m16:49:17.637572 [debug] [Thread-2 (]: Finished running node test.ccsd_analytics.assert_no_orphan_enrollments
+[0m16:49:17.641413 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m16:49:17.642228 [debug] [MainThread]: Connection 'list_CCSD_DEV_dbt_christian_marts_core' was left open.
+[0m16:49:17.642880 [debug] [MainThread]: On list_CCSD_DEV_dbt_christian_marts_core: Close
+[0m16:49:17.819219 [debug] [MainThread]: Connection 'list_CCSD_DEV_dbt_christian_staging' was left open.
+[0m16:49:17.820178 [debug] [MainThread]: On list_CCSD_DEV_dbt_christian_staging: Close
+[0m16:49:18.047870 [debug] [MainThread]: Connection 'list_CCSD_DEV_dbt_christian_seeds' was left open.
+[0m16:49:18.048278 [debug] [MainThread]: On list_CCSD_DEV_dbt_christian_seeds: Close
+[0m16:49:18.248068 [debug] [MainThread]: Connection 'test.ccsd_analytics.assert_no_orphan_enrollments' was left open.
+[0m16:49:18.248438 [debug] [MainThread]: On test.ccsd_analytics.assert_no_orphan_enrollments: Close
+[0m16:49:18.440130 [debug] [MainThread]: Connection 'test.ccsd_analytics.assert_proficiency_not_negative' was left open.
+[0m16:49:18.440532 [debug] [MainThread]: On test.ccsd_analytics.assert_proficiency_not_negative: Close
+[0m16:49:18.600392 [info ] [MainThread]: 
+[0m16:49:18.600895 [info ] [MainThread]: Finished running 2 data tests in 0 hours 0 minutes and 13.24 seconds (13.24s).
+[0m16:49:18.601599 [debug] [MainThread]: Command end result
+[0m16:49:18.636897 [debug] [MainThread]: Wrote artifact WritableManifest to C:\Repos\hope4nevadaschools\target\manifest.json
+[0m16:49:18.641217 [debug] [MainThread]: Wrote artifact SemanticManifest to C:\Repos\hope4nevadaschools\target\semantic_manifest.json
+[0m16:49:18.647287 [debug] [MainThread]: Wrote artifact RunExecutionResult to C:\Repos\hope4nevadaschools\target\run_results.json
+[0m16:49:18.647524 [info ] [MainThread]: 
+[0m16:49:18.647919 [info ] [MainThread]: [32mCompleted successfully[0m
+[0m16:49:18.648210 [info ] [MainThread]: 
+[0m16:49:18.648497 [info ] [MainThread]: Done. PASS=2 WARN=0 ERROR=0 SKIP=0 NO-OP=0 TOTAL=2
+[0m16:49:18.649100 [debug] [MainThread]: Command `dbt test` succeeded at 16:49:18.649002 after 21.68 seconds
+[0m16:49:18.649392 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025744BFDA90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025749345860>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025749347E30>]}
+[0m16:49:18.649637 [debug] [MainThread]: Flushing usage events
+[0m16:49:18.985025 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m16:54:40.699918 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002616C37A900>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002616913B610>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002616E74FED0>]}
+
+
+============================== 16:54:40.703705 | dca5ea72-9125-4b98-903e-685a57b8b2d3 ==============================
+[0m16:54:40.703705 [info ] [MainThread]: Running with dbt=1.11.11
+[0m16:54:40.704134 [debug] [MainThread]: running dbt with arguments {'version_check': 'True', 'no_print': 'None', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'printer_width': '80', 'write_json': 'True', 'introspect': 'True', 'log_cache_events': 'False', 'empty': 'False', 'cache_selected_only': 'False', 'log_format': 'default', 'debug': 'False', 'fail_fast': 'False', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\ChristianPaskevicius\\.dbt', 'indirect_selection': 'eager', 'invocation_command': 'dbt snapshot', 'use_colors': 'True', 'use_experimental_parser': 'False', 'log_path': 'C:\\Repos\\hope4nevadaschools\\logs'}
+[0m16:54:41.100573 [debug] [MainThread]: Snowflake adapter: Setting snowflake.connector to ERROR (file logging only)
+[0m16:54:41.100962 [debug] [MainThread]: Snowflake adapter: Setting botocore to ERROR (file logging only)
+[0m16:54:41.101197 [debug] [MainThread]: Snowflake adapter: Setting boto3 to ERROR (file logging only)
+[0m16:54:41.230460 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': 'dca5ea72-9125-4b98-903e-685a57b8b2d3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002616CAADBA0>]}
+[0m16:54:41.269668 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': 'dca5ea72-9125-4b98-903e-685a57b8b2d3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002616F6C3130>]}
+[0m16:54:41.271474 [info ] [MainThread]: Registered adapter: snowflake=1.11.5
+[0m16:54:41.519484 [debug] [MainThread]: checksum: 30a8cc8fdcbf66701b0944d4ccce3fa46dd04b61e5df68b9f16d57b2e0e3f0be, vars: {}, profile: , target: , version: 1.11.11
+[0m16:54:41.746191 [debug] [MainThread]: Partial parsing enabled: 0 files deleted, 1 files added, 0 files changed.
+[0m16:54:41.746659 [debug] [MainThread]: Partial parsing: added file: ccsd_analytics://snapshots\scd_school_directory.sql
+[0m16:54:41.954127 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': 'dca5ea72-9125-4b98-903e-685a57b8b2d3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000026170371550>]}
+[0m16:54:42.043562 [debug] [MainThread]: Wrote artifact WritableManifest to C:\Repos\hope4nevadaschools\target\manifest.json
+[0m16:54:42.047805 [debug] [MainThread]: Wrote artifact SemanticManifest to C:\Repos\hope4nevadaschools\target\semantic_manifest.json
+[0m16:54:42.090287 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': 'dca5ea72-9125-4b98-903e-685a57b8b2d3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002616C4AFF20>]}
+[0m16:54:42.090669 [info ] [MainThread]: Found 6 models, 3 seeds, 30 data tests, 1 snapshot, 3 sources, 1010 macros
+[0m16:54:42.091152 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': 'dca5ea72-9125-4b98-903e-685a57b8b2d3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002617035E430>]}
+[0m16:54:42.092647 [info ] [MainThread]: 
+[0m16:54:42.093065 [info ] [MainThread]: Concurrency: 4 threads (target='dev')
+[0m16:54:42.093346 [info ] [MainThread]: 
+[0m16:54:42.093691 [debug] [MainThread]: Acquiring new snowflake connection 'master'
+[0m16:54:42.094646 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV'
+[0m16:54:42.178837 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV"
+[0m16:54:42.179143 [debug] [ThreadPool]: On list_CCSD_DEV: show terse schemas in database CCSD_DEV
+    limit 10000
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV"} */
+[0m16:54:42.179357 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:54:43.608633 [debug] [ThreadPool]: SQL status: SUCCESS 5 in 1.429 seconds
+[0m16:54:43.611275 [debug] [ThreadPool]: Re-using an available connection from the pool (formerly list_CCSD_DEV, now create_CCSD_DEV_snapshots)
+[0m16:54:43.612169 [debug] [ThreadPool]: Creating schema "database: "CCSD_DEV"
+schema: "snapshots"
+"
+[0m16:54:43.616301 [debug] [ThreadPool]: Using snowflake connection "create_CCSD_DEV_snapshots"
+[0m16:54:43.616534 [debug] [ThreadPool]: On create_CCSD_DEV_snapshots: create schema if not exists CCSD_DEV.snapshots
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "create_CCSD_DEV_snapshots"} */
+[0m16:54:44.128051 [debug] [ThreadPool]: SQL status: SUCCESS 1 in 0.511 seconds
+[0m16:54:44.141356 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV_dbt_christian_staging'
+[0m16:54:44.152778 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV_snapshots'
+[0m16:54:44.159148 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV_dbt_christian_staging"
+[0m16:54:44.160668 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV_snapshots"
+[0m16:54:44.160907 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV_dbt_christian_marts_core'
+[0m16:54:44.161153 [debug] [ThreadPool]: On list_CCSD_DEV_dbt_christian_staging: show objects in CCSD_DEV.dbt_christian_staging
+    limit 10000
+    
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV_dbt_christian_staging"} */;
+[0m16:54:44.161611 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV_dbt_christian_seeds'
+[0m16:54:44.161830 [debug] [ThreadPool]: On list_CCSD_DEV_snapshots: show objects in CCSD_DEV.snapshots
+    limit 10000
+    
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV_snapshots"} */;
+[0m16:54:44.163188 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV_dbt_christian_marts_core"
+[0m16:54:44.163418 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:54:44.164681 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV_dbt_christian_seeds"
+[0m16:54:44.164960 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:54:44.165246 [debug] [ThreadPool]: On list_CCSD_DEV_dbt_christian_marts_core: show objects in CCSD_DEV.dbt_christian_marts_core
+    limit 10000
+    
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV_dbt_christian_marts_core"} */;
+[0m16:54:44.165823 [debug] [ThreadPool]: On list_CCSD_DEV_dbt_christian_seeds: show objects in CCSD_DEV.dbt_christian_seeds
+    limit 10000
+    
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV_dbt_christian_seeds"} */;
+[0m16:54:44.166552 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:54:44.193633 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:54:44.957764 [debug] [ThreadPool]: SQL status: SUCCESS 0 in 0.793 seconds
+[0m16:54:44.977978 [debug] [ThreadPool]: SQL status: SUCCESS 3 in 0.784 seconds
+[0m16:54:45.026698 [debug] [ThreadPool]: SQL status: SUCCESS 3 in 0.863 seconds
+[0m16:54:45.128006 [debug] [ThreadPool]: SQL status: SUCCESS 3 in 0.961 seconds
+[0m16:54:45.135117 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': 'dca5ea72-9125-4b98-903e-685a57b8b2d3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000026170B57A00>]}
+[0m16:54:45.148339 [debug] [Thread-2 (]: Began running node snapshot.ccsd_analytics.scd_school_directory
+[0m16:54:45.149356 [info ] [Thread-2 (]: 1 of 1 START snapshot snapshots.scd_school_directory ........................... [RUN]
+[0m16:54:45.150453 [debug] [Thread-2 (]: Acquiring new snowflake connection 'snapshot.ccsd_analytics.scd_school_directory'
+[0m16:54:45.151078 [debug] [Thread-2 (]: Began compiling node snapshot.ccsd_analytics.scd_school_directory
+[0m16:54:45.164628 [debug] [Thread-2 (]: Began executing node snapshot.ccsd_analytics.scd_school_directory
+[0m16:54:45.218935 [debug] [Thread-2 (]: Using snowflake connection "snapshot.ccsd_analytics.scd_school_directory"
+[0m16:54:45.219340 [debug] [Thread-2 (]: On snapshot.ccsd_analytics.scd_school_directory: select * from (
+        
+    
+
+    select *,
+        md5(coalesce(cast(school_id as varchar ), '')
+         || '|' || coalesce(cast(to_timestamp_ntz(convert_timezone('UTC', current_timestamp())) as varchar ), '')
+        ) as dbt_scd_id,
+        to_timestamp_ntz(convert_timezone('UTC', current_timestamp())) as dbt_updated_at,
+        to_timestamp_ntz(convert_timezone('UTC', current_timestamp())) as dbt_valid_from,
+        
+  
+  coalesce(nullif(to_timestamp_ntz(convert_timezone('UTC', current_timestamp())), to_timestamp_ntz(convert_timezone('UTC', current_timestamp()))), null)
+  as dbt_valid_to
+from (
+        
+
+
+
+/*
+  Tracks changes to school directory information. This snapshot will create a new record for a school if the school_name changes, allowing us to maintain a history of school names over time.
+*/
+
+select *
+from CCSD_DEV.dbt_christian_marts_core.dim_schools
+
+    ) sbq
+
+
+
+    ) as __dbt_sbq
+    where false
+    limit 0
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "node_id": "snapshot.ccsd_analytics.scd_school_directory"} */
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "node_id": "snapshot.ccsd_analytics.scd_school_directory"} */
+[0m16:54:45.219572 [debug] [Thread-2 (]: Opening a new connection, currently in state init
+[0m16:54:46.453610 [debug] [Thread-2 (]: SQL status: SUCCESS 0 in 1.234 seconds
+[0m16:54:46.462678 [debug] [Thread-2 (]: Using snowflake connection "snapshot.ccsd_analytics.scd_school_directory"
+[0m16:54:46.463460 [debug] [Thread-2 (]: On snapshot.ccsd_analytics.scd_school_directory: select * from (
+        select to_timestamp_ntz(convert_timezone('UTC', current_timestamp())) as dbt_snapshot_time
+    ) as __dbt_sbq
+    where false
+    limit 0
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "node_id": "snapshot.ccsd_analytics.scd_school_directory"} */
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "node_id": "snapshot.ccsd_analytics.scd_school_directory"} */
+[0m16:54:46.680773 [debug] [Thread-2 (]: SQL status: SUCCESS 0 in 0.216 seconds
+[0m16:54:46.682802 [debug] [Thread-2 (]: Writing runtime sql for node "snapshot.ccsd_analytics.scd_school_directory"
+[0m16:54:46.690013 [debug] [Thread-2 (]: Using snowflake connection "snapshot.ccsd_analytics.scd_school_directory"
+[0m16:54:46.690720 [debug] [Thread-2 (]: On snapshot.ccsd_analytics.scd_school_directory: create or replace transient table CCSD_DEV.snapshots.scd_school_directory
+    
+    
+    
+    as (
+    
+
+    select *,
+        md5(coalesce(cast(school_id as varchar ), '')
+         || '|' || coalesce(cast(to_timestamp_ntz(convert_timezone('UTC', current_timestamp())) as varchar ), '')
+        ) as dbt_scd_id,
+        to_timestamp_ntz(convert_timezone('UTC', current_timestamp())) as dbt_updated_at,
+        to_timestamp_ntz(convert_timezone('UTC', current_timestamp())) as dbt_valid_from,
+        
+  
+  coalesce(nullif(to_timestamp_ntz(convert_timezone('UTC', current_timestamp())), to_timestamp_ntz(convert_timezone('UTC', current_timestamp()))), null)
+  as dbt_valid_to
+from (
+        
+
+
+
+/*
+  Tracks changes to school directory information. This snapshot will create a new record for a school if the school_name changes, allowing us to maintain a history of school names over time.
+*/
+
+select *
+from CCSD_DEV.dbt_christian_marts_core.dim_schools
+
+    ) sbq
+
+
+
+    )
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "node_id": "snapshot.ccsd_analytics.scd_school_directory"} */;
+[0m16:54:47.056244 [debug] [Thread-2 (]: Snowflake adapter: Snowflake query id: 01c53ada-0209-85e0-0026-efd30038106e
+[0m16:54:47.057371 [debug] [Thread-2 (]: Snowflake adapter: Snowflake error: 002025 (42S21): SQL compilation error:
+duplicate column name 'DBT_UPDATED_AT'
+[0m16:54:47.090816 [debug] [Thread-2 (]: Database Error in snapshot scd_school_directory (snapshots\scd_school_directory.sql)
+  002025 (42S21): SQL compilation error:
+  duplicate column name 'DBT_UPDATED_AT'
+  compiled code at target\run\ccsd_analytics\snapshots\scd_school_directory.sql
+[0m16:54:47.092923 [debug] [Thread-2 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': 'dca5ea72-9125-4b98-903e-685a57b8b2d3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000261707AF950>]}
+[0m16:54:47.093486 [error] [Thread-2 (]: 1 of 1 ERROR snapshotting snapshots.scd_school_directory ....................... [[31mERROR[0m in 1.94s]
+[0m16:54:47.094231 [debug] [Thread-2 (]: Finished running node snapshot.ccsd_analytics.scd_school_directory
+[0m16:54:47.095026 [debug] [Thread-8 (]: Marking all children of 'snapshot.ccsd_analytics.scd_school_directory' to be skipped because of status 'error'.  Reason: Database Error in snapshot scd_school_directory (snapshots\scd_school_directory.sql)
+  002025 (42S21): SQL compilation error:
+  duplicate column name 'DBT_UPDATED_AT'
+  compiled code at target\run\ccsd_analytics\snapshots\scd_school_directory.sql.
+[0m16:54:47.096955 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m16:54:47.097168 [debug] [MainThread]: Connection 'create_CCSD_DEV_snapshots' was left open.
+[0m16:54:47.097343 [debug] [MainThread]: On create_CCSD_DEV_snapshots: Close
+[0m16:54:47.225930 [debug] [MainThread]: Connection 'list_CCSD_DEV_dbt_christian_staging' was left open.
+[0m16:54:47.227025 [debug] [MainThread]: On list_CCSD_DEV_dbt_christian_staging: Close
+[0m16:54:47.357710 [debug] [MainThread]: Connection 'list_CCSD_DEV_snapshots' was left open.
+[0m16:54:47.358094 [debug] [MainThread]: On list_CCSD_DEV_snapshots: Close
+[0m16:54:47.556163 [debug] [MainThread]: Connection 'list_CCSD_DEV_dbt_christian_marts_core' was left open.
+[0m16:54:47.556769 [debug] [MainThread]: On list_CCSD_DEV_dbt_christian_marts_core: Close
+[0m16:54:47.701206 [debug] [MainThread]: Connection 'list_CCSD_DEV_dbt_christian_seeds' was left open.
+[0m16:54:47.701579 [debug] [MainThread]: On list_CCSD_DEV_dbt_christian_seeds: Close
+[0m16:54:47.850401 [debug] [MainThread]: Connection 'snapshot.ccsd_analytics.scd_school_directory' was left open.
+[0m16:54:47.850739 [debug] [MainThread]: On snapshot.ccsd_analytics.scd_school_directory: Close
+[0m16:54:48.003335 [info ] [MainThread]: 
+[0m16:54:48.004068 [info ] [MainThread]: Finished running 1 snapshot in 0 hours 0 minutes and 5.91 seconds (5.91s).
+[0m16:54:48.005013 [debug] [MainThread]: Command end result
+[0m16:54:48.044706 [debug] [MainThread]: Wrote artifact WritableManifest to C:\Repos\hope4nevadaschools\target\manifest.json
+[0m16:54:48.047756 [debug] [MainThread]: Wrote artifact SemanticManifest to C:\Repos\hope4nevadaschools\target\semantic_manifest.json
+[0m16:54:48.052244 [debug] [MainThread]: Wrote artifact RunExecutionResult to C:\Repos\hope4nevadaschools\target\run_results.json
+[0m16:54:48.052470 [info ] [MainThread]: 
+[0m16:54:48.052768 [info ] [MainThread]: [31mCompleted with 1 error, 0 partial successes, and 0 warnings:[0m
+[0m16:54:48.053261 [info ] [MainThread]: 
+[0m16:54:48.053760 [error] [MainThread]: [31mFailure in snapshot scd_school_directory (snapshots\scd_school_directory.sql)[0m
+[0m16:54:48.054193 [error] [MainThread]:   Database Error in snapshot scd_school_directory (snapshots\scd_school_directory.sql)
+  002025 (42S21): SQL compilation error:
+  duplicate column name 'DBT_UPDATED_AT'
+  compiled code at target\run\ccsd_analytics\snapshots\scd_school_directory.sql
+[0m16:54:48.054616 [info ] [MainThread]: 
+[0m16:54:48.054965 [info ] [MainThread]: Done. PASS=0 WARN=0 ERROR=1 SKIP=0 NO-OP=0 TOTAL=1
+[0m16:54:48.055733 [debug] [MainThread]: Command `dbt snapshot` failed at 16:54:48.055624 after 7.53 seconds
+[0m16:54:48.055995 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000026171D87CD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000026170B95D10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000026170B97BB0>]}
+[0m16:54:48.056224 [debug] [MainThread]: Flushing usage events
+[0m16:54:48.508583 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m16:56:57.061280 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000197C353A900>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000197C030B610>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000197C5913ED0>]}
+
+
+============================== 16:56:57.065189 | 6c1514c8-ae61-4b27-a948-f40ce016fa2a ==============================
+[0m16:56:57.065189 [info ] [MainThread]: Running with dbt=1.11.11
+[0m16:56:57.065717 [debug] [MainThread]: running dbt with arguments {'static_parser': 'True', 'no_print': 'None', 'version_check': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'target_path': 'None', 'printer_width': '80', 'write_json': 'True', 'introspect': 'True', 'log_cache_events': 'False', 'empty': 'False', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'profiles_dir': 'C:\\Users\\ChristianPaskevicius\\.dbt', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'partial_parse': 'True', 'indirect_selection': 'eager', 'use_colors': 'True', 'invocation_command': 'dbt snapshot', 'use_experimental_parser': 'False', 'log_path': 'C:\\Repos\\hope4nevadaschools\\logs'}
+[0m16:56:57.480073 [debug] [MainThread]: Snowflake adapter: Setting snowflake.connector to ERROR (file logging only)
+[0m16:56:57.480547 [debug] [MainThread]: Snowflake adapter: Setting botocore to ERROR (file logging only)
+[0m16:56:57.480755 [debug] [MainThread]: Snowflake adapter: Setting boto3 to ERROR (file logging only)
+[0m16:56:57.607039 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '6c1514c8-ae61-4b27-a948-f40ce016fa2a', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000197C3C6DBA0>]}
+[0m16:56:57.645540 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '6c1514c8-ae61-4b27-a948-f40ce016fa2a', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000197C6833130>]}
+[0m16:56:57.646862 [info ] [MainThread]: Registered adapter: snowflake=1.11.5
+[0m16:56:57.891459 [debug] [MainThread]: checksum: 30a8cc8fdcbf66701b0944d4ccce3fa46dd04b61e5df68b9f16d57b2e0e3f0be, vars: {}, profile: , target: , version: 1.11.11
+[0m16:56:58.117589 [debug] [MainThread]: Partial parsing enabled: 0 files deleted, 0 files added, 1 files changed.
+[0m16:56:58.118124 [debug] [MainThread]: Partial parsing: updated file: ccsd_analytics://snapshots\scd_school_directory.sql
+[0m16:56:58.311387 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '6c1514c8-ae61-4b27-a948-f40ce016fa2a', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000197C67F7A50>]}
+[0m16:56:58.404560 [debug] [MainThread]: Wrote artifact WritableManifest to C:\Repos\hope4nevadaschools\target\manifest.json
+[0m16:56:58.407636 [debug] [MainThread]: Wrote artifact SemanticManifest to C:\Repos\hope4nevadaschools\target\semantic_manifest.json
+[0m16:56:58.421533 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '6c1514c8-ae61-4b27-a948-f40ce016fa2a', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000197C366F4D0>]}
+[0m16:56:58.421886 [info ] [MainThread]: Found 6 models, 3 seeds, 30 data tests, 1 snapshot, 3 sources, 1010 macros
+[0m16:56:58.422493 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '6c1514c8-ae61-4b27-a948-f40ce016fa2a', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000197C773D010>]}
+[0m16:56:58.425158 [info ] [MainThread]: 
+[0m16:56:58.425547 [info ] [MainThread]: Concurrency: 4 threads (target='dev')
+[0m16:56:58.425756 [info ] [MainThread]: 
+[0m16:56:58.426108 [debug] [MainThread]: Acquiring new snowflake connection 'master'
+[0m16:56:58.426883 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV'
+[0m16:56:58.510562 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV"
+[0m16:56:58.510894 [debug] [ThreadPool]: On list_CCSD_DEV: show terse schemas in database CCSD_DEV
+    limit 10000
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV"} */
+[0m16:56:58.511081 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:56:59.783972 [debug] [ThreadPool]: SQL status: SUCCESS 6 in 1.273 seconds
+[0m16:56:59.789357 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV_dbt_christian_marts_core'
+[0m16:56:59.797398 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV_snapshots'
+[0m16:56:59.797999 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV_dbt_christian_marts_core"
+[0m16:56:59.799727 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV_snapshots"
+[0m16:56:59.800040 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV_dbt_christian_seeds'
+[0m16:56:59.800426 [debug] [ThreadPool]: On list_CCSD_DEV_dbt_christian_marts_core: show objects in CCSD_DEV.dbt_christian_marts_core
+    limit 10000
+    
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV_dbt_christian_marts_core"} */;
+[0m16:56:59.800976 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV_dbt_christian_staging'
+[0m16:56:59.801192 [debug] [ThreadPool]: On list_CCSD_DEV_snapshots: show objects in CCSD_DEV.snapshots
+    limit 10000
+    
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV_snapshots"} */;
+[0m16:56:59.802677 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV_dbt_christian_seeds"
+[0m16:56:59.803086 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:56:59.804506 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV_dbt_christian_staging"
+[0m16:56:59.804802 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:56:59.805063 [debug] [ThreadPool]: On list_CCSD_DEV_dbt_christian_seeds: show objects in CCSD_DEV.dbt_christian_seeds
+    limit 10000
+    
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV_dbt_christian_seeds"} */;
+[0m16:56:59.805491 [debug] [ThreadPool]: On list_CCSD_DEV_dbt_christian_staging: show objects in CCSD_DEV.dbt_christian_staging
+    limit 10000
+    
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV_dbt_christian_staging"} */;
+[0m16:56:59.805859 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:56:59.806083 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:57:00.329841 [debug] [ThreadPool]: SQL status: SUCCESS 0 in 0.525 seconds
+[0m16:57:00.397587 [debug] [ThreadPool]: SQL status: SUCCESS 3 in 0.592 seconds
+[0m16:57:00.453364 [debug] [ThreadPool]: SQL status: SUCCESS 3 in 0.647 seconds
+[0m16:57:00.634607 [debug] [ThreadPool]: SQL status: SUCCESS 3 in 0.831 seconds
+[0m16:57:00.641574 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '6c1514c8-ae61-4b27-a948-f40ce016fa2a', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000197C6DC7040>]}
+[0m16:57:00.655763 [debug] [Thread-2 (]: Began running node snapshot.ccsd_analytics.scd_school_directory
+[0m16:57:00.656958 [info ] [Thread-2 (]: 1 of 1 START snapshot snapshots.scd_school_directory ........................... [RUN]
+[0m16:57:00.658269 [debug] [Thread-2 (]: Acquiring new snowflake connection 'snapshot.ccsd_analytics.scd_school_directory'
+[0m16:57:00.658996 [debug] [Thread-2 (]: Began compiling node snapshot.ccsd_analytics.scd_school_directory
+[0m16:57:00.665976 [debug] [Thread-2 (]: Began executing node snapshot.ccsd_analytics.scd_school_directory
+[0m16:57:00.719797 [debug] [Thread-2 (]: Using snowflake connection "snapshot.ccsd_analytics.scd_school_directory"
+[0m16:57:00.720177 [debug] [Thread-2 (]: On snapshot.ccsd_analytics.scd_school_directory: select * from (
+        
+    
+
+    select *,
+        md5(coalesce(cast(school_id as varchar ), '')
+         || '|' || coalesce(cast(to_timestamp_ntz(convert_timezone('UTC', current_timestamp())) as varchar ), '')
+        ) as dbt_scd_id,
+        to_timestamp_ntz(convert_timezone('UTC', current_timestamp())) as dbt_updated_at,
+        to_timestamp_ntz(convert_timezone('UTC', current_timestamp())) as dbt_valid_from,
+        
+  
+  coalesce(nullif(to_timestamp_ntz(convert_timezone('UTC', current_timestamp())), to_timestamp_ntz(convert_timezone('UTC', current_timestamp()))), null)
+  as dbt_valid_to
+from (
+        
+
+
+
+select
+    school_id,
+    school_name
+from CCSD_DEV.dbt_christian_marts_core.dim_schools
+
+    ) sbq
+
+
+
+    ) as __dbt_sbq
+    where false
+    limit 0
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "node_id": "snapshot.ccsd_analytics.scd_school_directory"} */
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "node_id": "snapshot.ccsd_analytics.scd_school_directory"} */
+[0m16:57:00.720452 [debug] [Thread-2 (]: Opening a new connection, currently in state init
+[0m16:57:01.899477 [debug] [Thread-2 (]: SQL status: SUCCESS 0 in 1.179 seconds
+[0m16:57:01.906667 [debug] [Thread-2 (]: Using snowflake connection "snapshot.ccsd_analytics.scd_school_directory"
+[0m16:57:01.907458 [debug] [Thread-2 (]: On snapshot.ccsd_analytics.scd_school_directory: select * from (
+        select to_timestamp_ntz(convert_timezone('UTC', current_timestamp())) as dbt_snapshot_time
+    ) as __dbt_sbq
+    where false
+    limit 0
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "node_id": "snapshot.ccsd_analytics.scd_school_directory"} */
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "node_id": "snapshot.ccsd_analytics.scd_school_directory"} */
+[0m16:57:02.109359 [debug] [Thread-2 (]: SQL status: SUCCESS 0 in 0.201 seconds
+[0m16:57:02.111552 [debug] [Thread-2 (]: Writing runtime sql for node "snapshot.ccsd_analytics.scd_school_directory"
+[0m16:57:02.116632 [debug] [Thread-2 (]: Using snowflake connection "snapshot.ccsd_analytics.scd_school_directory"
+[0m16:57:02.117380 [debug] [Thread-2 (]: On snapshot.ccsd_analytics.scd_school_directory: create or replace transient table CCSD_DEV.snapshots.scd_school_directory
+    
+    
+    
+    as (
+    
+
+    select *,
+        md5(coalesce(cast(school_id as varchar ), '')
+         || '|' || coalesce(cast(to_timestamp_ntz(convert_timezone('UTC', current_timestamp())) as varchar ), '')
+        ) as dbt_scd_id,
+        to_timestamp_ntz(convert_timezone('UTC', current_timestamp())) as dbt_updated_at,
+        to_timestamp_ntz(convert_timezone('UTC', current_timestamp())) as dbt_valid_from,
+        
+  
+  coalesce(nullif(to_timestamp_ntz(convert_timezone('UTC', current_timestamp())), to_timestamp_ntz(convert_timezone('UTC', current_timestamp()))), null)
+  as dbt_valid_to
+from (
+        
+
+
+
+select
+    school_id,
+    school_name
+from CCSD_DEV.dbt_christian_marts_core.dim_schools
+
+    ) sbq
+
+
+
+    )
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "node_id": "snapshot.ccsd_analytics.scd_school_directory"} */;
+[0m16:57:03.440471 [debug] [Thread-2 (]: SQL status: SUCCESS 320 in 1.322 seconds
+[0m16:57:03.481699 [debug] [Thread-2 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '6c1514c8-ae61-4b27-a948-f40ce016fa2a', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000197C7C83B90>]}
+[0m16:57:03.482540 [info ] [Thread-2 (]: 1 of 1 OK snapshotted snapshots.scd_school_directory ........................... [[32mSUCCESS 320[0m in 2.82s]
+[0m16:57:03.483505 [debug] [Thread-2 (]: Finished running node snapshot.ccsd_analytics.scd_school_directory
+[0m16:57:03.486405 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m16:57:03.487233 [debug] [MainThread]: Connection 'list_CCSD_DEV' was left open.
+[0m16:57:03.487982 [debug] [MainThread]: On list_CCSD_DEV: Close
+[0m16:57:03.684778 [debug] [MainThread]: Connection 'list_CCSD_DEV_dbt_christian_marts_core' was left open.
+[0m16:57:03.685464 [debug] [MainThread]: On list_CCSD_DEV_dbt_christian_marts_core: Close
+[0m16:57:03.846835 [debug] [MainThread]: Connection 'list_CCSD_DEV_snapshots' was left open.
+[0m16:57:03.848102 [debug] [MainThread]: On list_CCSD_DEV_snapshots: Close
+[0m16:57:04.041598 [debug] [MainThread]: Connection 'list_CCSD_DEV_dbt_christian_seeds' was left open.
+[0m16:57:04.043128 [debug] [MainThread]: On list_CCSD_DEV_dbt_christian_seeds: Close
+[0m16:57:04.201877 [debug] [MainThread]: Connection 'list_CCSD_DEV_dbt_christian_staging' was left open.
+[0m16:57:04.203105 [debug] [MainThread]: On list_CCSD_DEV_dbt_christian_staging: Close
+[0m16:57:04.351931 [debug] [MainThread]: Connection 'snapshot.ccsd_analytics.scd_school_directory' was left open.
+[0m16:57:04.352297 [debug] [MainThread]: On snapshot.ccsd_analytics.scd_school_directory: Close
+[0m16:57:04.565329 [info ] [MainThread]: 
+[0m16:57:04.566780 [info ] [MainThread]: Finished running 1 snapshot in 0 hours 0 minutes and 6.14 seconds (6.14s).
+[0m16:57:04.568569 [debug] [MainThread]: Command end result
+[0m16:57:04.623627 [debug] [MainThread]: Wrote artifact WritableManifest to C:\Repos\hope4nevadaschools\target\manifest.json
+[0m16:57:04.626552 [debug] [MainThread]: Wrote artifact SemanticManifest to C:\Repos\hope4nevadaschools\target\semantic_manifest.json
+[0m16:57:04.631541 [debug] [MainThread]: Wrote artifact RunExecutionResult to C:\Repos\hope4nevadaschools\target\run_results.json
+[0m16:57:04.631778 [info ] [MainThread]: 
+[0m16:57:04.632423 [info ] [MainThread]: [32mCompleted successfully[0m
+[0m16:57:04.633004 [info ] [MainThread]: 
+[0m16:57:04.633286 [info ] [MainThread]: Done. PASS=1 WARN=0 ERROR=0 SKIP=0 NO-OP=0 TOTAL=1
+[0m16:57:04.633897 [debug] [MainThread]: Command `dbt snapshot` succeeded at 16:57:04.633820 after 7.75 seconds
+[0m16:57:04.634137 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000197C8EF3CD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000197C8DFBED0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000197C8DFBC50>]}
+[0m16:57:04.634355 [debug] [MainThread]: Flushing usage events
+[0m16:57:04.928734 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m16:58:46.668307 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FFDC14A900>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FFD8F7B610>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FFDE527C50>]}
+
+
+============================== 16:58:46.671980 | 5c644fef-fe3b-4d0b-84f7-11bcc2e878c8 ==============================
+[0m16:58:46.671980 [info ] [MainThread]: Running with dbt=1.11.11
+[0m16:58:46.672369 [debug] [MainThread]: running dbt with arguments {'static_parser': 'True', 'no_print': 'None', 'version_check': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'target_path': 'None', 'printer_width': '80', 'write_json': 'True', 'empty': 'None', 'log_cache_events': 'False', 'introspect': 'True', 'cache_selected_only': 'False', 'log_format': 'default', 'debug': 'False', 'fail_fast': 'False', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\ChristianPaskevicius\\.dbt', 'indirect_selection': 'eager', 'use_colors': 'True', 'invocation_command': 'dbt docs generate', 'use_experimental_parser': 'False', 'log_path': 'C:\\Repos\\hope4nevadaschools\\logs'}
+[0m16:58:47.068174 [debug] [MainThread]: Snowflake adapter: Setting snowflake.connector to ERROR (file logging only)
+[0m16:58:47.068526 [debug] [MainThread]: Snowflake adapter: Setting botocore to ERROR (file logging only)
+[0m16:58:47.068730 [debug] [MainThread]: Snowflake adapter: Setting boto3 to ERROR (file logging only)
+[0m16:58:47.188633 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '5c644fef-fe3b-4d0b-84f7-11bcc2e878c8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FFDC88DBA0>]}
+[0m16:58:47.225175 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '5c644fef-fe3b-4d0b-84f7-11bcc2e878c8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FFDF483130>]}
+[0m16:58:47.226919 [info ] [MainThread]: Registered adapter: snowflake=1.11.5
+[0m16:58:47.462327 [debug] [MainThread]: checksum: 30a8cc8fdcbf66701b0944d4ccce3fa46dd04b61e5df68b9f16d57b2e0e3f0be, vars: {}, profile: , target: , version: 1.11.11
+[0m16:58:47.660296 [debug] [MainThread]: Partial parsing enabled: 0 files deleted, 0 files added, 0 files changed.
+[0m16:58:47.660610 [debug] [MainThread]: Nothing changed, skipping partial parsing.
+[0m16:58:47.660803 [debug] [MainThread]: Partial parsing enabled, no changes found, skipping parsing
+[0m16:58:47.699107 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '5c644fef-fe3b-4d0b-84f7-11bcc2e878c8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FFDF8CB650>]}
+[0m16:58:47.767356 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '5c644fef-fe3b-4d0b-84f7-11bcc2e878c8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FFDFB6AD50>]}
+[0m16:58:47.767751 [info ] [MainThread]: Found 6 models, 3 seeds, 30 data tests, 1 snapshot, 3 sources, 1010 macros
+[0m16:58:47.768027 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '5c644fef-fe3b-4d0b-84f7-11bcc2e878c8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FFE014B850>]}
+[0m16:58:47.769701 [info ] [MainThread]: 
+[0m16:58:47.770012 [info ] [MainThread]: Concurrency: 4 threads (target='dev')
+[0m16:58:47.770240 [info ] [MainThread]: 
+[0m16:58:47.770580 [debug] [MainThread]: Acquiring new snowflake connection 'master'
+[0m16:58:47.773481 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV_dbt_christian_marts_core'
+[0m16:58:47.780112 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV_snapshots'
+[0m16:58:47.790192 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV_dbt_christian_staging'
+[0m16:58:47.792879 [debug] [ThreadPool]: Acquiring new snowflake connection 'list_CCSD_DEV_dbt_christian_seeds'
+[0m16:58:47.870514 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV_snapshots"
+[0m16:58:47.870816 [debug] [ThreadPool]: On list_CCSD_DEV_snapshots: show objects in CCSD_DEV.snapshots
+    limit 10000
+    
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV_snapshots"} */;
+[0m16:58:47.871000 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:58:47.871283 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV_dbt_christian_staging"
+[0m16:58:47.871753 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV_dbt_christian_seeds"
+[0m16:58:47.871981 [debug] [ThreadPool]: On list_CCSD_DEV_dbt_christian_staging: show objects in CCSD_DEV.dbt_christian_staging
+    limit 10000
+    
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV_dbt_christian_staging"} */;
+[0m16:58:47.872163 [debug] [ThreadPool]: On list_CCSD_DEV_dbt_christian_seeds: show objects in CCSD_DEV.dbt_christian_seeds
+    limit 10000
+    
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV_dbt_christian_seeds"} */;
+[0m16:58:47.872438 [debug] [ThreadPool]: Using snowflake connection "list_CCSD_DEV_dbt_christian_marts_core"
+[0m16:58:47.872668 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:58:47.872938 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:58:47.873166 [debug] [ThreadPool]: On list_CCSD_DEV_dbt_christian_marts_core: show objects in CCSD_DEV.dbt_christian_marts_core
+    limit 10000
+    
+
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "list_CCSD_DEV_dbt_christian_marts_core"} */;
+[0m16:58:47.873629 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:58:48.864109 [debug] [ThreadPool]: SQL status: SUCCESS 1 in 0.993 seconds
+[0m16:58:48.871498 [debug] [ThreadPool]: SQL status: SUCCESS 3 in 0.998 seconds
+[0m16:58:49.153621 [debug] [ThreadPool]: SQL status: SUCCESS 3 in 1.281 seconds
+[0m16:58:49.216788 [debug] [ThreadPool]: SQL status: SUCCESS 3 in 1.344 seconds
+[0m16:58:49.220364 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '5c644fef-fe3b-4d0b-84f7-11bcc2e878c8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FFDFACE5B0>]}
+[0m16:58:49.226007 [debug] [Thread-3 (]: Began running node model.ccsd_analytics.stg_attendance
+[0m16:58:49.226498 [debug] [Thread-4 (]: Began running node model.ccsd_analytics.stg_enrollment
+[0m16:58:49.226762 [debug] [Thread-2 (]: Began running node model.ccsd_analytics.stg_assessment_scores
+[0m16:58:49.226967 [debug] [Thread-5 (]: Began running node seed.ccsd_analytics.ccsd_assessment_3rd_8th_grade
+[0m16:58:49.227339 [debug] [Thread-3 (]: Acquiring new snowflake connection 'model.ccsd_analytics.stg_attendance'
+[0m16:58:49.227708 [debug] [Thread-4 (]: Acquiring new snowflake connection 'model.ccsd_analytics.stg_enrollment'
+[0m16:58:49.227998 [debug] [Thread-2 (]: Acquiring new snowflake connection 'model.ccsd_analytics.stg_assessment_scores'
+[0m16:58:49.228274 [debug] [Thread-5 (]: Acquiring new snowflake connection 'seed.ccsd_analytics.ccsd_assessment_3rd_8th_grade'
+[0m16:58:49.228495 [debug] [Thread-3 (]: Began compiling node model.ccsd_analytics.stg_attendance
+[0m16:58:49.228690 [debug] [Thread-4 (]: Began compiling node model.ccsd_analytics.stg_enrollment
+[0m16:58:49.228877 [debug] [Thread-2 (]: Began compiling node model.ccsd_analytics.stg_assessment_scores
+[0m16:58:49.229058 [debug] [Thread-5 (]: Began compiling node seed.ccsd_analytics.ccsd_assessment_3rd_8th_grade
+[0m16:58:49.235799 [debug] [Thread-3 (]: Writing injected SQL for node "model.ccsd_analytics.stg_attendance"
+[0m16:58:49.238409 [debug] [Thread-4 (]: Writing injected SQL for node "model.ccsd_analytics.stg_enrollment"
+[0m16:58:49.240642 [debug] [Thread-2 (]: Writing injected SQL for node "model.ccsd_analytics.stg_assessment_scores"
+[0m16:58:49.241824 [debug] [Thread-5 (]: Began executing node seed.ccsd_analytics.ccsd_assessment_3rd_8th_grade
+[0m16:58:49.242783 [debug] [Thread-5 (]: Finished running node seed.ccsd_analytics.ccsd_assessment_3rd_8th_grade
+[0m16:58:49.243226 [debug] [Thread-5 (]: Began running node seed.ccsd_analytics.ccsd_chronic_absenteeism
+[0m16:58:49.243719 [debug] [Thread-5 (]: Re-using an available connection from the pool (formerly seed.ccsd_analytics.ccsd_assessment_3rd_8th_grade, now seed.ccsd_analytics.ccsd_chronic_absenteeism)
+[0m16:58:49.244039 [debug] [Thread-5 (]: Began compiling node seed.ccsd_analytics.ccsd_chronic_absenteeism
+[0m16:58:49.245044 [debug] [Thread-5 (]: Began executing node seed.ccsd_analytics.ccsd_chronic_absenteeism
+[0m16:58:49.245344 [debug] [Thread-3 (]: Began executing node model.ccsd_analytics.stg_attendance
+[0m16:58:49.245925 [debug] [Thread-5 (]: Finished running node seed.ccsd_analytics.ccsd_chronic_absenteeism
+[0m16:58:49.246436 [debug] [Thread-3 (]: Finished running node model.ccsd_analytics.stg_attendance
+[0m16:58:49.247158 [debug] [Thread-5 (]: Began running node seed.ccsd_analytics.ccsd_demographic
+[0m16:58:49.246653 [debug] [Thread-4 (]: Began executing node model.ccsd_analytics.stg_enrollment
+[0m16:58:49.247489 [debug] [Thread-2 (]: Began executing node model.ccsd_analytics.stg_assessment_scores
+[0m16:58:49.247741 [debug] [Thread-3 (]: Began running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_organization_code.033d4dc481
+[0m16:58:49.248026 [debug] [Thread-5 (]: Re-using an available connection from the pool (formerly seed.ccsd_analytics.ccsd_chronic_absenteeism, now seed.ccsd_analytics.ccsd_demographic)
+[0m16:58:49.248560 [debug] [Thread-4 (]: Finished running node model.ccsd_analytics.stg_enrollment
+[0m16:58:49.248970 [debug] [Thread-2 (]: Finished running node model.ccsd_analytics.stg_assessment_scores
+[0m16:58:49.249228 [debug] [Thread-3 (]: Re-using an available connection from the pool (formerly model.ccsd_analytics.stg_attendance, now test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_organization_code.033d4dc481)
+[0m16:58:49.249515 [debug] [Thread-5 (]: Began compiling node seed.ccsd_analytics.ccsd_demographic
+[0m16:58:49.249793 [debug] [Thread-4 (]: Began running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_school_name.0cb356ad31
+[0m16:58:49.250118 [debug] [Thread-2 (]: Began running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_school_year.a399838933
+[0m16:58:49.250478 [debug] [Thread-3 (]: Began compiling node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_organization_code.033d4dc481
+[0m16:58:49.251785 [debug] [Thread-5 (]: Began executing node seed.ccsd_analytics.ccsd_demographic
+[0m16:58:49.252075 [debug] [Thread-4 (]: Re-using an available connection from the pool (formerly model.ccsd_analytics.stg_enrollment, now test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_school_name.0cb356ad31)
+[0m16:58:49.252303 [debug] [Thread-2 (]: Re-using an available connection from the pool (formerly model.ccsd_analytics.stg_assessment_scores, now test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_school_year.a399838933)
+[0m16:58:49.258733 [debug] [Thread-3 (]: Writing injected SQL for node "test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_organization_code.033d4dc481"
+[0m16:58:49.259185 [debug] [Thread-5 (]: Finished running node seed.ccsd_analytics.ccsd_demographic
+[0m16:58:49.259422 [debug] [Thread-4 (]: Began compiling node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_school_name.0cb356ad31
+[0m16:58:49.259633 [debug] [Thread-2 (]: Began compiling node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_school_year.a399838933
+[0m16:58:49.259958 [debug] [Thread-5 (]: Began running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_accountability_year.5bc897f1e3
+[0m16:58:49.262276 [debug] [Thread-4 (]: Writing injected SQL for node "test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_school_name.0cb356ad31"
+[0m16:58:49.267245 [debug] [Thread-2 (]: Writing injected SQL for node "test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_school_year.a399838933"
+[0m16:58:49.267872 [debug] [Thread-5 (]: Re-using an available connection from the pool (formerly seed.ccsd_analytics.ccsd_demographic, now test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_accountability_year.5bc897f1e3)
+[0m16:58:49.268725 [debug] [Thread-5 (]: Began compiling node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_accountability_year.5bc897f1e3
+[0m16:58:49.268980 [debug] [Thread-3 (]: Began executing node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_organization_code.033d4dc481
+[0m16:58:49.271464 [debug] [Thread-5 (]: Writing injected SQL for node "test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_accountability_year.5bc897f1e3"
+[0m16:58:49.271899 [debug] [Thread-3 (]: Finished running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_organization_code.033d4dc481
+[0m16:58:49.272434 [debug] [Thread-3 (]: Began running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_organization_code.5cf012aba1
+[0m16:58:49.272721 [debug] [Thread-3 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_organization_code.033d4dc481, now test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_organization_code.5cf012aba1)
+[0m16:58:49.272953 [debug] [Thread-2 (]: Began executing node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_school_year.a399838933
+[0m16:58:49.273317 [debug] [Thread-4 (]: Began executing node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_school_name.0cb356ad31
+[0m16:58:49.273527 [debug] [Thread-3 (]: Began compiling node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_organization_code.5cf012aba1
+[0m16:58:49.274043 [debug] [Thread-2 (]: Finished running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_school_year.a399838933
+[0m16:58:49.274265 [debug] [Thread-5 (]: Began executing node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_accountability_year.5bc897f1e3
+[0m16:58:49.274663 [debug] [Thread-4 (]: Finished running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_school_name.0cb356ad31
+[0m16:58:49.277131 [debug] [Thread-3 (]: Writing injected SQL for node "test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_organization_code.5cf012aba1"
+[0m16:58:49.277456 [debug] [Thread-2 (]: Began running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_school_name.3ab6191759
+[0m16:58:49.277972 [debug] [Thread-5 (]: Finished running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_accountability_year.5bc897f1e3
+[0m16:58:49.278230 [debug] [Thread-4 (]: Began running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_accountability_year.ab510c2c14
+[0m16:58:49.278603 [debug] [Thread-2 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_school_year.a399838933, now test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_school_name.3ab6191759)
+[0m16:58:49.278940 [debug] [Thread-5 (]: Began running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_organization_code.4a93c2d65c
+[0m16:58:49.279258 [debug] [Thread-4 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_assessment_3rd_8th_grade_school_name.0cb356ad31, now test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_accountability_year.ab510c2c14)
+[0m16:58:49.279561 [debug] [Thread-2 (]: Began compiling node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_school_name.3ab6191759
+[0m16:58:49.280148 [debug] [Thread-5 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_accountability_year.5bc897f1e3, now test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_organization_code.4a93c2d65c)
+[0m16:58:49.280479 [debug] [Thread-3 (]: Began executing node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_organization_code.5cf012aba1
+[0m16:58:49.280744 [debug] [Thread-4 (]: Began compiling node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_accountability_year.ab510c2c14
+[0m16:58:49.283706 [debug] [Thread-2 (]: Writing injected SQL for node "test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_school_name.3ab6191759"
+[0m16:58:49.284004 [debug] [Thread-5 (]: Began compiling node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_organization_code.4a93c2d65c
+[0m16:58:49.284392 [debug] [Thread-3 (]: Finished running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_organization_code.5cf012aba1
+[0m16:58:49.286622 [debug] [Thread-4 (]: Writing injected SQL for node "test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_accountability_year.ab510c2c14"
+[0m16:58:49.288871 [debug] [Thread-5 (]: Writing injected SQL for node "test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_organization_code.4a93c2d65c"
+[0m16:58:49.289158 [debug] [Thread-3 (]: Began running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_school_name.420dd83c6d
+[0m16:58:49.289818 [debug] [Thread-3 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_organization_code.5cf012aba1, now test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_school_name.420dd83c6d)
+[0m16:58:49.290111 [debug] [Thread-3 (]: Began compiling node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_school_name.420dd83c6d
+[0m16:58:49.292380 [debug] [Thread-3 (]: Writing injected SQL for node "test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_school_name.420dd83c6d"
+[0m16:58:49.292690 [debug] [Thread-2 (]: Began executing node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_school_name.3ab6191759
+[0m16:58:49.293411 [debug] [Thread-2 (]: Finished running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_school_name.3ab6191759
+[0m16:58:49.293653 [debug] [Thread-5 (]: Began executing node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_organization_code.4a93c2d65c
+[0m16:58:49.293970 [debug] [Thread-4 (]: Began executing node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_accountability_year.ab510c2c14
+[0m16:58:49.294214 [debug] [Thread-2 (]: Began running node test.ccsd_analytics.accepted_values_stg_attendance_absenteeism_tier__Low__Moderate__High__Critical.9a77311bed
+[0m16:58:49.294725 [debug] [Thread-5 (]: Finished running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_organization_code.4a93c2d65c
+[0m16:58:49.295173 [debug] [Thread-4 (]: Finished running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_accountability_year.ab510c2c14
+[0m16:58:49.295448 [debug] [Thread-3 (]: Began executing node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_school_name.420dd83c6d
+[0m16:58:49.295688 [debug] [Thread-2 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_chronic_absenteeism_school_name.3ab6191759, now test.ccsd_analytics.accepted_values_stg_attendance_absenteeism_tier__Low__Moderate__High__Critical.9a77311bed)
+[0m16:58:49.295963 [debug] [Thread-5 (]: Began running node test.ccsd_analytics.dbt_utils_accepted_range_stg_attendance_chronic_absenteeism_rate__100__0.5fe9202be2
+[0m16:58:49.296205 [debug] [Thread-4 (]: Began running node test.ccsd_analytics.not_null_stg_attendance_school_id.d577411e60
+[0m16:58:49.296676 [debug] [Thread-3 (]: Finished running node test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_school_name.420dd83c6d
+[0m16:58:49.296947 [debug] [Thread-2 (]: Began compiling node test.ccsd_analytics.accepted_values_stg_attendance_absenteeism_tier__Low__Moderate__High__Critical.9a77311bed
+[0m16:58:49.297223 [debug] [Thread-5 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_organization_code.4a93c2d65c, now test.ccsd_analytics.dbt_utils_accepted_range_stg_attendance_chronic_absenteeism_rate__100__0.5fe9202be2)
+[0m16:58:49.297520 [debug] [Thread-4 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_accountability_year.ab510c2c14, now test.ccsd_analytics.not_null_stg_attendance_school_id.d577411e60)
+[0m16:58:49.297884 [debug] [Thread-3 (]: Began running node test.ccsd_analytics.not_null_stg_attendance_school_year.056dab742a
+[0m16:58:49.303660 [debug] [Thread-2 (]: Writing injected SQL for node "test.ccsd_analytics.accepted_values_stg_attendance_absenteeism_tier__Low__Moderate__High__Critical.9a77311bed"
+[0m16:58:49.303967 [debug] [Thread-5 (]: Began compiling node test.ccsd_analytics.dbt_utils_accepted_range_stg_attendance_chronic_absenteeism_rate__100__0.5fe9202be2
+[0m16:58:49.304200 [debug] [Thread-4 (]: Began compiling node test.ccsd_analytics.not_null_stg_attendance_school_id.d577411e60
+[0m16:58:49.304429 [debug] [Thread-3 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.source_not_null_ccsd_seeds_ccsd_demographic_school_name.420dd83c6d, now test.ccsd_analytics.not_null_stg_attendance_school_year.056dab742a)
+[0m16:58:49.308819 [debug] [Thread-5 (]: Writing injected SQL for node "test.ccsd_analytics.dbt_utils_accepted_range_stg_attendance_chronic_absenteeism_rate__100__0.5fe9202be2"
+[0m16:58:49.310972 [debug] [Thread-4 (]: Writing injected SQL for node "test.ccsd_analytics.not_null_stg_attendance_school_id.d577411e60"
+[0m16:58:49.311347 [debug] [Thread-3 (]: Began compiling node test.ccsd_analytics.not_null_stg_attendance_school_year.056dab742a
+[0m16:58:49.314019 [debug] [Thread-3 (]: Writing injected SQL for node "test.ccsd_analytics.not_null_stg_attendance_school_year.056dab742a"
+[0m16:58:49.314351 [debug] [Thread-2 (]: Began executing node test.ccsd_analytics.accepted_values_stg_attendance_absenteeism_tier__Low__Moderate__High__Critical.9a77311bed
+[0m16:58:49.315056 [debug] [Thread-2 (]: Finished running node test.ccsd_analytics.accepted_values_stg_attendance_absenteeism_tier__Low__Moderate__High__Critical.9a77311bed
+[0m16:58:49.315294 [debug] [Thread-2 (]: Began running node model.ccsd_analytics.dim_schools
+[0m16:58:49.315679 [debug] [Thread-2 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.accepted_values_stg_attendance_absenteeism_tier__Low__Moderate__High__Critical.9a77311bed, now model.ccsd_analytics.dim_schools)
+[0m16:58:49.315962 [debug] [Thread-4 (]: Began executing node test.ccsd_analytics.not_null_stg_attendance_school_id.d577411e60
+[0m16:58:49.316209 [debug] [Thread-2 (]: Began compiling node model.ccsd_analytics.dim_schools
+[0m16:58:49.316428 [debug] [Thread-5 (]: Began executing node test.ccsd_analytics.dbt_utils_accepted_range_stg_attendance_chronic_absenteeism_rate__100__0.5fe9202be2
+[0m16:58:49.316834 [debug] [Thread-4 (]: Finished running node test.ccsd_analytics.not_null_stg_attendance_school_id.d577411e60
+[0m16:58:49.318866 [debug] [Thread-2 (]: Writing injected SQL for node "model.ccsd_analytics.dim_schools"
+[0m16:58:49.319134 [debug] [Thread-3 (]: Began executing node test.ccsd_analytics.not_null_stg_attendance_school_year.056dab742a
+[0m16:58:49.319485 [debug] [Thread-5 (]: Finished running node test.ccsd_analytics.dbt_utils_accepted_range_stg_attendance_chronic_absenteeism_rate__100__0.5fe9202be2
+[0m16:58:49.319722 [debug] [Thread-4 (]: Began running node test.ccsd_analytics.dbt_utils_accepted_range_stg_enrollment_school_year__2030__2015.280cfa09b8
+[0m16:58:49.320316 [debug] [Thread-3 (]: Finished running node test.ccsd_analytics.not_null_stg_attendance_school_year.056dab742a
+[0m16:58:49.320580 [debug] [Thread-5 (]: Began running node test.ccsd_analytics.not_null_stg_enrollment_school_id.38fb5ace42
+[0m16:58:49.320856 [debug] [Thread-4 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.not_null_stg_attendance_school_id.d577411e60, now test.ccsd_analytics.dbt_utils_accepted_range_stg_enrollment_school_year__2030__2015.280cfa09b8)
+[0m16:58:49.321216 [debug] [Thread-3 (]: Began running node test.ccsd_analytics.not_null_stg_enrollment_school_year.13983c4baf
+[0m16:58:49.321538 [debug] [Thread-5 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.dbt_utils_accepted_range_stg_attendance_chronic_absenteeism_rate__100__0.5fe9202be2, now test.ccsd_analytics.not_null_stg_enrollment_school_id.38fb5ace42)
+[0m16:58:49.321759 [debug] [Thread-4 (]: Began compiling node test.ccsd_analytics.dbt_utils_accepted_range_stg_enrollment_school_year__2030__2015.280cfa09b8
+[0m16:58:49.321991 [debug] [Thread-2 (]: Began executing node model.ccsd_analytics.dim_schools
+[0m16:58:49.322279 [debug] [Thread-3 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.not_null_stg_attendance_school_year.056dab742a, now test.ccsd_analytics.not_null_stg_enrollment_school_year.13983c4baf)
+[0m16:58:49.322526 [debug] [Thread-5 (]: Began compiling node test.ccsd_analytics.not_null_stg_enrollment_school_id.38fb5ace42
+[0m16:58:49.324722 [debug] [Thread-4 (]: Writing injected SQL for node "test.ccsd_analytics.dbt_utils_accepted_range_stg_enrollment_school_year__2030__2015.280cfa09b8"
+[0m16:58:49.325139 [debug] [Thread-2 (]: Finished running node model.ccsd_analytics.dim_schools
+[0m16:58:49.325370 [debug] [Thread-3 (]: Began compiling node test.ccsd_analytics.not_null_stg_enrollment_school_year.13983c4baf
+[0m16:58:49.327568 [debug] [Thread-5 (]: Writing injected SQL for node "test.ccsd_analytics.not_null_stg_enrollment_school_id.38fb5ace42"
+[0m16:58:49.327951 [debug] [Thread-2 (]: Began running node test.ccsd_analytics.not_null_stg_enrollment_total_enrolled.029b73e1f1
+[0m16:58:49.330322 [debug] [Thread-3 (]: Writing injected SQL for node "test.ccsd_analytics.not_null_stg_enrollment_school_year.13983c4baf"
+[0m16:58:49.330914 [debug] [Thread-2 (]: Re-using an available connection from the pool (formerly model.ccsd_analytics.dim_schools, now test.ccsd_analytics.not_null_stg_enrollment_total_enrolled.029b73e1f1)
+[0m16:58:49.331289 [debug] [Thread-2 (]: Began compiling node test.ccsd_analytics.not_null_stg_enrollment_total_enrolled.029b73e1f1
+[0m16:58:49.333594 [debug] [Thread-2 (]: Writing injected SQL for node "test.ccsd_analytics.not_null_stg_enrollment_total_enrolled.029b73e1f1"
+[0m16:58:49.333885 [debug] [Thread-5 (]: Began executing node test.ccsd_analytics.not_null_stg_enrollment_school_id.38fb5ace42
+[0m16:58:49.334136 [debug] [Thread-4 (]: Began executing node test.ccsd_analytics.dbt_utils_accepted_range_stg_enrollment_school_year__2030__2015.280cfa09b8
+[0m16:58:49.334729 [debug] [Thread-5 (]: Finished running node test.ccsd_analytics.not_null_stg_enrollment_school_id.38fb5ace42
+[0m16:58:49.335097 [debug] [Thread-4 (]: Finished running node test.ccsd_analytics.dbt_utils_accepted_range_stg_enrollment_school_year__2030__2015.280cfa09b8
+[0m16:58:49.335305 [debug] [Thread-3 (]: Began executing node test.ccsd_analytics.not_null_stg_enrollment_school_year.13983c4baf
+[0m16:58:49.335658 [debug] [Thread-5 (]: Began running node test.ccsd_analytics.assert_proficiency_not_negative
+[0m16:58:49.336000 [debug] [Thread-4 (]: Began running node test.ccsd_analytics.not_null_stg_assessment_scores_ela_suppressed.4bdf0b6200
+[0m16:58:49.336494 [debug] [Thread-3 (]: Finished running node test.ccsd_analytics.not_null_stg_enrollment_school_year.13983c4baf
+[0m16:58:49.336690 [debug] [Thread-2 (]: Began executing node test.ccsd_analytics.not_null_stg_enrollment_total_enrolled.029b73e1f1
+[0m16:58:49.336950 [debug] [Thread-5 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.not_null_stg_enrollment_school_id.38fb5ace42, now test.ccsd_analytics.assert_proficiency_not_negative)
+[0m16:58:49.337166 [debug] [Thread-4 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.dbt_utils_accepted_range_stg_enrollment_school_year__2030__2015.280cfa09b8, now test.ccsd_analytics.not_null_stg_assessment_scores_ela_suppressed.4bdf0b6200)
+[0m16:58:49.337385 [debug] [Thread-3 (]: Began running node test.ccsd_analytics.not_null_stg_assessment_scores_math_suppressed.acb27a8ce7
+[0m16:58:49.337841 [debug] [Thread-2 (]: Finished running node test.ccsd_analytics.not_null_stg_enrollment_total_enrolled.029b73e1f1
+[0m16:58:49.338112 [debug] [Thread-5 (]: Began compiling node test.ccsd_analytics.assert_proficiency_not_negative
+[0m16:58:49.338309 [debug] [Thread-4 (]: Began compiling node test.ccsd_analytics.not_null_stg_assessment_scores_ela_suppressed.4bdf0b6200
+[0m16:58:49.338524 [debug] [Thread-3 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.not_null_stg_enrollment_school_year.13983c4baf, now test.ccsd_analytics.not_null_stg_assessment_scores_math_suppressed.acb27a8ce7)
+[0m16:58:49.338742 [debug] [Thread-2 (]: Began running node test.ccsd_analytics.not_null_stg_assessment_scores_school_id.287354140e
+[0m16:58:49.340523 [debug] [Thread-5 (]: Writing injected SQL for node "test.ccsd_analytics.assert_proficiency_not_negative"
+[0m16:58:49.344583 [debug] [Thread-4 (]: Writing injected SQL for node "test.ccsd_analytics.not_null_stg_assessment_scores_ela_suppressed.4bdf0b6200"
+[0m16:58:49.344861 [debug] [Thread-3 (]: Began compiling node test.ccsd_analytics.not_null_stg_assessment_scores_math_suppressed.acb27a8ce7
+[0m16:58:49.345208 [debug] [Thread-2 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.not_null_stg_enrollment_total_enrolled.029b73e1f1, now test.ccsd_analytics.not_null_stg_assessment_scores_school_id.287354140e)
+[0m16:58:49.347588 [debug] [Thread-3 (]: Writing injected SQL for node "test.ccsd_analytics.not_null_stg_assessment_scores_math_suppressed.acb27a8ce7"
+[0m16:58:49.347883 [debug] [Thread-2 (]: Began compiling node test.ccsd_analytics.not_null_stg_assessment_scores_school_id.287354140e
+[0m16:58:49.350433 [debug] [Thread-2 (]: Writing injected SQL for node "test.ccsd_analytics.not_null_stg_assessment_scores_school_id.287354140e"
+[0m16:58:49.351090 [debug] [Thread-4 (]: Began executing node test.ccsd_analytics.not_null_stg_assessment_scores_ela_suppressed.4bdf0b6200
+[0m16:58:49.351338 [debug] [Thread-5 (]: Began executing node test.ccsd_analytics.assert_proficiency_not_negative
+[0m16:58:49.351747 [debug] [Thread-4 (]: Finished running node test.ccsd_analytics.not_null_stg_assessment_scores_ela_suppressed.4bdf0b6200
+[0m16:58:49.351938 [debug] [Thread-3 (]: Began executing node test.ccsd_analytics.not_null_stg_assessment_scores_math_suppressed.acb27a8ce7
+[0m16:58:49.352441 [debug] [Thread-5 (]: Finished running node test.ccsd_analytics.assert_proficiency_not_negative
+[0m16:58:49.352714 [debug] [Thread-4 (]: Began running node test.ccsd_analytics.not_null_stg_assessment_scores_school_year.adc1e537ad
+[0m16:58:49.353136 [debug] [Thread-3 (]: Finished running node test.ccsd_analytics.not_null_stg_assessment_scores_math_suppressed.acb27a8ce7
+[0m16:58:49.353406 [debug] [Thread-2 (]: Began executing node test.ccsd_analytics.not_null_stg_assessment_scores_school_id.287354140e
+[0m16:58:49.353654 [debug] [Thread-5 (]: Began running node model.ccsd_analytics.fct_enrollment_trends
+[0m16:58:49.353951 [debug] [Thread-4 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.not_null_stg_assessment_scores_ela_suppressed.4bdf0b6200, now test.ccsd_analytics.not_null_stg_assessment_scores_school_year.adc1e537ad)
+[0m16:58:49.354240 [debug] [Thread-3 (]: Began running node model.ccsd_analytics.fct_school_performance
+[0m16:58:49.354635 [debug] [Thread-2 (]: Finished running node test.ccsd_analytics.not_null_stg_assessment_scores_school_id.287354140e
+[0m16:58:49.354887 [debug] [Thread-5 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.assert_proficiency_not_negative, now model.ccsd_analytics.fct_enrollment_trends)
+[0m16:58:49.355098 [debug] [Thread-4 (]: Began compiling node test.ccsd_analytics.not_null_stg_assessment_scores_school_year.adc1e537ad
+[0m16:58:49.355306 [debug] [Thread-3 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.not_null_stg_assessment_scores_math_suppressed.acb27a8ce7, now model.ccsd_analytics.fct_school_performance)
+[0m16:58:49.355547 [debug] [Thread-2 (]: Began running node snapshot.ccsd_analytics.scd_school_directory
+[0m16:58:49.355825 [debug] [Thread-5 (]: Began compiling node model.ccsd_analytics.fct_enrollment_trends
+[0m16:58:49.358286 [debug] [Thread-4 (]: Writing injected SQL for node "test.ccsd_analytics.not_null_stg_assessment_scores_school_year.adc1e537ad"
+[0m16:58:49.358541 [debug] [Thread-3 (]: Began compiling node model.ccsd_analytics.fct_school_performance
+[0m16:58:49.358776 [debug] [Thread-2 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.not_null_stg_assessment_scores_school_id.287354140e, now snapshot.ccsd_analytics.scd_school_directory)
+[0m16:58:49.363783 [debug] [Thread-5 (]: Writing injected SQL for node "model.ccsd_analytics.fct_enrollment_trends"
+[0m16:58:49.366066 [debug] [Thread-3 (]: Writing injected SQL for node "model.ccsd_analytics.fct_school_performance"
+[0m16:58:49.366419 [debug] [Thread-2 (]: Began compiling node snapshot.ccsd_analytics.scd_school_directory
+[0m16:58:49.368412 [debug] [Thread-2 (]: Began executing node snapshot.ccsd_analytics.scd_school_directory
+[0m16:58:49.368968 [debug] [Thread-2 (]: Finished running node snapshot.ccsd_analytics.scd_school_directory
+[0m16:58:49.369317 [debug] [Thread-2 (]: Began running node test.ccsd_analytics.not_null_dim_schools_school_id.baadfc6c97
+[0m16:58:49.369620 [debug] [Thread-2 (]: Re-using an available connection from the pool (formerly snapshot.ccsd_analytics.scd_school_directory, now test.ccsd_analytics.not_null_dim_schools_school_id.baadfc6c97)
+[0m16:58:49.369997 [debug] [Thread-2 (]: Began compiling node test.ccsd_analytics.not_null_dim_schools_school_id.baadfc6c97
+[0m16:58:49.370234 [debug] [Thread-4 (]: Began executing node test.ccsd_analytics.not_null_stg_assessment_scores_school_year.adc1e537ad
+[0m16:58:49.372574 [debug] [Thread-2 (]: Writing injected SQL for node "test.ccsd_analytics.not_null_dim_schools_school_id.baadfc6c97"
+[0m16:58:49.372781 [debug] [Thread-5 (]: Began executing node model.ccsd_analytics.fct_enrollment_trends
+[0m16:58:49.373209 [debug] [Thread-4 (]: Finished running node test.ccsd_analytics.not_null_stg_assessment_scores_school_year.adc1e537ad
+[0m16:58:49.373730 [debug] [Thread-5 (]: Finished running node model.ccsd_analytics.fct_enrollment_trends
+[0m16:58:49.373958 [debug] [Thread-3 (]: Began executing node model.ccsd_analytics.fct_school_performance
+[0m16:58:49.374237 [debug] [Thread-4 (]: Began running node test.ccsd_analytics.not_null_dim_schools_school_name.e965d8b789
+[0m16:58:49.374583 [debug] [Thread-5 (]: Began running node test.ccsd_analytics.unique_dim_schools_school_id.50ab1b294e
+[0m16:58:49.374816 [debug] [Thread-2 (]: Began executing node test.ccsd_analytics.not_null_dim_schools_school_id.baadfc6c97
+[0m16:58:49.375379 [debug] [Thread-3 (]: Finished running node model.ccsd_analytics.fct_school_performance
+[0m16:58:49.375616 [debug] [Thread-4 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.not_null_stg_assessment_scores_school_year.adc1e537ad, now test.ccsd_analytics.not_null_dim_schools_school_name.e965d8b789)
+[0m16:58:49.375865 [debug] [Thread-5 (]: Re-using an available connection from the pool (formerly model.ccsd_analytics.fct_enrollment_trends, now test.ccsd_analytics.unique_dim_schools_school_id.50ab1b294e)
+[0m16:58:49.376328 [debug] [Thread-2 (]: Finished running node test.ccsd_analytics.not_null_dim_schools_school_id.baadfc6c97
+[0m16:58:49.376577 [debug] [Thread-3 (]: Began running node test.ccsd_analytics.assert_no_orphan_enrollments
+[0m16:58:49.376799 [debug] [Thread-4 (]: Began compiling node test.ccsd_analytics.not_null_dim_schools_school_name.e965d8b789
+[0m16:58:49.377152 [debug] [Thread-5 (]: Began compiling node test.ccsd_analytics.unique_dim_schools_school_id.50ab1b294e
+[0m16:58:49.377432 [debug] [Thread-2 (]: Began running node test.ccsd_analytics.not_null_fct_enrollment_trends_school_id.f161d7f746
+[0m16:58:49.377739 [debug] [Thread-3 (]: Re-using an available connection from the pool (formerly model.ccsd_analytics.fct_school_performance, now test.ccsd_analytics.assert_no_orphan_enrollments)
+[0m16:58:49.380087 [debug] [Thread-4 (]: Writing injected SQL for node "test.ccsd_analytics.not_null_dim_schools_school_name.e965d8b789"
+[0m16:58:49.383604 [debug] [Thread-5 (]: Writing injected SQL for node "test.ccsd_analytics.unique_dim_schools_school_id.50ab1b294e"
+[0m16:58:49.383931 [debug] [Thread-2 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.not_null_dim_schools_school_id.baadfc6c97, now test.ccsd_analytics.not_null_fct_enrollment_trends_school_id.f161d7f746)
+[0m16:58:49.384189 [debug] [Thread-3 (]: Began compiling node test.ccsd_analytics.assert_no_orphan_enrollments
+[0m16:58:49.384624 [debug] [Thread-2 (]: Began compiling node test.ccsd_analytics.not_null_fct_enrollment_trends_school_id.f161d7f746
+[0m16:58:49.386279 [debug] [Thread-3 (]: Writing injected SQL for node "test.ccsd_analytics.assert_no_orphan_enrollments"
+[0m16:58:49.388553 [debug] [Thread-2 (]: Writing injected SQL for node "test.ccsd_analytics.not_null_fct_enrollment_trends_school_id.f161d7f746"
+[0m16:58:49.388847 [debug] [Thread-4 (]: Began executing node test.ccsd_analytics.not_null_dim_schools_school_name.e965d8b789
+[0m16:58:49.389571 [debug] [Thread-4 (]: Finished running node test.ccsd_analytics.not_null_dim_schools_school_name.e965d8b789
+[0m16:58:49.389847 [debug] [Thread-5 (]: Began executing node test.ccsd_analytics.unique_dim_schools_school_id.50ab1b294e
+[0m16:58:49.390072 [debug] [Thread-4 (]: Began running node test.ccsd_analytics.not_null_fct_enrollment_trends_school_year.35b823a3ac
+[0m16:58:49.390634 [debug] [Thread-5 (]: Finished running node test.ccsd_analytics.unique_dim_schools_school_id.50ab1b294e
+[0m16:58:49.390931 [debug] [Thread-4 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.not_null_dim_schools_school_name.e965d8b789, now test.ccsd_analytics.not_null_fct_enrollment_trends_school_year.35b823a3ac)
+[0m16:58:49.391162 [debug] [Thread-3 (]: Began executing node test.ccsd_analytics.assert_no_orphan_enrollments
+[0m16:58:49.391384 [debug] [Thread-5 (]: Began running node test.ccsd_analytics.not_null_fct_school_performance_school_id.46217d3464
+[0m16:58:49.391551 [debug] [Thread-2 (]: Began executing node test.ccsd_analytics.not_null_fct_enrollment_trends_school_id.f161d7f746
+[0m16:58:49.391775 [debug] [Thread-4 (]: Began compiling node test.ccsd_analytics.not_null_fct_enrollment_trends_school_year.35b823a3ac
+[0m16:58:49.392109 [debug] [Thread-3 (]: Finished running node test.ccsd_analytics.assert_no_orphan_enrollments
+[0m16:58:49.392317 [debug] [Thread-5 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.unique_dim_schools_school_id.50ab1b294e, now test.ccsd_analytics.not_null_fct_school_performance_school_id.46217d3464)
+[0m16:58:49.392631 [debug] [Thread-2 (]: Finished running node test.ccsd_analytics.not_null_fct_enrollment_trends_school_id.f161d7f746
+[0m16:58:49.394968 [debug] [Thread-4 (]: Writing injected SQL for node "test.ccsd_analytics.not_null_fct_enrollment_trends_school_year.35b823a3ac"
+[0m16:58:49.395248 [debug] [Thread-3 (]: Began running node test.ccsd_analytics.not_null_fct_school_performance_school_year.c739e849d3
+[0m16:58:49.395528 [debug] [Thread-5 (]: Began compiling node test.ccsd_analytics.not_null_fct_school_performance_school_id.46217d3464
+[0m16:58:49.396008 [debug] [Thread-3 (]: Re-using an available connection from the pool (formerly test.ccsd_analytics.assert_no_orphan_enrollments, now test.ccsd_analytics.not_null_fct_school_performance_school_year.c739e849d3)
+[0m16:58:49.398147 [debug] [Thread-5 (]: Writing injected SQL for node "test.ccsd_analytics.not_null_fct_school_performance_school_id.46217d3464"
+[0m16:58:49.398417 [debug] [Thread-3 (]: Began compiling node test.ccsd_analytics.not_null_fct_school_performance_school_year.c739e849d3
+[0m16:58:49.400894 [debug] [Thread-3 (]: Writing injected SQL for node "test.ccsd_analytics.not_null_fct_school_performance_school_year.c739e849d3"
+[0m16:58:49.401191 [debug] [Thread-4 (]: Began executing node test.ccsd_analytics.not_null_fct_enrollment_trends_school_year.35b823a3ac
+[0m16:58:49.401749 [debug] [Thread-4 (]: Finished running node test.ccsd_analytics.not_null_fct_enrollment_trends_school_year.35b823a3ac
+[0m16:58:49.402266 [debug] [Thread-5 (]: Began executing node test.ccsd_analytics.not_null_fct_school_performance_school_id.46217d3464
+[0m16:58:49.402505 [debug] [Thread-3 (]: Began executing node test.ccsd_analytics.not_null_fct_school_performance_school_year.c739e849d3
+[0m16:58:49.402892 [debug] [Thread-5 (]: Finished running node test.ccsd_analytics.not_null_fct_school_performance_school_id.46217d3464
+[0m16:58:49.403256 [debug] [Thread-3 (]: Finished running node test.ccsd_analytics.not_null_fct_school_performance_school_year.c739e849d3
+[0m16:58:49.404290 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m16:58:49.404527 [debug] [MainThread]: Connection 'list_CCSD_DEV_dbt_christian_marts_core' was left open.
+[0m16:58:49.404708 [debug] [MainThread]: On list_CCSD_DEV_dbt_christian_marts_core: Close
+[0m16:58:49.591326 [debug] [MainThread]: Connection 'list_CCSD_DEV_snapshots' was left open.
+[0m16:58:49.591841 [debug] [MainThread]: On list_CCSD_DEV_snapshots: Close
+[0m16:58:49.743230 [debug] [MainThread]: Connection 'list_CCSD_DEV_dbt_christian_staging' was left open.
+[0m16:58:49.743584 [debug] [MainThread]: On list_CCSD_DEV_dbt_christian_staging: Close
+[0m16:58:49.882881 [debug] [MainThread]: Connection 'list_CCSD_DEV_dbt_christian_seeds' was left open.
+[0m16:58:49.883219 [debug] [MainThread]: On list_CCSD_DEV_dbt_christian_seeds: Close
+[0m16:58:50.006246 [debug] [MainThread]: Connection 'test.ccsd_analytics.not_null_fct_school_performance_school_year.c739e849d3' was properly closed.
+[0m16:58:50.006599 [debug] [MainThread]: Connection 'test.ccsd_analytics.not_null_fct_enrollment_trends_school_year.35b823a3ac' was properly closed.
+[0m16:58:50.006766 [debug] [MainThread]: Connection 'test.ccsd_analytics.not_null_fct_enrollment_trends_school_id.f161d7f746' was properly closed.
+[0m16:58:50.006928 [debug] [MainThread]: Connection 'test.ccsd_analytics.not_null_fct_school_performance_school_id.46217d3464' was properly closed.
+[0m16:58:50.009397 [debug] [MainThread]: Command end result
+[0m16:58:50.093820 [debug] [MainThread]: Wrote artifact WritableManifest to C:\Repos\hope4nevadaschools\target\manifest.json
+[0m16:58:50.096652 [debug] [MainThread]: Wrote artifact SemanticManifest to C:\Repos\hope4nevadaschools\target\semantic_manifest.json
+[0m16:58:50.102236 [debug] [MainThread]: Wrote artifact RunExecutionResult to C:\Repos\hope4nevadaschools\target\run_results.json
+[0m16:58:50.350076 [debug] [MainThread]: Acquiring new snowflake connection 'generate_catalog'
+[0m16:58:50.350382 [info ] [MainThread]: Building catalog
+[0m16:58:50.358153 [debug] [ThreadPool]: Acquiring new snowflake connection 'CCSD_DEV.information_schema'
+[0m16:58:50.368736 [debug] [ThreadPool]: Using snowflake connection "CCSD_DEV.information_schema"
+[0m16:58:50.369199 [debug] [ThreadPool]: On CCSD_DEV.information_schema: with tables as (
+            select
+        table_catalog as "table_database",
+        table_schema as "table_schema",
+        table_name as "table_name",
+        case
+            when is_dynamic = 'YES' and table_type = 'BASE TABLE' THEN 'DYNAMIC TABLE'
+            else table_type
+        end as "table_type",
+        comment as "table_comment",
+
+        -- note: this is the _role_ that owns the table
+        table_owner as "table_owner",
+
+        'Clustering Key' as "stats:clustering_key:label",
+        clustering_key as "stats:clustering_key:value",
+        'The key used to cluster this table' as "stats:clustering_key:description",
+        (clustering_key is not null) as "stats:clustering_key:include",
+
+        'Row Count' as "stats:row_count:label",
+        row_count as "stats:row_count:value",
+        'An approximate count of rows in this table' as "stats:row_count:description",
+        (row_count is not null) as "stats:row_count:include",
+
+        'Approximate Size' as "stats:bytes:label",
+        bytes as "stats:bytes:value",
+        'Approximate size of the table as reported by Snowflake' as "stats:bytes:description",
+        (bytes is not null) as "stats:bytes:include",
+
+        'Last Modified' as "stats:last_modified:label",
+        to_varchar(convert_timezone('UTC', last_altered), 'yyyy-mm-dd HH24:MI'||'UTC') as "stats:last_modified:value",
+        'The timestamp for last update/change' as "stats:last_modified:description",
+        (last_altered is not null and table_type='BASE TABLE') as "stats:last_modified:include"
+    from CCSD_DEV.INFORMATION_SCHEMA.tables
+            where (
+                (
+                    
+    "table_schema" ilike 'dbt_christian_staging' and upper("table_schema") = upper('dbt_christian_staging')
+
+                    and 
+    "table_name" ilike 'stg_assessment_scores' and upper("table_name") = upper('stg_assessment_scores')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'DBT_CHRISTIAN_SEEDS' and upper("table_schema") = upper('DBT_CHRISTIAN_SEEDS')
+
+                    and 
+    "table_name" ilike 'ccsd_assessment_3rd_8th_grade' and upper("table_name") = upper('ccsd_assessment_3rd_8th_grade')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'dbt_christian_seeds' and upper("table_schema") = upper('dbt_christian_seeds')
+
+                    and 
+    "table_name" ilike 'ccsd_assessment_3rd_8th_grade' and upper("table_name") = upper('ccsd_assessment_3rd_8th_grade')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'dbt_christian_marts_core' and upper("table_schema") = upper('dbt_christian_marts_core')
+
+                    and 
+    "table_name" ilike 'fct_school_performance' and upper("table_name") = upper('fct_school_performance')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'DBT_CHRISTIAN_SEEDS' and upper("table_schema") = upper('DBT_CHRISTIAN_SEEDS')
+
+                    and 
+    "table_name" ilike 'ccsd_demographic' and upper("table_name") = upper('ccsd_demographic')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'dbt_christian_seeds' and upper("table_schema") = upper('dbt_christian_seeds')
+
+                    and 
+    "table_name" ilike 'ccsd_chronic_absenteeism' and upper("table_name") = upper('ccsd_chronic_absenteeism')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'dbt_christian_marts_core' and upper("table_schema") = upper('dbt_christian_marts_core')
+
+                    and 
+    "table_name" ilike 'fct_enrollment_trends' and upper("table_name") = upper('fct_enrollment_trends')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'dbt_christian_seeds' and upper("table_schema") = upper('dbt_christian_seeds')
+
+                    and 
+    "table_name" ilike 'ccsd_demographic' and upper("table_name") = upper('ccsd_demographic')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'dbt_christian_marts_core' and upper("table_schema") = upper('dbt_christian_marts_core')
+
+                    and 
+    "table_name" ilike 'dim_schools' and upper("table_name") = upper('dim_schools')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'dbt_christian_staging' and upper("table_schema") = upper('dbt_christian_staging')
+
+                    and 
+    "table_name" ilike 'stg_attendance' and upper("table_name") = upper('stg_attendance')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'snapshots' and upper("table_schema") = upper('snapshots')
+
+                    and 
+    "table_name" ilike 'scd_school_directory' and upper("table_name") = upper('scd_school_directory')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'dbt_christian_staging' and upper("table_schema") = upper('dbt_christian_staging')
+
+                    and 
+    "table_name" ilike 'stg_enrollment' and upper("table_name") = upper('stg_enrollment')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'DBT_CHRISTIAN_SEEDS' and upper("table_schema") = upper('DBT_CHRISTIAN_SEEDS')
+
+                    and 
+    "table_name" ilike 'ccsd_chronic_absenteeism' and upper("table_name") = upper('ccsd_chronic_absenteeism')
+
+                )
+            )
+        ),
+        columns as (
+            select
+        table_catalog as "table_database",
+        table_schema as "table_schema",
+        table_name as "table_name",
+
+        column_name as "column_name",
+        ordinal_position as "column_index",
+        data_type as "column_type",
+        comment as "column_comment"
+    from CCSD_DEV.INFORMATION_SCHEMA.columns
+            where (
+                (
+                    
+    "table_schema" ilike 'dbt_christian_staging' and upper("table_schema") = upper('dbt_christian_staging')
+
+                    and 
+    "table_name" ilike 'stg_assessment_scores' and upper("table_name") = upper('stg_assessment_scores')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'DBT_CHRISTIAN_SEEDS' and upper("table_schema") = upper('DBT_CHRISTIAN_SEEDS')
+
+                    and 
+    "table_name" ilike 'ccsd_assessment_3rd_8th_grade' and upper("table_name") = upper('ccsd_assessment_3rd_8th_grade')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'dbt_christian_seeds' and upper("table_schema") = upper('dbt_christian_seeds')
+
+                    and 
+    "table_name" ilike 'ccsd_assessment_3rd_8th_grade' and upper("table_name") = upper('ccsd_assessment_3rd_8th_grade')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'dbt_christian_marts_core' and upper("table_schema") = upper('dbt_christian_marts_core')
+
+                    and 
+    "table_name" ilike 'fct_school_performance' and upper("table_name") = upper('fct_school_performance')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'DBT_CHRISTIAN_SEEDS' and upper("table_schema") = upper('DBT_CHRISTIAN_SEEDS')
+
+                    and 
+    "table_name" ilike 'ccsd_demographic' and upper("table_name") = upper('ccsd_demographic')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'dbt_christian_seeds' and upper("table_schema") = upper('dbt_christian_seeds')
+
+                    and 
+    "table_name" ilike 'ccsd_chronic_absenteeism' and upper("table_name") = upper('ccsd_chronic_absenteeism')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'dbt_christian_marts_core' and upper("table_schema") = upper('dbt_christian_marts_core')
+
+                    and 
+    "table_name" ilike 'fct_enrollment_trends' and upper("table_name") = upper('fct_enrollment_trends')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'dbt_christian_seeds' and upper("table_schema") = upper('dbt_christian_seeds')
+
+                    and 
+    "table_name" ilike 'ccsd_demographic' and upper("table_name") = upper('ccsd_demographic')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'dbt_christian_marts_core' and upper("table_schema") = upper('dbt_christian_marts_core')
+
+                    and 
+    "table_name" ilike 'dim_schools' and upper("table_name") = upper('dim_schools')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'dbt_christian_staging' and upper("table_schema") = upper('dbt_christian_staging')
+
+                    and 
+    "table_name" ilike 'stg_attendance' and upper("table_name") = upper('stg_attendance')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'snapshots' and upper("table_schema") = upper('snapshots')
+
+                    and 
+    "table_name" ilike 'scd_school_directory' and upper("table_name") = upper('scd_school_directory')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'dbt_christian_staging' and upper("table_schema") = upper('dbt_christian_staging')
+
+                    and 
+    "table_name" ilike 'stg_enrollment' and upper("table_name") = upper('stg_enrollment')
+
+                )
+             or 
+                (
+                    
+    "table_schema" ilike 'DBT_CHRISTIAN_SEEDS' and upper("table_schema") = upper('DBT_CHRISTIAN_SEEDS')
+
+                    and 
+    "table_name" ilike 'ccsd_chronic_absenteeism' and upper("table_name") = upper('ccsd_chronic_absenteeism')
+
+                )
+            )
+        )
+        select *
+    from tables
+    join columns using ("table_database", "table_schema", "table_name")
+    order by "column_index"
+/* {"app": "dbt", "dbt_version": "1.11.11", "profile_name": "hope4nevadaschools", "target_name": "dev", "connection_name": "CCSD_DEV.information_schema"} */
+[0m16:58:50.369550 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m16:58:55.774886 [debug] [ThreadPool]: SQL status: SUCCESS 200 in 5.405 seconds
+[0m16:58:56.070482 [debug] [MainThread]: Wrote artifact CatalogArtifact to C:\Repos\hope4nevadaschools\target\catalog.json
+[0m16:58:56.102684 [debug] [MainThread]: Wrote artifact WritableManifest to C:\Repos\hope4nevadaschools\target\manifest.json
+[0m16:58:56.105559 [debug] [MainThread]: Wrote artifact SemanticManifest to C:\Repos\hope4nevadaschools\target\semantic_manifest.json
+[0m16:58:56.105803 [info ] [MainThread]: Catalog written to C:\Repos\hope4nevadaschools\target\catalog.json
+[0m16:58:56.106633 [debug] [MainThread]: Command `dbt docs generate` succeeded at 16:58:56.106543 after 9.60 seconds
+[0m16:58:56.106875 [debug] [MainThread]: Connection 'generate_catalog' was properly closed.
+[0m16:58:56.107048 [debug] [MainThread]: Connection 'CCSD_DEV.information_schema' was left open.
+[0m16:58:56.107236 [debug] [MainThread]: On CCSD_DEV.information_schema: Close
+[0m16:58:56.309163 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FFDD3CDA90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FFE080E6D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FFE080EAF0>]}
+[0m16:58:56.309588 [debug] [MainThread]: Flushing usage events
+[0m16:58:56.775154 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m16:59:47.837879 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021A196BE900>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021A1650B610>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021A1BA97B10>]}
+
+
+============================== 16:59:47.843137 | e7593aa7-5c5b-490a-ba99-8361b6fd74ab ==============================
+[0m16:59:47.843137 [info ] [MainThread]: Running with dbt=1.11.11
+[0m16:59:47.843546 [debug] [MainThread]: running dbt with arguments {'version_check': 'True', 'no_print': 'None', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'target_path': 'None', 'printer_width': '80', 'write_json': 'True', 'empty': 'None', 'log_cache_events': 'False', 'introspect': 'True', 'cache_selected_only': 'False', 'log_format': 'default', 'debug': 'False', 'fail_fast': 'False', 'profiles_dir': 'C:\\Users\\ChristianPaskevicius\\.dbt', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'partial_parse': 'True', 'indirect_selection': 'eager', 'use_colors': 'True', 'invocation_command': 'dbt docs serve', 'use_experimental_parser': 'False', 'log_path': 'C:\\Repos\\hope4nevadaschools\\logs'}
+[0m16:59:48.238865 [debug] [MainThread]: Snowflake adapter: Setting snowflake.connector to ERROR (file logging only)
+[0m16:59:48.239224 [debug] [MainThread]: Snowflake adapter: Setting botocore to ERROR (file logging only)
+[0m16:59:48.239427 [debug] [MainThread]: Snowflake adapter: Setting boto3 to ERROR (file logging only)
+[0m16:59:48.371589 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': 'e7593aa7-5c5b-490a-ba99-8361b6fd74ab', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021A19DFDBA0>]}
+[0m16:59:48.413629 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': 'e7593aa7-5c5b-490a-ba99-8361b6fd74ab', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021A1CA05590>]}
+[0m08:41:57.083918 [error] [MainThread]: Encountered an error:
+
+[0m08:41:57.140848 [error] [MainThread]: Traceback (most recent call last):
+  File "C:\Repos\hope4nevadaschools\.venv\Lib\site-packages\dbt\cli\requires.py", line 182, in wrapper
+    result, success = func(*args, **kwargs)
+                      ~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Repos\hope4nevadaschools\.venv\Lib\site-packages\dbt\cli\requires.py", line 128, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Repos\hope4nevadaschools\.venv\Lib\site-packages\dbt\cli\requires.py", line 276, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Repos\hope4nevadaschools\.venv\Lib\site-packages\dbt\cli\requires.py", line 321, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Repos\hope4nevadaschools\.venv\Lib\site-packages\dbt\cli\requires.py", line 368, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Repos\hope4nevadaschools\.venv\Lib\site-packages\dbt\cli\main.py", line 309, in docs_serve
+    results = task.run()
+  File "C:\Repos\hope4nevadaschools\.venv\Lib\site-packages\dbt\task\docs\serve.py", line 29, in run
+    httpd.serve_forever()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ChristianPaskevicius\AppData\Roaming\uv\python\cpython-3.13-windows-x86_64-none\Lib\socketserver.py", line 235, in serve_forever
+    ready = selector.select(poll_interval)
+  File "C:\Users\ChristianPaskevicius\AppData\Roaming\uv\python\cpython-3.13-windows-x86_64-none\Lib\selectors.py", line 314, in select
+    r, w, _ = self._select(self._readers, self._writers, [], timeout)
+              ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ChristianPaskevicius\AppData\Roaming\uv\python\cpython-3.13-windows-x86_64-none\Lib\selectors.py", line 305, in _select
+    r, w, x = select.select(r, w, w, timeout)
+              ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+[0m08:41:57.142381 [debug] [MainThread]: Command `dbt docs serve` failed at 08:41:57.142258 after 56529.47 seconds
+[0m08:41:57.142712 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021A1CC98850>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021A1CC98950>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021A1CC628A0>]}
+[0m08:41:57.143005 [debug] [MainThread]: Flushing usage events
+[0m08:41:59.410140 [debug] [MainThread]: An error was encountered while trying to flush usage events
