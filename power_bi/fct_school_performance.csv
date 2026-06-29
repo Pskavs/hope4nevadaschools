@@ -1,0 +1,1590 @@
+SCHOOL_ID,SCHOOL_YEAR,SCHOOL_NAME,TOTAL_ENROLLMENT,CHRONIC_ABSENTEEISM_RATE,ABSENTEEISM_TIER,ELA_PCT_PROFICIENT,ELA_SUPPRESSED,MATH_PCT_PROFICIENT,MATH_SUPPRESSED,DBT_UPDATED_AT
+2060,2020,Tyrone Thompson Elementary School,450,16,Moderate,63,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2060,2021,Tyrone Thompson Elementary School,592,26,High,69,FALSE,58,FALSE,2026-06-23 16:30:42.783 -0700
+2060,2022,Tyrone Thompson Elementary School,712,22,High,58,FALSE,55,FALSE,2026-06-23 16:30:42.783 -0700
+2060,2023,Tyrone Thompson Elementary School,861,25,High,59,FALSE,59,FALSE,2026-06-23 16:30:42.783 -0700
+2060,2024,Tyrone Thompson Elementary School,916,24,High,66,FALSE,63,FALSE,2026-06-23 16:30:42.783 -0700
+2061,2020,Sandra B Abston Elementary School,738,19,Moderate,50,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2061,2021,Sandra B Abston Elementary School,747,41,Critical,50,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2061,2022,Sandra B Abston Elementary School,727,35,Critical,47,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2061,2023,Sandra B Abston Elementary School,715,32,Critical,51,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2061,2024,Sandra B Abston Elementary School,726,28,High,51,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2062,2020,Earl N Jenkins Elementary School,647,26,High,39,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2062,2021,Earl N Jenkins Elementary School,608,46,Critical,43,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2062,2022,Earl N Jenkins Elementary School,667,39,Critical,40,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2062,2023,Earl N Jenkins Elementary School,635,32,Critical,40,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2062,2024,Earl N Jenkins Elementary School,636,28,High,45,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2064,2020,Robert & Sandy Ellis Elementary School,716,5,Low,66,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2064,2021,Robert & Sandy Ellis Elementary School,866,25,High,66,FALSE,57,FALSE,2026-06-23 16:30:42.783 -0700
+2064,2022,Robert & Sandy Ellis Elementary School,1022,21,High,64,FALSE,56,FALSE,2026-06-23 16:30:42.783 -0700
+2064,2023,Robert & Sandy Ellis Elementary School,882,18,Moderate,63,FALSE,62,FALSE,2026-06-23 16:30:42.783 -0700
+2064,2024,Robert & Sandy Ellis Elementary School,909,19,Moderate,67,FALSE,61,FALSE,2026-06-23 16:30:42.783 -0700
+2065,2020,Dennis Ortwein Elementary School,729,18,Moderate,43,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2065,2021,Dennis Ortwein Elementary School,721,35,Critical,39,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2065,2022,Dennis Ortwein Elementary School,769,30,Critical,43,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2065,2023,Dennis Ortwein Elementary School,790,26,High,42,FALSE,42,FALSE,2026-06-23 16:30:42.783 -0700
+2065,2024,Dennis Ortwein Elementary School,828,24,High,53,FALSE,43,FALSE,2026-06-23 16:30:42.783 -0700
+2066,2020,Shirley A Barber Elementary School,716,26,High,31,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2066,2021,Shirley A Barber Elementary School,748,36,Critical,42,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2066,2022,Shirley A Barber Elementary School,777,37,Critical,45,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2066,2023,Shirley A Barber Elementary School,779,32,Critical,50,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2066,2024,Shirley A Barber Elementary School,784,28,High,56,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2067,2020,Kenneth Divich Elementary School,920,11,Moderate,57,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2067,2021,Kenneth Divich Elementary School,968,25,High,63,FALSE,43,FALSE,2026-06-23 16:30:42.783 -0700
+2067,2022,Kenneth Divich Elementary School,1020,20,High,55,FALSE,52,FALSE,2026-06-23 16:30:42.783 -0700
+2067,2023,Kenneth Divich Elementary School,1112,16,Moderate,56,FALSE,56,FALSE,2026-06-23 16:30:42.783 -0700
+2067,2024,Kenneth Divich Elementary School,1171,17,Moderate,65,FALSE,56,FALSE,2026-06-23 16:30:42.783 -0700
+2068,2020,Jan L Jones Blackhurst Elementary School,860,5,Low,65,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2068,2021,Jan L Jones Blackhurst Elementary School,843,26,High,66,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2068,2022,Jan L Jones Blackhurst Elementary School,846,23,High,61,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2068,2023,Jan L Jones Blackhurst Elementary School,851,18,Moderate,66,FALSE,57,FALSE,2026-06-23 16:30:42.783 -0700
+2068,2024,Jan L Jones Blackhurst Elementary School,853,13,Moderate,69,FALSE,58,FALSE,2026-06-23 16:30:42.783 -0700
+2069,2020,Billy & Rosemary Vassiliadis Elementary School,970,,Critical,77,FALSE,62,FALSE,2026-06-23 16:30:42.783 -0700
+2069,2021,Billy & Rosemary Vassiliadis Elementary School,1071,17,Moderate,76,FALSE,73,FALSE,2026-06-23 16:30:42.783 -0700
+2069,2022,Billy & Rosemary Vassiliadis Elementary School,1093,13,Moderate,80,FALSE,82,FALSE,2026-06-23 16:30:42.783 -0700
+2069,2023,Billy & Rosemary Vassiliadis Elementary School,1083,9,Low,79,FALSE,81,FALSE,2026-06-23 16:30:42.783 -0700
+2069,2024,Billy & Rosemary Vassiliadis Elementary School,1117,10,Moderate,81,FALSE,80,FALSE,2026-06-23 16:30:42.783 -0700
+2070,2020,Shelley Berkley Elementary School,726,16,Moderate,50,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2070,2021,Shelley Berkley Elementary School,743,38,Critical,46,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2070,2022,Shelley Berkley Elementary School,725,31,Critical,53,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2070,2023,Shelley Berkley Elementary School,725,25,High,59,FALSE,52,FALSE,2026-06-23 16:30:42.783 -0700
+2070,2024,Shelley Berkley Elementary School,719,21,High,63,FALSE,55,FALSE,2026-06-23 16:30:42.783 -0700
+2071,2020,Josh Stevens Elementary School,891,18,Moderate,56,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2071,2021,Josh Stevens Elementary School,856,44,Critical,58,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2071,2022,Josh Stevens Elementary School,798,42,Critical,53,FALSE,43,FALSE,2026-06-23 16:30:42.783 -0700
+2071,2023,Josh Stevens Elementary School,789,35,Critical,49,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2071,2024,Josh Stevens Elementary School,819,31,Critical,63,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2072,2020,Dr Beverly S Mathis Elementary School,897,16,Moderate,54,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2072,2021,Dr Beverly S Mathis Elementary School,899,30,Critical,51,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2072,2022,Dr Beverly S Mathis Elementary School,864,26,High,48,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2072,2023,Dr Beverly S Mathis Elementary School,887,26,High,54,FALSE,56,FALSE,2026-06-23 16:30:42.783 -0700
+2072,2024,Dr Beverly S Mathis Elementary School,814,20,High,59,FALSE,60,FALSE,2026-06-23 16:30:42.783 -0700
+2073,2020,Lomie G Heard Elementary School,767,9,Low,37,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2073,2021,Lomie G Heard Elementary School,765,30,Critical,44,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2073,2022,Lomie G Heard Elementary School,703,23,High,40,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2073,2023,Lomie G Heard Elementary School,685,14,Moderate,47,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2073,2024,Lomie G Heard Elementary School,603,8,Low,47,FALSE,48,FALSE,2026-06-23 16:30:42.783 -0700
+2074,2020,Don & Dee Snyder Elementary School,708,17,Moderate,49,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2074,2021,Don & Dee Snyder Elementary School,646,37,Critical,52,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2074,2022,Don & Dee Snyder Elementary School,713,37,Critical,45,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2074,2023,Don & Dee Snyder Elementary School,693,29,High,45,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2074,2024,Don & Dee Snyder Elementary School,679,25,High,54,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2076,2020,Ruby Duncan Elementary School,614,32,Critical,29,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2076,2021,Ruby Duncan Elementary School,599,49,Critical,32,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2076,2022,Ruby Duncan Elementary School,654,44,Critical,34,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2076,2023,Ruby Duncan Elementary School,690,33,Critical,32,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2076,2024,Ruby Duncan Elementary School,718,30,Critical,34,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2077,2020,Shirley & Bill Wallin Elementary School,551,7,Low,61,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2077,2021,Shirley & Bill Wallin Elementary School,527,20,High,69,FALSE,60,FALSE,2026-06-23 16:30:42.783 -0700
+2077,2022,Shirley & Bill Wallin Elementary School,503,25,High,64,FALSE,64,FALSE,2026-06-23 16:30:42.783 -0700
+2077,2023,Shirley & Bill Wallin Elementary School,702,20,High,72,FALSE,72,FALSE,2026-06-23 16:30:42.783 -0700
+2077,2024,Shirley & Bill Wallin Elementary School,735,20,High,70,FALSE,66,FALSE,2026-06-23 16:30:42.783 -0700
+2078,2020,Evelyn Stuckey Elementary School,546,17,Moderate,54,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2078,2021,Evelyn Stuckey Elementary School,545,30,Critical,63,FALSE,58,FALSE,2026-06-23 16:30:42.783 -0700
+2078,2022,Evelyn Stuckey Elementary School,578,31,Critical,59,FALSE,57,FALSE,2026-06-23 16:30:42.783 -0700
+2078,2023,Evelyn Stuckey Elementary School,608,25,High,65,FALSE,63,FALSE,2026-06-23 16:30:42.783 -0700
+2078,2024,Evelyn Stuckey Elementary School,581,21,High,65,FALSE,57,FALSE,2026-06-23 16:30:42.783 -0700
+2079,2020,Charlotte & Jerry Keller Elementary School,554,39,Critical,23,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2079,2021,Charlotte & Jerry Keller Elementary School,503,42,Critical,30,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2079,2022,Charlotte & Jerry Keller Elementary School,501,37,Critical,31,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2079,2023,Charlotte & Jerry Keller Elementary School,496,33,Critical,38,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2079,2024,Charlotte & Jerry Keller Elementary School,434,20,High,46,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2080,2020,Mark L Fine Elementary School,788,16,Moderate,45,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2080,2021,Mark L Fine Elementary School,790,31,Critical,54,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2080,2022,Mark L Fine Elementary School,761,35,Critical,36,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2080,2023,Mark L Fine Elementary School,758,32,Critical,45,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2080,2024,Mark L Fine Elementary School,723,30,Critical,45,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2081,2020,Henry & Evelyn Bozarth Elementary School,850,6,Low,51,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2081,2021,Henry & Evelyn Bozarth Elementary School,808,21,High,64,FALSE,56,FALSE,2026-06-23 16:30:42.783 -0700
+2081,2022,Henry & Evelyn Bozarth Elementary School,799,21,High,61,FALSE,53,FALSE,2026-06-23 16:30:42.783 -0700
+2081,2023,Henry & Evelyn Bozarth Elementary School,771,18,Moderate,64,FALSE,53,FALSE,2026-06-23 16:30:42.783 -0700
+2081,2024,Henry & Evelyn Bozarth Elementary School,723,18,Moderate,68,FALSE,58,FALSE,2026-06-23 16:30:42.783 -0700
+2082,2020,Vincent L Triggs Elementary School,571,13,Moderate,41,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2082,2021,Vincent L Triggs Elementary School,636,35,Critical,45,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2082,2022,Vincent L Triggs Elementary School,776,28,High,43,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2082,2023,Vincent L Triggs Elementary School,761,22,High,47,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2082,2024,Vincent L Triggs Elementary School,798,23,High,53,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2083,2020,Thomas ORoarke Elementary School,750,7,Low,56,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2083,2021,Thomas ORoarke Elementary School,787,26,High,65,FALSE,54,FALSE,2026-06-23 16:30:42.783 -0700
+2083,2022,Thomas ORoarke Elementary School,758,26,High,67,FALSE,59,FALSE,2026-06-23 16:30:42.783 -0700
+2083,2023,Thomas ORoarke Elementary School,632,19,Moderate,64,FALSE,64,FALSE,2026-06-23 16:30:42.783 -0700
+2083,2024,Thomas ORoarke Elementary School,637,19,Moderate,70,FALSE,61,FALSE,2026-06-23 16:30:42.783 -0700
+2084,2020,Carolyn S Reedom Elementary School,548,10,Moderate,43,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2084,2021,Carolyn S Reedom Elementary School,567,37,Critical,48,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2084,2022,Carolyn S Reedom Elementary School,536,30,Critical,48,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2084,2023,Carolyn S Reedom Elementary School,525,26,High,52,FALSE,48,FALSE,2026-06-23 16:30:42.783 -0700
+2084,2024,Carolyn S Reedom Elementary School,499,28,High,54,FALSE,54,FALSE,2026-06-23 16:30:42.783 -0700
+2085,2020,Ruben P Diaz Elementary School,669,25,High,21,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2085,2021,Ruben P Diaz Elementary School,668,40,Critical,36,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2085,2022,Ruben P Diaz Elementary School,622,29,High,42,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2085,2023,Ruben P Diaz Elementary School,590,27,High,40,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2085,2024,Ruben P Diaz Elementary School,567,25,High,25,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2086,2020,Jesse D Scott Elementary School,546,43,Critical,17,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2086,2021,Jesse D Scott Elementary School,582,57,Critical,19,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2086,2022,Jesse D Scott Elementary School,644,43,Critical,25,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2086,2023,Jesse D Scott Elementary School,692,42,Critical,18,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2086,2024,Jesse D Scott Elementary School,712,33,Critical,27,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2089,2020,West Preparatory Academy Elementary School,419,19,Moderate,19,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2089,2021,West Preparatory Academy Elementary School,427,34,Critical,33,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2089,2022,West Preparatory Academy Elementary School,386,24,High,37,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2089,2023,West Preparatory Academy Elementary School,361,15,Moderate,46,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2089,2024,West Preparatory Academy Elementary School,389,21,High,43,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2090,2020,James E & A Rae Smalley Elementary School,706,,Critical,69,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2090,2021,James E & A Rae Smalley Elementary School,693,19,Moderate,80,FALSE,73,FALSE,2026-06-23 16:30:42.783 -0700
+2090,2022,James E & A Rae Smalley Elementary School,672,14,Moderate,78,FALSE,72,FALSE,2026-06-23 16:30:42.783 -0700
+2090,2023,James E & A Rae Smalley Elementary School,707,10,Moderate,83,FALSE,74,FALSE,2026-06-23 16:30:42.783 -0700
+2090,2024,James E & A Rae Smalley Elementary School,710,9,Low,85,FALSE,77,FALSE,2026-06-23 16:30:42.783 -0700
+2091,2020,Dr Claude G Perkins Elementary School,550,27,High,32,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2091,2021,Dr Claude G Perkins Elementary School,580,50,Critical,28,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2091,2022,Dr Claude G Perkins Elementary School,564,46,Critical,19,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2091,2023,Dr Claude G Perkins Elementary School,572,40,Critical,27,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2091,2024,Dr Claude G Perkins Elementary School,546,37,Critical,25,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2092,2020,Innovations International Charter Elementary School,421,,Critical,21,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2092,2021,Innovations International Charter Elementary School,379,34,Critical,23,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2092,2022,Innovations International Charter Elementary School,407,46,Critical,25,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2092,2023,Innovations International Charter Elementary School,373,39,Critical,33,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2092,2024,Innovations International Charter Elementary School,365,36,Critical,37,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2093,2020,FuturEdge Academy Elementary School,352,17,Moderate,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2093,2021,FuturEdge Academy Elementary School,300,46,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2093,2022,FuturEdge Academy Elementary School,232,45,Critical,18,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2093,2023,FuturEdge Academy Elementary School,168,39,Critical,14,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2093,2024,FuturEdge Academy Elementary School,183,51,Critical,17,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2094,2020,D L Dusty Dickens Elementary School,797,39,Critical,33,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2094,2021,D L Dusty Dickens Elementary School,748,46,Critical,36,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2094,2022,D L Dusty Dickens Elementary School,764,41,Critical,36,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2094,2023,D L Dusty Dickens Elementary School,751,34,Critical,36,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2094,2024,D L Dusty Dickens Elementary School,775,27,High,40,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2095,2020,Sister Robert Joseph Bailey Elementary School,621,22,High,27,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2095,2021,Sister Robert Joseph Bailey Elementary School,565,41,Critical,38,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2095,2022,Sister Robert Joseph Bailey Elementary School,586,40,Critical,38,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2095,2023,Sister Robert Joseph Bailey Elementary School,595,38,Critical,35,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2095,2024,Sister Robert Joseph Bailey Elementary School,572,29,High,38,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2096,2020,Dr C Owen Roundy Elementary School,613,16,Moderate,17,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2096,2021,Dr C Owen Roundy Elementary School,601,48,Critical,25,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2096,2022,Dr C Owen Roundy Elementary School,659,46,Critical,24,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2096,2023,Dr C Owen Roundy Elementary School,629,39,Critical,19,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2096,2024,Dr C Owen Roundy Elementary School,617,24,High,26,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2097,2020,Robert L Forbuss Elementary School,607,10,Moderate,54,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2097,2021,Robert L Forbuss Elementary School,598,36,Critical,57,FALSE,43,FALSE,2026-06-23 16:30:42.783 -0700
+2097,2022,Robert L Forbuss Elementary School,604,31,Critical,52,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2097,2023,Robert L Forbuss Elementary School,612,26,High,53,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2097,2024,Robert L Forbuss Elementary School,641,23,High,58,FALSE,55,FALSE,2026-06-23 16:30:42.783 -0700
+2098,2020,Judith D Steele Elementary School,727,17,Moderate,48,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2098,2021,Judith D Steele Elementary School,733,37,Critical,55,FALSE,55,FALSE,2026-06-23 16:30:42.783 -0700
+2098,2022,Judith D Steele Elementary School,764,29,High,55,FALSE,56,FALSE,2026-06-23 16:30:42.783 -0700
+2098,2023,Judith D Steele Elementary School,765,24,High,54,FALSE,50,FALSE,2026-06-23 16:30:42.783 -0700
+2098,2024,Judith D Steele Elementary School,788,20,High,54,FALSE,48,FALSE,2026-06-23 16:30:42.783 -0700
+2099,2020,Steve Schorr Elementary School,631,19,Moderate,48,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2099,2021,Steve Schorr Elementary School,655,43,Critical,45,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2099,2022,Steve Schorr Elementary School,647,34,Critical,47,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2099,2023,Steve Schorr Elementary School,701,31,Critical,48,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2099,2024,Steve Schorr Elementary School,678,30,Critical,53,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2100,2020,Kitty McDonough Ward Elementary School,726,8,Low,51,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2100,2021,Kitty McDonough Ward Elementary School,749,25,High,60,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2100,2022,Kitty McDonough Ward Elementary School,727,21,High,58,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2100,2023,Kitty McDonough Ward Elementary School,692,13,Moderate,57,FALSE,54,FALSE,2026-06-23 16:30:42.783 -0700
+2100,2024,Kitty McDonough Ward Elementary School,691,15,Moderate,65,FALSE,61,FALSE,2026-06-23 16:30:42.783 -0700
+2101,2020,Blue Diamond Elementary School,34,,Critical,71,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2101,2021,Blue Diamond Elementary School,29,25,High,88,FALSE,94,FALSE,2026-06-23 16:30:42.783 -0700
+2101,2022,Blue Diamond Elementary School,48,22,High,74,FALSE,95,FALSE,2026-06-23 16:30:42.783 -0700
+2101,2023,Blue Diamond Elementary School,54,31,Critical,82,FALSE,88,FALSE,2026-06-23 16:30:42.783 -0700
+2101,2024,Blue Diamond Elementary School,35,32,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2102,2020,Goodsprings Elementary School,10,42,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2102,2021,Goodsprings Elementary School,,,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2102,2022,Goodsprings Elementary School,,,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2102,2023,Goodsprings Elementary School,,,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2102,2024,Goodsprings Elementary School,,,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2103,2020,Earl B. Lundy Elementary School,12,42,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2103,2021,Earl B. Lundy Elementary School,11,36,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2103,2022,Earl B. Lundy Elementary School,13,31,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2104,2020,Harry Reid Elementary School,21,30,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2104,2021,Harry Reid Elementary School,18,42,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2104,2022,Harry Reid Elementary School,11,15,Moderate,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2104,2023,Harry Reid Elementary School,12,17,Moderate,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2104,2024,Harry Reid Elementary School,13,21,High,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2105,2020,Martin Luther King Jr Elementary School,410,29,High,17,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2105,2021,Martin Luther King Jr Elementary School,388,43,Critical,22,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2105,2022,Martin Luther King Jr Elementary School,355,47,Critical,21,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2105,2023,Martin Luther King Jr Elementary School,363,36,Critical,21,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2105,2024,Martin Luther King Jr Elementary School,349,34,Critical,18,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2106,2020,Ruthe Deskin Elementary School,521,28,High,33,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2106,2021,Ruthe Deskin Elementary School,498,41,Critical,36,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2106,2022,Ruthe Deskin Elementary School,475,41,Critical,35,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2106,2023,Ruthe Deskin Elementary School,527,34,Critical,38,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2106,2024,Ruthe Deskin Elementary School,491,24,High,49,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2107,2020,Frank Kim Elementary School,435,9,Low,43,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2107,2021,Frank Kim Elementary School,381,32,Critical,38,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2107,2022,Frank Kim Elementary School,412,33,Critical,43,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2107,2023,Frank Kim Elementary School,427,31,Critical,36,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2107,2024,Frank Kim Elementary School,430,27,High,47,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2108,2020,John R Beatty Elementary School,554,24,High,42,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2108,2021,John R Beatty Elementary School,537,36,Critical,47,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2108,2022,John R Beatty Elementary School,493,35,Critical,48,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2108,2023,John R Beatty Elementary School,503,35,Critical,54,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2108,2024,John R Beatty Elementary School,486,32,Critical,55,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2109,2020,M J Christensen Elementary School,482,22,High,45,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2109,2021,M J Christensen Elementary School,530,44,Critical,46,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2109,2022,M J Christensen Elementary School,541,42,Critical,44,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2109,2023,M J Christensen Elementary School,492,37,Critical,42,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2109,2024,M J Christensen Elementary School,487,37,Critical,52,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2110,2020,Claude & Stella Parson Elementary School,316,43,Critical,16,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2110,2021,Claude & Stella Parson Elementary School,297,42,Critical,19,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2110,2022,Claude & Stella Parson Elementary School,309,38,Critical,20,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2110,2023,Claude & Stella Parson Elementary School,312,41,Critical,28,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2110,2024,Claude & Stella Parson Elementary School,323,35,Critical,24,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2111,2020,John Dooley Elementary School,340,15,Moderate,48,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2111,2021,John Dooley Elementary School,346,32,Critical,53,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2111,2022,John Dooley Elementary School,337,32,Critical,52,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2111,2023,John Dooley Elementary School,339,27,High,51,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2111,2024,John Dooley Elementary School,332,19,Moderate,48,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2112,2020,John F Mendoza Elementary School,738,22,High,20,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2112,2021,John F Mendoza Elementary School,649,40,Critical,33,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2112,2022,John F Mendoza Elementary School,666,36,Critical,34,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2112,2023,John F Mendoza Elementary School,645,27,High,30,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2112,2024,John F Mendoza Elementary School,648,25,High,40,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2113,2020,James B McMillan Elementary School,506,43,Critical,18,FALSE,,TRUE,2026-06-23 16:30:42.783 -0700
+2113,2021,James B McMillan Elementary School,474,53,Critical,29,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2113,2022,James B McMillan Elementary School,526,47,Critical,26,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2113,2023,James B McMillan Elementary School,498,42,Critical,38,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2113,2024,James B McMillan Elementary School,460,35,Critical,40,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2114,2020,Ute Perkins Elementary School,137,22,High,53,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2114,2021,Ute Perkins Elementary School,148,54,Critical,45,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2114,2022,Ute Perkins Elementary School,152,32,Critical,38,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2114,2023,Ute Perkins Elementary School,153,34,Critical,45,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2114,2024,Ute Perkins Elementary School,138,32,Critical,46,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2115,2020,Ann Lynch Elementary School,562,47,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2115,2021,Ann Lynch Elementary School,533,59,Critical,13,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2115,2022,Ann Lynch Elementary School,485,61,Critical,15,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2115,2023,Ann Lynch Elementary School,426,43,Critical,15,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2115,2024,Ann Lynch Elementary School,446,37,Critical,21,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2116,2020,Gwendolyn Woolley Elementary School,662,19,Moderate,21,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2116,2021,Gwendolyn Woolley Elementary School,623,49,Critical,26,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2116,2022,Gwendolyn Woolley Elementary School,683,47,Critical,28,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2116,2023,Gwendolyn Woolley Elementary School,707,37,Critical,29,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2116,2024,Gwendolyn Woolley Elementary School,651,32,Critical,32,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2117,2020,Robert Lunt Elementary School,551,31,Critical,16,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2117,2021,Robert Lunt Elementary School,502,50,Critical,19,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2117,2022,Robert Lunt Elementary School,470,47,Critical,21,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2117,2023,Robert Lunt Elementary School,447,37,Critical,14,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2117,2024,Robert Lunt Elementary School,384,27,High,20,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2118,2020,Dorothy Eisenberg Elementary School,516,18,Moderate,27,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2118,2021,Dorothy Eisenberg Elementary School,528,38,Critical,44,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2118,2022,Dorothy Eisenberg Elementary School,505,32,Critical,43,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2118,2023,Dorothy Eisenberg Elementary School,467,30,Critical,42,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2118,2024,Dorothy Eisenberg Elementary School,497,25,High,53,FALSE,42,FALSE,2026-06-23 16:30:42.783 -0700
+2119,2020,Wing and Lilly Fong Elementary School,717,44,Critical,26,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2119,2021,Wing and Lilly Fong Elementary School,712,55,Critical,35,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2119,2022,Wing and Lilly Fong Elementary School,654,50,Critical,32,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2119,2023,Wing and Lilly Fong Elementary School,604,39,Critical,36,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2119,2024,Wing and Lilly Fong Elementary School,609,33,Critical,34,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2120,2020,James Gibson Elementary School,494,14,Moderate,39,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2120,2021,James Gibson Elementary School,488,35,Critical,61,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2120,2022,James Gibson Elementary School,458,33,Critical,58,FALSE,43,FALSE,2026-06-23 16:30:42.783 -0700
+2120,2023,James Gibson Elementary School,411,26,High,57,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2120,2024,James Gibson Elementary School,409,22,High,61,FALSE,52,FALSE,2026-06-23 16:30:42.783 -0700
+2121,2020,Elaine Wynn Elementary School,811,31,Critical,15,FALSE,6,FALSE,2026-06-23 16:30:42.783 -0700
+2121,2021,Elaine Wynn Elementary School,783,42,Critical,15,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2121,2022,Elaine Wynn Elementary School,743,42,Critical,21,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2121,2023,Elaine Wynn Elementary School,703,39,Critical,19,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2121,2024,Elaine Wynn Elementary School,706,38,Critical,25,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2122,2020,Charlotte Hill Elementary School,519,11,Moderate,47,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2122,2021,Charlotte Hill Elementary School,483,33,Critical,48,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2122,2022,Charlotte Hill Elementary School,499,34,Critical,46,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2122,2023,Charlotte Hill Elementary School,507,28,High,53,FALSE,52,FALSE,2026-06-23 16:30:42.783 -0700
+2122,2024,Charlotte Hill Elementary School,471,26,High,54,FALSE,53,FALSE,2026-06-23 16:30:42.783 -0700
+2123,2020,Walter Jacobson Elementary School,494,25,High,47,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2123,2021,Walter Jacobson Elementary School,505,44,Critical,50,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2123,2022,Walter Jacobson Elementary School,505,44,Critical,47,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2123,2023,Walter Jacobson Elementary School,519,27,High,42,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2123,2024,Walter Jacobson Elementary School,494,17,Moderate,39,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2124,2020,Herbert A Derfelt Elementary School,567,29,High,26,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2124,2021,Herbert A Derfelt Elementary School,588,45,Critical,29,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2124,2022,Herbert A Derfelt Elementary School,578,44,Critical,44,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2124,2023,Herbert A Derfelt Elementary School,513,35,Critical,43,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2124,2024,Herbert A Derfelt Elementary School,553,30,Critical,42,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2125,2020,Cynthia Cunningham Elementary School,780,57,Critical,23,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2125,2021,Cynthia Cunningham Elementary School,690,53,Critical,22,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2125,2022,Cynthia Cunningham Elementary School,692,51,Critical,26,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2125,2023,Cynthia Cunningham Elementary School,632,41,Critical,29,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2125,2024,Cynthia Cunningham Elementary School,601,45,Critical,27,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2126,2020,David M Cox Elementary School,536,11,Moderate,49,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2126,2021,David M Cox Elementary School,522,24,High,56,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2126,2022,David M Cox Elementary School,512,24,High,56,FALSE,48,FALSE,2026-06-23 16:30:42.783 -0700
+2126,2023,David M Cox Elementary School,491,18,Moderate,59,FALSE,54,FALSE,2026-06-23 16:30:42.783 -0700
+2126,2024,David M Cox Elementary School,460,19,Moderate,63,FALSE,56,FALSE,2026-06-23 16:30:42.783 -0700
+2127,2020,Harriet Treem Elementary School,469,21,High,46,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2127,2021,Harriet Treem Elementary School,472,52,Critical,47,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2127,2022,Harriet Treem Elementary School,501,44,Critical,50,FALSE,43,FALSE,2026-06-23 16:30:42.783 -0700
+2127,2023,Harriet Treem Elementary School,493,41,Critical,48,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2127,2024,Harriet Treem Elementary School,497,24,High,52,FALSE,48,FALSE,2026-06-23 16:30:42.783 -0700
+2128,2020,Richard Rundle Elementary School,659,32,Critical,18,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2128,2021,Richard Rundle Elementary School,630,52,Critical,32,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2128,2022,Richard Rundle Elementary School,672,46,Critical,27,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2128,2023,Richard Rundle Elementary School,621,35,Critical,30,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2128,2024,Richard Rundle Elementary School,598,26,High,33,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2129,2020,Helen Herr Elementary School,680,28,High,15,FALSE,6,FALSE,2026-06-23 16:30:42.783 -0700
+2129,2021,Helen Herr Elementary School,666,47,Critical,23,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2129,2022,Helen Herr Elementary School,615,39,Critical,29,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2129,2023,Helen Herr Elementary School,594,28,High,29,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2129,2024,Helen Herr Elementary School,584,25,High,37,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2130,2020,Jack Dailey Elementary School,651,20,High,27,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2130,2021,Jack Dailey Elementary School,607,37,Critical,27,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2130,2022,Jack Dailey Elementary School,543,30,Critical,36,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2130,2023,Jack Dailey Elementary School,494,34,Critical,31,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2130,2024,Jack Dailey Elementary School,506,30,Critical,33,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2131,2020,Kirk Adams Elementary School,407,15,Moderate,27,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2131,2021,Kirk Adams Elementary School,403,34,Critical,30,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2131,2022,Kirk Adams Elementary School,403,41,Critical,28,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2131,2023,Kirk Adams Elementary School,404,26,High,29,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2131,2024,Kirk Adams Elementary School,321,22,High,32,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2132,2020,Ernest May Elementary School,553,20,High,33,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2132,2021,Ernest May Elementary School,552,42,Critical,53,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2132,2022,Ernest May Elementary School,584,35,Critical,47,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2132,2023,Ernest May Elementary School,582,26,High,51,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2132,2024,Ernest May Elementary School,580,28,High,59,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2133,2020,Marc Kahre Elementary School,420,27,High,35,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2133,2021,Marc Kahre Elementary School,361,37,Critical,36,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2133,2022,Marc Kahre Elementary School,385,35,Critical,39,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2133,2023,Marc Kahre Elementary School,367,36,Critical,37,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2133,2024,Marc Kahre Elementary School,372,28,High,40,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2134,2020,Edythe & Lloyd Katz Elementary School,626,32,Critical,19,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2134,2021,Edythe & Lloyd Katz Elementary School,593,46,Critical,32,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2134,2022,Edythe & Lloyd Katz Elementary School,572,39,Critical,26,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2134,2023,Edythe & Lloyd Katz Elementary School,570,33,Critical,37,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2134,2024,Edythe & Lloyd Katz Elementary School,590,29,High,29,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2135,2020,Helen Jydstrup Elementary School,581,23,High,42,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2135,2021,Helen Jydstrup Elementary School,629,37,Critical,37,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2135,2022,Helen Jydstrup Elementary School,608,38,Critical,38,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2135,2023,Helen Jydstrup Elementary School,580,26,High,38,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2135,2024,Helen Jydstrup Elementary School,563,23,High,50,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2136,2020,Martha P King Elementary School,301,15,Moderate,44,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2136,2021,Martha P King Elementary School,343,25,High,54,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2136,2022,Martha P King Elementary School,354,19,Moderate,60,FALSE,54,FALSE,2026-06-23 16:30:42.783 -0700
+2136,2023,Martha P King Elementary School,371,19,Moderate,57,FALSE,53,FALSE,2026-06-23 16:30:42.783 -0700
+2136,2024,Martha P King Elementary School,364,18,Moderate,67,FALSE,58,FALSE,2026-06-23 16:30:42.783 -0700
+2137,2020,Selma F Bartlett Elementary School,654,16,Moderate,54,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2137,2021,Selma F Bartlett Elementary School,638,30,Critical,57,FALSE,48,FALSE,2026-06-23 16:30:42.783 -0700
+2137,2022,Selma F Bartlett Elementary School,558,26,High,55,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2137,2023,Selma F Bartlett Elementary School,541,21,High,56,FALSE,48,FALSE,2026-06-23 16:30:42.783 -0700
+2137,2024,Selma F Bartlett Elementary School,495,18,Moderate,60,FALSE,56,FALSE,2026-06-23 16:30:42.783 -0700
+2138,2020,Patricia A Bendorf Elementary School,612,18,Moderate,41,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2138,2021,Patricia A Bendorf Elementary School,628,44,Critical,41,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2138,2022,Patricia A Bendorf Elementary School,581,38,Critical,34,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2138,2023,Patricia A Bendorf Elementary School,535,32,Critical,41,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2138,2024,Patricia A Bendorf Elementary School,487,26,High,39,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2139,2020,Jim Thorpe Elementary School,489,34,Critical,27,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2139,2021,Jim Thorpe Elementary School,485,58,Critical,27,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2139,2022,Jim Thorpe Elementary School,426,50,Critical,28,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2139,2023,Jim Thorpe Elementary School,397,41,Critical,34,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2139,2024,Jim Thorpe Elementary School,455,31,Critical,38,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2140,2020,Lee Antonello Elementary School,530,42,Critical,24,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2140,2021,Lee Antonello Elementary School,522,53,Critical,29,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2140,2022,Lee Antonello Elementary School,515,38,Critical,29,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2140,2023,Lee Antonello Elementary School,526,33,Critical,39,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2140,2024,Lee Antonello Elementary School,518,27,High,37,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2141,2020,William Lummis Elementary School,449,16,Moderate,52,FALSE,42,FALSE,2026-06-23 16:30:42.783 -0700
+2141,2021,William Lummis Elementary School,476,28,High,54,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2141,2022,William Lummis Elementary School,450,23,High,63,FALSE,55,FALSE,2026-06-23 16:30:42.783 -0700
+2141,2023,William Lummis Elementary School,484,22,High,61,FALSE,57,FALSE,2026-06-23 16:30:42.783 -0700
+2141,2024,William Lummis Elementary School,503,17,Moderate,68,FALSE,63,FALSE,2026-06-23 16:30:42.783 -0700
+2142,2020,Louis Wiener Jr Elementary School,471,23,High,34,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2142,2021,Louis Wiener Jr Elementary School,449,44,Critical,36,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2142,2022,Louis Wiener Jr Elementary School,472,45,Critical,33,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2142,2023,Louis Wiener Jr Elementary School,419,38,Critical,38,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2142,2024,Louis Wiener Jr Elementary School,423,41,Critical,35,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2143,2020,H P Fitzgerald Elementary School,393,58,Critical,24,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2143,2021,H P Fitzgerald Elementary School,367,55,Critical,34,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2143,2022,H P Fitzgerald Elementary School,388,57,Critical,34,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2143,2023,H P Fitzgerald Elementary School,423,46,Critical,28,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2143,2024,H P Fitzgerald Elementary School,400,42,Critical,31,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2144,2020,Mary & Zel Lowman Elementary School,730,49,Critical,15,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2144,2021,Mary & Zel Lowman Elementary School,717,60,Critical,23,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2144,2022,Mary & Zel Lowman Elementary School,696,56,Critical,13,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2144,2023,Mary & Zel Lowman Elementary School,714,51,Critical,18,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2144,2024,Mary & Zel Lowman Elementary School,689,43,Critical,23,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2145,2020,Piggott Academy Elementary School,714,6,Low,53,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2145,2021,Piggott Academy Elementary School,702,24,High,61,FALSE,53,FALSE,2026-06-23 16:30:42.783 -0700
+2145,2022,Piggott Academy Elementary School,715,19,Moderate,53,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2145,2023,Piggott Academy Elementary School,718,13,Moderate,55,FALSE,61,FALSE,2026-06-23 16:30:42.783 -0700
+2145,2024,Piggott Academy Elementary School,686,9,Low,64,FALSE,62,FALSE,2026-06-23 16:30:42.783 -0700
+2146,2020,Ulis Newton Elementary School,640,15,Moderate,45,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2146,2021,Ulis Newton Elementary School,573,36,Critical,64,FALSE,50,FALSE,2026-06-23 16:30:42.783 -0700
+2146,2022,Ulis Newton Elementary School,564,28,High,57,FALSE,50,FALSE,2026-06-23 16:30:42.783 -0700
+2146,2023,Ulis Newton Elementary School,558,25,High,59,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2146,2024,Ulis Newton Elementary School,526,21,High,56,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2147,2020,Lucile Bruner Elementary School,570,14,Moderate,23,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2147,2021,Lucile Bruner Elementary School,583,48,Critical,38,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2147,2022,Lucile Bruner Elementary School,565,46,Critical,27,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2147,2023,Lucile Bruner Elementary School,554,40,Critical,28,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2147,2024,Lucile Bruner Elementary School,514,33,Critical,28,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2148,2020,Richard H Bryan Elementary School,472,13,Moderate,42,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2148,2021,Richard H Bryan Elementary School,462,29,High,46,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2148,2022,Richard H Bryan Elementary School,439,26,High,51,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2148,2023,Richard H Bryan Elementary School,465,24,High,53,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2148,2024,Richard H Bryan Elementary School,465,23,High,53,FALSE,48,FALSE,2026-06-23 16:30:42.783 -0700
+2149,2020,Elizabeth Wilhelm Elementary School,498,33,Critical,19,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2149,2021,Elizabeth Wilhelm Elementary School,504,42,Critical,25,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2149,2022,Elizabeth Wilhelm Elementary School,483,45,Critical,28,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2149,2023,Elizabeth Wilhelm Elementary School,503,33,Critical,34,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2149,2024,Elizabeth Wilhelm Elementary School,440,33,Critical,34,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2150,2020,Aggie Roberts Elementary School,527,19,Moderate,34,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2150,2021,Aggie Roberts Elementary School,527,38,Critical,33,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2150,2022,Aggie Roberts Elementary School,497,34,Critical,26,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2150,2023,Aggie Roberts Elementary School,496,28,High,34,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2150,2024,Aggie Roberts Elementary School,464,25,High,38,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2151,2020,Dean LaMar Allen Elementary School,396,15,Moderate,50,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2151,2021,Dean LaMar Allen Elementary School,410,29,High,50,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2151,2022,Dean LaMar Allen Elementary School,467,30,Critical,49,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2151,2023,Dean LaMar Allen Elementary School,408,25,High,48,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2151,2024,Dean LaMar Allen Elementary School,390,27,High,45,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2152,2020,Eva Wolfe Elementary School,461,21,High,17,FALSE,5,FALSE,2026-06-23 16:30:42.783 -0700
+2152,2021,Eva Wolfe Elementary School,438,40,Critical,31,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2152,2022,Eva Wolfe Elementary School,434,41,Critical,31,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2152,2023,Eva Wolfe Elementary School,453,27,High,33,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2152,2024,Eva Wolfe Elementary School,450,21,High,43,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2153,2020,Daniel Goldfarb Elementary School,737,25,High,26,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2153,2021,Daniel Goldfarb Elementary School,676,40,Critical,36,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2153,2022,Daniel Goldfarb Elementary School,623,42,Critical,29,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2153,2023,Daniel Goldfarb Elementary School,593,34,Critical,32,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2153,2024,Daniel Goldfarb Elementary School,598,28,High,49,FALSE,42,FALSE,2026-06-23 16:30:42.783 -0700
+2154,2020,John Vanderburg Elementary School,819,6,Low,77,FALSE,72,FALSE,2026-06-23 16:30:42.783 -0700
+2154,2021,John Vanderburg Elementary School,584,13,Moderate,77,FALSE,74,FALSE,2026-06-23 16:30:42.783 -0700
+2154,2022,John Vanderburg Elementary School,547,16,Moderate,73,FALSE,69,FALSE,2026-06-23 16:30:42.783 -0700
+2154,2023,John Vanderburg Elementary School,554,14,Moderate,72,FALSE,68,FALSE,2026-06-23 16:30:42.783 -0700
+2154,2024,John Vanderburg Elementary School,542,14,Moderate,72,FALSE,68,FALSE,2026-06-23 16:30:42.783 -0700
+2155,2020,Arturo Cambeiro Elementary School,566,61,Critical,21,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2155,2021,Arturo Cambeiro Elementary School,513,48,Critical,30,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2155,2022,Arturo Cambeiro Elementary School,524,45,Critical,26,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2155,2023,Arturo Cambeiro Elementary School,504,40,Critical,29,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2155,2024,Arturo Cambeiro Elementary School,511,34,Critical,27,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2156,2020,Roger M Bryan Elementary School,605,17,Moderate,35,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2156,2021,Roger M Bryan Elementary School,569,35,Critical,48,FALSE,43,FALSE,2026-06-23 16:30:42.783 -0700
+2156,2022,Roger M Bryan Elementary School,564,38,Critical,47,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2156,2023,Roger M Bryan Elementary School,599,35,Critical,49,FALSE,48,FALSE,2026-06-23 16:30:42.783 -0700
+2156,2024,Roger M Bryan Elementary School,622,24,High,49,FALSE,50,FALSE,2026-06-23 16:30:42.783 -0700
+2157,2020,John W Bonner Elementary School,780,6,Low,66,FALSE,50,FALSE,2026-06-23 16:30:42.783 -0700
+2157,2021,John W Bonner Elementary School,822,23,High,69,FALSE,66,FALSE,2026-06-23 16:30:42.783 -0700
+2157,2022,John W Bonner Elementary School,817,16,Moderate,64,FALSE,64,FALSE,2026-06-23 16:30:42.783 -0700
+2157,2023,John W Bonner Elementary School,817,12,Moderate,70,FALSE,70,FALSE,2026-06-23 16:30:42.783 -0700
+2157,2024,John W Bonner Elementary School,825,11,Moderate,75,FALSE,71,FALSE,2026-06-23 16:30:42.783 -0700
+2158,2020,Roberta C Cartwright Elementary School,508,25,High,33,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2158,2021,Roberta C Cartwright Elementary School,515,47,Critical,31,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2158,2022,Roberta C Cartwright Elementary School,525,25,High,39,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2158,2023,Roberta C Cartwright Elementary School,545,8,Low,39,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2158,2024,Roberta C Cartwright Elementary School,541,38,Critical,54,FALSE,42,FALSE,2026-06-23 16:30:42.783 -0700
+2159,2020,Joseph L Bowler Elementary School,416,27,High,34,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2159,2021,Joseph L Bowler Elementary School,453,47,Critical,28,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2159,2022,Joseph L Bowler Elementary School,471,34,Critical,26,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2159,2023,Joseph L Bowler Elementary School,456,31,Critical,29,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2159,2024,Joseph L Bowler Elementary School,465,25,High,39,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2160,2020,Betsy Rhodes Elementary School,598,11,Moderate,55,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2160,2021,Betsy Rhodes Elementary School,586,31,Critical,59,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2160,2022,Betsy Rhodes Elementary School,571,31,Critical,57,FALSE,42,FALSE,2026-06-23 16:30:42.783 -0700
+2160,2023,Betsy Rhodes Elementary School,609,24,High,49,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2160,2024,Betsy Rhodes Elementary School,570,24,High,60,FALSE,52,FALSE,2026-06-23 16:30:42.783 -0700
+2161,2020,Addeliar D Guy III Elementary School,475,19,Moderate,39,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2161,2021,Addeliar D Guy III Elementary School,474,38,Critical,39,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2161,2022,Addeliar D Guy III Elementary School,488,32,Critical,28,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2161,2023,Addeliar D Guy III Elementary School,488,30,Critical,25,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2161,2024,Addeliar D Guy III Elementary School,470,31,Critical,40,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2162,2020,Sue H Morrow Elementary School,495,11,Moderate,47,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2162,2021,Sue H Morrow Elementary School,468,36,Critical,61,FALSE,52,FALSE,2026-06-23 16:30:42.783 -0700
+2162,2022,Sue H Morrow Elementary School,453,35,Critical,63,FALSE,54,FALSE,2026-06-23 16:30:42.783 -0700
+2162,2023,Sue H Morrow Elementary School,458,32,Critical,57,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2162,2024,Sue H Morrow Elementary School,416,27,High,67,FALSE,53,FALSE,2026-06-23 16:30:42.783 -0700
+2163,2020,Berkeley L Bunker Elementary School,709,33,Critical,25,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2163,2021,Berkeley L Bunker Elementary School,707,40,Critical,31,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2163,2022,Berkeley L Bunker Elementary School,662,33,Critical,24,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2163,2023,Berkeley L Bunker Elementary School,654,34,Critical,24,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2163,2024,Berkeley L Bunker Elementary School,586,30,Critical,21,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2164,2020,Raul P Elizondo Elementary School,670,21,High,20,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2164,2021,Raul P Elizondo Elementary School,639,44,Critical,32,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2164,2022,Raul P Elizondo Elementary School,634,41,Critical,19,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2164,2023,Raul P Elizondo Elementary School,620,39,Critical,27,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2164,2024,Raul P Elizondo Elementary School,582,36,Critical,30,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2165,2020,Manuel J Cortez Elementary School,700,39,Critical,15,FALSE,,TRUE,2026-06-23 16:30:42.783 -0700
+2165,2021,Manuel J Cortez Elementary School,718,54,Critical,20,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2165,2022,Manuel J Cortez Elementary School,699,46,Critical,22,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2165,2023,Manuel J Cortez Elementary School,613,35,Critical,28,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2165,2024,Manuel J Cortez Elementary School,661,34,Critical,32,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2166,2020,Frank Lamping Elementary School,635,,Critical,67,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2166,2021,Frank Lamping Elementary School,619,16,Moderate,69,FALSE,58,FALSE,2026-06-23 16:30:42.783 -0700
+2166,2022,Frank Lamping Elementary School,602,19,Moderate,65,FALSE,55,FALSE,2026-06-23 16:30:42.783 -0700
+2166,2023,Frank Lamping Elementary School,632,19,Moderate,66,FALSE,60,FALSE,2026-06-23 16:30:42.783 -0700
+2166,2024,Frank Lamping Elementary School,624,22,High,74,FALSE,68,FALSE,2026-06-23 16:30:42.783 -0700
+2167,2020,Edith Garehime Elementary School,637,29,High,39,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2167,2021,Edith Garehime Elementary School,634,38,Critical,42,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2167,2022,Edith Garehime Elementary School,623,30,Critical,43,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2167,2023,Edith Garehime Elementary School,614,34,Critical,38,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2167,2024,Edith Garehime Elementary School,597,29,High,42,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2168,2020,Keith C & Karen W Hayes Elementary School,524,7,Low,47,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2168,2021,Keith C & Karen W Hayes Elementary School,506,41,Critical,51,FALSE,42,FALSE,2026-06-23 16:30:42.783 -0700
+2168,2022,Keith C & Karen W Hayes Elementary School,531,27,High,49,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2168,2023,Keith C & Karen W Hayes Elementary School,549,23,High,54,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2168,2024,Keith C & Karen W Hayes Elementary School,509,21,High,62,FALSE,52,FALSE,2026-06-23 16:30:42.783 -0700
+2169,2020,Lorna J Kesterson Elementary School,708,11,Moderate,53,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2169,2021,Lorna J Kesterson Elementary School,579,31,Critical,60,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2169,2022,Lorna J Kesterson Elementary School,532,27,High,55,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2169,2023,Lorna J Kesterson Elementary School,546,25,High,53,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2169,2024,Lorna J Kesterson Elementary School,535,22,High,50,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2170,2020,Joseph M Neal Elementary School,552,14,Moderate,34,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2170,2021,Joseph M Neal Elementary School,507,36,Critical,48,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2170,2022,Joseph M Neal Elementary School,555,30,Critical,40,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2170,2023,Joseph M Neal Elementary School,557,29,High,50,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2170,2024,Joseph M Neal Elementary School,458,23,High,51,FALSE,43,FALSE,2026-06-23 16:30:42.783 -0700
+2171,2020,Kay Carl Elementary School,716,21,High,30,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2171,2021,Kay Carl Elementary School,714,32,Critical,36,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2171,2022,Kay Carl Elementary School,715,28,High,45,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2171,2023,Kay Carl Elementary School,687,22,High,42,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2171,2024,Kay Carl Elementary School,630,24,High,50,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2172,2020,Marshall C Darnell Elementary School,492,18,Moderate,46,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2172,2021,Marshall C Darnell Elementary School,479,42,Critical,49,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2172,2022,Marshall C Darnell Elementary School,559,43,Critical,43,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2172,2023,Marshall C Darnell Elementary School,589,39,Critical,41,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2172,2024,Marshall C Darnell Elementary School,632,36,Critical,58,FALSE,53,FALSE,2026-06-23 16:30:42.783 -0700
+2173,2020,Howard E Heckethorn Elementary School,670,11,Moderate,54,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2173,2021,Howard E Heckethorn Elementary School,787,22,High,60,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2173,2022,Howard E Heckethorn Elementary School,726,23,High,54,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2173,2023,Howard E Heckethorn Elementary School,755,21,High,64,FALSE,57,FALSE,2026-06-23 16:30:42.783 -0700
+2173,2024,Howard E Heckethorn Elementary School,778,25,High,62,FALSE,54,FALSE,2026-06-23 16:30:42.783 -0700
+2174,2020,Lucille S Rogers Elementary School,684,18,Moderate,56,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2174,2021,Lucille S Rogers Elementary School,708,40,Critical,45,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2174,2022,Lucille S Rogers Elementary School,718,34,Critical,44,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2174,2023,Lucille S Rogers Elementary School,717,28,High,45,FALSE,42,FALSE,2026-06-23 16:30:42.783 -0700
+2174,2024,Lucille S Rogers Elementary School,687,28,High,52,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2175,2020,William E Snyder Elementary School,737,27,High,19,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2175,2021,William E Snyder Elementary School,714,52,Critical,24,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2175,2022,William E Snyder Elementary School,725,50,Critical,18,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2175,2023,William E Snyder Elementary School,696,42,Critical,24,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2175,2024,William E Snyder Elementary School,686,29,High,24,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2176,2020,Neil C Twitchell Elementary School,826,8,Low,60,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2176,2021,Neil C Twitchell Elementary School,572,25,High,62,FALSE,53,FALSE,2026-06-23 16:30:42.783 -0700
+2176,2022,Neil C Twitchell Elementary School,515,16,Moderate,62,FALSE,63,FALSE,2026-06-23 16:30:42.783 -0700
+2176,2023,Neil C Twitchell Elementary School,541,12,Moderate,65,FALSE,61,FALSE,2026-06-23 16:30:42.783 -0700
+2176,2024,Neil C Twitchell Elementary School,551,13,Moderate,72,FALSE,69,FALSE,2026-06-23 16:30:42.783 -0700
+2177,2020,Fredric W Watson Elementary School,647,21,High,25,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2177,2021,Fredric W Watson Elementary School,635,39,Critical,33,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2177,2022,Fredric W Watson Elementary School,684,33,Critical,27,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2177,2023,Fredric W Watson Elementary School,683,32,Critical,26,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2177,2024,Fredric W Watson Elementary School,633,29,High,37,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2178,2020,Tony Alamo Elementary School,854,11,Moderate,44,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2178,2021,Tony Alamo Elementary School,847,32,Critical,55,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2178,2022,Tony Alamo Elementary School,835,28,High,55,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2178,2023,Tony Alamo Elementary School,871,23,High,53,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2178,2024,Tony Alamo Elementary School,898,19,Moderate,55,FALSE,52,FALSE,2026-06-23 16:30:42.783 -0700
+2179,2020,Eileen B Brookman Elementary School,650,18,Moderate,33,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2179,2021,Eileen B Brookman Elementary School,615,34,Critical,36,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2179,2022,Eileen B Brookman Elementary School,655,32,Critical,42,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2179,2023,Eileen B Brookman Elementary School,662,27,High,42,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2179,2024,Eileen B Brookman Elementary School,671,23,High,50,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2180,2020,Steve and Linda Cozine Elementary School,681,20,High,26,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2180,2021,Steve and Linda Cozine Elementary School,714,43,Critical,36,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2180,2022,Steve and Linda Cozine Elementary School,675,37,Critical,34,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2180,2023,Steve and Linda Cozine Elementary School,638,29,High,39,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2180,2024,Steve and Linda Cozine Elementary School,660,25,High,48,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2181,2020,Roger D Gehring Academy of Science and Technology Elementary School,719,9,Low,56,FALSE,48,FALSE,2026-06-23 16:30:42.783 -0700
+2181,2021,Roger D Gehring Academy of Science and Technology Elementary School,689,25,High,75,FALSE,61,FALSE,2026-06-23 16:30:42.783 -0700
+2181,2022,Roger D Gehring Academy of Science and Technology Elementary School,665,12,Moderate,81,FALSE,74,FALSE,2026-06-23 16:30:42.783 -0700
+2181,2023,Roger D Gehring Academy of Science and Technology Elementary School,628,7,Low,82,FALSE,83,FALSE,2026-06-23 16:30:42.783 -0700
+2181,2024,Roger D Gehring Academy of Science and Technology Elementary School,648,,Critical,84,FALSE,82,FALSE,2026-06-23 16:30:42.783 -0700
+2182,2020,Mervin Iverson Elementary School,584,21,High,40,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2182,2021,Mervin Iverson Elementary School,556,33,Critical,38,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2182,2022,Mervin Iverson Elementary School,520,34,Critical,36,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2182,2023,Mervin Iverson Elementary School,563,25,High,41,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2182,2024,Mervin Iverson Elementary School,540,18,Moderate,45,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2183,2020,J Marlan Walker International School Elementary School,625,16,Moderate,58,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2183,2021,J Marlan Walker International School Elementary School,591,26,High,56,FALSE,58,FALSE,2026-06-23 16:30:42.783 -0700
+2183,2022,J Marlan Walker International School Elementary School,586,23,High,59,FALSE,52,FALSE,2026-06-23 16:30:42.783 -0700
+2183,2023,J Marlan Walker International School Elementary School,552,27,High,56,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2183,2024,J Marlan Walker International School Elementary School,549,27,High,54,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2184,2020,Eileen Conners Elementary School,585,14,Moderate,44,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2184,2021,Eileen Conners Elementary School,588,40,Critical,47,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2184,2022,Eileen Conners Elementary School,587,41,Critical,52,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2184,2023,Eileen Conners Elementary School,585,31,Critical,57,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2184,2024,Eileen Conners Elementary School,548,23,High,54,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2185,2020,Linda Rankin Givens Elementary School,647,6,Low,72,FALSE,55,FALSE,2026-06-23 16:30:42.783 -0700
+2185,2021,Linda Rankin Givens Elementary School,657,26,High,70,FALSE,65,FALSE,2026-06-23 16:30:42.783 -0700
+2185,2022,Linda Rankin Givens Elementary School,663,17,Moderate,70,FALSE,66,FALSE,2026-06-23 16:30:42.783 -0700
+2185,2023,Linda Rankin Givens Elementary School,725,16,Moderate,71,FALSE,70,FALSE,2026-06-23 16:30:42.783 -0700
+2185,2024,Linda Rankin Givens Elementary School,757,14,Moderate,76,FALSE,74,FALSE,2026-06-23 16:30:42.783 -0700
+2186,2020,Judy & John L Goolsby Elementary School,751,6,Low,75,FALSE,57,FALSE,2026-06-23 16:30:42.783 -0700
+2186,2021,Judy & John L Goolsby Elementary School,740,16,Moderate,75,FALSE,73,FALSE,2026-06-23 16:30:42.783 -0700
+2186,2022,Judy & John L Goolsby Elementary School,743,18,Moderate,71,FALSE,67,FALSE,2026-06-23 16:30:42.783 -0700
+2186,2023,Judy & John L Goolsby Elementary School,729,16,Moderate,70,FALSE,69,FALSE,2026-06-23 16:30:42.783 -0700
+2186,2024,Judy & John L Goolsby Elementary School,707,16,Moderate,78,FALSE,75,FALSE,2026-06-23 16:30:42.783 -0700
+2187,2020,John R Hummel Elementary School,636,23,High,26,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2187,2021,John R Hummel Elementary School,651,49,Critical,35,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2187,2022,John R Hummel Elementary School,622,46,Critical,35,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2187,2023,John R Hummel Elementary School,629,36,Critical,33,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2187,2024,John R Hummel Elementary School,585,42,Critical,34,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2188,2020,William & Mary Scherkenbach Elementary School,539,10,Moderate,36,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2188,2021,William & Mary Scherkenbach Elementary School,540,32,Critical,47,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2188,2022,William & Mary Scherkenbach Elementary School,520,30,Critical,54,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2188,2023,William & Mary Scherkenbach Elementary School,540,21,High,65,FALSE,54,FALSE,2026-06-23 16:30:42.783 -0700
+2188,2024,William & Mary Scherkenbach Elementary School,536,16,Moderate,65,FALSE,56,FALSE,2026-06-23 16:30:42.783 -0700
+2189,2020,Eva G Simmons Elementary School,618,22,High,49,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2189,2021,Eva G Simmons Elementary School,588,36,Critical,47,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2189,2022,Eva G Simmons Elementary School,604,36,Critical,46,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2189,2023,Eva G Simmons Elementary School,613,27,High,41,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2189,2024,Eva G Simmons Elementary School,587,24,High,36,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2190,2020,Wayne N Tanaka Elementary School,700,17,Moderate,46,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2190,2021,Wayne N Tanaka Elementary School,715,44,Critical,43,FALSE,43,FALSE,2026-06-23 16:30:42.783 -0700
+2190,2022,Wayne N Tanaka Elementary School,738,40,Critical,45,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2190,2023,Wayne N Tanaka Elementary School,733,34,Critical,54,FALSE,50,FALSE,2026-06-23 16:30:42.783 -0700
+2190,2024,Wayne N Tanaka Elementary School,728,17,Moderate,58,FALSE,52,FALSE,2026-06-23 16:30:42.783 -0700
+2191,2020,John Tartan Elementary School,445,37,Critical,18,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2191,2021,John Tartan Elementary School,496,48,Critical,16,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2191,2022,John Tartan Elementary School,483,49,Critical,22,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2191,2023,John Tartan Elementary School,485,40,Critical,27,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2191,2024,John Tartan Elementary School,498,37,Critical,32,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2192,2020,Joseph E Thiriot Elementary School,698,21,High,34,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2192,2021,Joseph E Thiriot Elementary School,659,38,Critical,43,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2192,2022,Joseph E Thiriot Elementary School,714,34,Critical,34,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2192,2023,Joseph E Thiriot Elementary School,622,23,High,39,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2192,2024,Joseph E Thiriot Elementary School,607,21,High,45,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2193,2020,Kathy L Batterman Elementary School,655,11,Moderate,55,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2193,2021,Kathy L Batterman Elementary School,656,28,High,65,FALSE,61,FALSE,2026-06-23 16:30:42.783 -0700
+2193,2022,Kathy L Batterman Elementary School,664,28,High,58,FALSE,55,FALSE,2026-06-23 16:30:42.783 -0700
+2193,2023,Kathy L Batterman Elementary School,657,19,Moderate,63,FALSE,60,FALSE,2026-06-23 16:30:42.783 -0700
+2193,2024,Kathy L Batterman Elementary School,635,18,Moderate,69,FALSE,58,FALSE,2026-06-23 16:30:42.783 -0700
+2194,2020,Aldeane Comito Ries Elementary School,810,11,Moderate,40,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2194,2021,Aldeane Comito Ries Elementary School,767,31,Critical,51,FALSE,43,FALSE,2026-06-23 16:30:42.783 -0700
+2194,2022,Aldeane Comito Ries Elementary School,755,27,High,49,FALSE,43,FALSE,2026-06-23 16:30:42.783 -0700
+2194,2023,Aldeane Comito Ries Elementary School,772,23,High,54,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2194,2024,Aldeane Comito Ries Elementary School,842,27,High,48,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2195,2020,Liliam Lujan Hickey Elementary School,686,39,Critical,19,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2195,2021,Liliam Lujan Hickey Elementary School,656,55,Critical,22,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2195,2022,Liliam Lujan Hickey Elementary School,679,50,Critical,23,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2195,2023,Liliam Lujan Hickey Elementary School,623,36,Critical,22,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2195,2024,Liliam Lujan Hickey Elementary School,617,36,Critical,27,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2196,2020,Jay W Jeffers Elementary School,674,52,Critical,24,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2196,2021,Jay W Jeffers Elementary School,587,46,Critical,18,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2196,2022,Jay W Jeffers Elementary School,606,51,Critical,21,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2196,2023,Jay W Jeffers Elementary School,535,39,Critical,18,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2196,2024,Jay W Jeffers Elementary School,504,31,Critical,24,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2197,2020,Theron H & Naomi D Goynes Elementary School,702,17,Moderate,45,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2197,2021,Theron H & Naomi D Goynes Elementary School,721,35,Critical,50,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2197,2022,Theron H & Naomi D Goynes Elementary School,718,29,High,53,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2197,2023,Theron H & Naomi D Goynes Elementary School,680,27,High,56,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2197,2024,Theron H & Naomi D Goynes Elementary School,675,29,High,62,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2198,2020,Sandra L Thompson Elementary School,579,17,Moderate,45,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2198,2021,Sandra L Thompson Elementary School,608,35,Critical,53,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2198,2022,Sandra L Thompson Elementary School,600,31,Critical,57,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2198,2023,Sandra L Thompson Elementary School,622,25,High,50,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2198,2024,Sandra L Thompson Elementary School,628,21,High,50,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2199,2020,Don E Hayden Elementary School,693,34,Critical,28,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2199,2021,Don E Hayden Elementary School,712,43,Critical,26,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2199,2022,Don E Hayden Elementary School,770,41,Critical,22,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2199,2023,Don E Hayden Elementary School,744,35,Critical,26,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2199,2024,Don E Hayden Elementary School,782,36,Critical,33,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2200,2020,William V Wright Elementary School,649,15,Moderate,44,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2200,2021,William V Wright Elementary School,623,38,Critical,52,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2200,2022,William V Wright Elementary School,608,29,High,55,FALSE,52,FALSE,2026-06-23 16:30:42.783 -0700
+2200,2023,William V Wright Elementary School,565,25,High,56,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2200,2024,William V Wright Elementary School,562,25,High,51,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2201,2020,Bertha Ronzone Elementary School,753,34,Critical,17,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2201,2021,Bertha Ronzone Elementary School,776,41,Critical,29,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2201,2022,Bertha Ronzone Elementary School,711,38,Critical,27,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2201,2023,Bertha Ronzone Elementary School,683,33,Critical,20,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2201,2024,Bertha Ronzone Elementary School,693,28,High,25,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2202,2020,Mabel Hoggard Elementary School,451,6,Low,42,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2202,2021,Mabel Hoggard Elementary School,461,15,Moderate,47,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2202,2022,Mabel Hoggard Elementary School,519,15,Moderate,56,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2202,2023,Mabel Hoggard Elementary School,535,9,Low,61,FALSE,56,FALSE,2026-06-23 16:30:42.783 -0700
+2202,2024,Mabel Hoggard Elementary School,530,7,Low,63,FALSE,58,FALSE,2026-06-23 16:30:42.783 -0700
+2203,2020,C C Ronnow Elementary School,628,29,High,14,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2203,2021,C C Ronnow Elementary School,565,44,Critical,33,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2203,2022,C C Ronnow Elementary School,540,41,Critical,20,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2203,2023,C C Ronnow Elementary School,491,26,High,24,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2203,2024,C C Ronnow Elementary School,503,24,High,30,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2204,2020,C P Squires Elementary School,712,35,Critical,18,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2204,2021,C P Squires Elementary School,630,47,Critical,30,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2204,2022,C P Squires Elementary School,584,46,Critical,26,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2204,2023,C P Squires Elementary School,529,42,Critical,26,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2204,2024,C P Squires Elementary School,514,30,Critical,22,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2205,2020,Crestwood Elementary School,679,9,Low,22,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2205,2021,Crestwood Elementary School,638,42,Critical,27,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2205,2022,Crestwood Elementary School,615,39,Critical,24,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2205,2023,Crestwood Elementary School,559,22,High,32,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2205,2024,Crestwood Elementary School,551,16,Moderate,39,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2206,2020,CVT Gilbert Elementary School,516,15,Moderate,40,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2206,2021,CVT Gilbert Elementary School,476,31,Critical,43,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2206,2022,CVT Gilbert Elementary School,527,29,High,46,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2206,2023,CVT Gilbert Elementary School,472,24,High,46,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2206,2024,CVT Gilbert Elementary School,487,18,Moderate,41,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2207,2020,Doris Hancock Elementary School,544,34,Critical,29,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2207,2021,Doris Hancock Elementary School,536,47,Critical,32,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2207,2022,Doris Hancock Elementary School,497,44,Critical,24,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2207,2023,Doris Hancock Elementary School,505,38,Critical,26,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2207,2024,Doris Hancock Elementary School,420,38,Critical,31,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2208,2020,E W Griffith Elementary School,618,14,Moderate,21,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2208,2021,E W Griffith Elementary School,590,28,High,26,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2208,2022,E W Griffith Elementary School,588,38,Critical,20,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2208,2023,E W Griffith Elementary School,585,33,Critical,22,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2208,2024,E W Griffith Elementary School,608,30,Critical,34,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2209,2020,Fay Herron Elementary School,729,14,Moderate,33,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2209,2021,Fay Herron Elementary School,682,26,High,35,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2209,2022,Fay Herron Elementary School,609,19,Moderate,41,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2209,2023,Fay Herron Elementary School,573,13,Moderate,36,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2209,2024,Fay Herron Elementary School,575,12,Moderate,32,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2210,2020,Halle Hewetson Elementary School,788,36,Critical,15,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2210,2021,Halle Hewetson Elementary School,713,45,Critical,19,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2210,2022,Halle Hewetson Elementary School,713,44,Critical,18,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2210,2023,Halle Hewetson Elementary School,619,31,Critical,21,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2210,2024,Halle Hewetson Elementary School,574,21,High,26,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2211,2020,Kermit R Booker Sr Elementary School,409,36,Critical,17,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2211,2021,Kermit R Booker Sr Elementary School,382,52,Critical,25,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2211,2022,Kermit R Booker Sr Elementary School,354,42,Critical,20,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2211,2023,Kermit R Booker Sr Elementary School,340,28,High,22,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2211,2024,Kermit R Booker Sr Elementary School,333,27,High,30,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2212,2020,Ira J Earl Elementary School,695,41,Critical,15,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2212,2021,Ira J Earl Elementary School,596,46,Critical,19,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2212,2022,Ira J Earl Elementary School,623,42,Critical,16,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2212,2023,Ira J Earl Elementary School,635,33,Critical,16,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2212,2024,Ira J Earl Elementary School,586,30,Critical,18,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2213,2020,J E Manch Elementary School,807,57,Critical,14,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2213,2021,J E Manch Elementary School,721,63,Critical,21,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2213,2022,J E Manch Elementary School,839,65,Critical,17,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2213,2023,J E Manch Elementary School,708,54,Critical,19,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2213,2024,J E Manch Elementary School,671,48,Critical,21,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2214,2020,J M Ullom Elementary School,618,27,High,22,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2214,2021,J M Ullom Elementary School,627,46,Critical,28,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2214,2022,J M Ullom Elementary School,625,43,Critical,31,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2214,2023,J M Ullom Elementary School,572,38,Critical,34,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2214,2024,J M Ullom Elementary School,623,31,Critical,37,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2215,2020,John F Miller ,130,74,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2216,2020,John S Park Elementary School,636,41,Critical,31,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2216,2021,John S Park Elementary School,575,47,Critical,40,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2216,2022,John S Park Elementary School,572,46,Critical,34,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2216,2023,John S Park Elementary School,538,49,Critical,29,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2216,2024,John S Park Elementary School,551,36,Critical,31,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2217,2020,Jo Mackey Elementary School,537,8,Low,39,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2217,2021,Jo Mackey Elementary School,523,30,Critical,48,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2217,2022,Jo Mackey Elementary School,512,17,Moderate,53,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2217,2023,Jo Mackey Elementary School,504,14,Moderate,56,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2217,2024,Jo Mackey Elementary School,515,14,Moderate,51,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2218,2020,J T McWilliams Elementary School,702,34,Critical,23,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2218,2021,J T McWilliams Elementary School,663,41,Critical,32,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2218,2022,J T McWilliams Elementary School,684,39,Critical,26,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2218,2023,J T McWilliams Elementary School,626,32,Critical,25,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2218,2024,J T McWilliams Elementary School,627,27,High,27,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2219,2020,Helen Anderson Toland International Academy,348,23,High,28,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2219,2021,Helen Anderson Toland International Academy,297,38,Critical,35,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2219,2022,Helen Anderson Toland International Academy,282,22,High,33,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2219,2023,Helen Anderson Toland International Academy,267,21,High,49,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2219,2024,Helen Anderson Toland International Academy,250,8,Low,46,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2220,2020,Laura Dearing Elementary School,853,42,Critical,18,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2220,2021,Laura Dearing Elementary School,780,49,Critical,16,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2220,2022,Laura Dearing Elementary School,837,53,Critical,24,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2220,2023,Laura Dearing Elementary School,750,44,Critical,20,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2220,2024,Laura Dearing Elementary School,600,34,Critical,20,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2221,2020,Lewis E Rowe Elementary School,629,28,High,32,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2221,2021,Lewis E Rowe Elementary School,572,46,Critical,47,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2221,2022,Lewis E Rowe Elementary School,588,40,Critical,49,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2221,2023,Lewis E Rowe Elementary School,619,33,Critical,41,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2221,2024,Lewis E Rowe Elementary School,614,32,Critical,48,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2222,2020,Lincoln Elementary School,689,27,High,17,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2222,2021,Lincoln Elementary School,685,49,Critical,23,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2222,2022,Lincoln Elementary School,640,43,Critical,20,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2222,2023,Lincoln Elementary School,604,29,High,21,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2222,2024,Lincoln Elementary School,606,29,High,26,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2223,2020,Lois Craig Elementary School,633,48,Critical,18,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2223,2021,Lois Craig Elementary School,534,53,Critical,19,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2223,2022,Lois Craig Elementary School,510,55,Critical,15,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2223,2023,Lois Craig Elementary School,501,51,Critical,8,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2223,2024,Lois Craig Elementary School,515,43,Critical,13,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2224,2020,Wendell Williams Elementary School,300,72,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2224,2021,Wendell Williams Elementary School,304,76,Critical,18,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2224,2022,Wendell Williams Elementary School,339,64,Critical,12,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2224,2023,Wendell Williams Elementary School,314,53,Critical,15,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2224,2024,Wendell Williams Elementary School,339,52,Critical,18,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2225,2020,Marion Cahlan Elementary School,716,28,High,29,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2225,2021,Marion Cahlan Elementary School,612,35,Critical,41,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2225,2022,Marion Cahlan Elementary School,569,44,Critical,31,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2225,2023,Marion Cahlan Elementary School,523,37,Critical,35,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2225,2024,Marion Cahlan Elementary School,479,34,Critical,29,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2226,2020,Matt Kelly Elementary School,356,68,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2226,2021,Matt Kelly Elementary School,366,58,Critical,10,FALSE,6,FALSE,2026-06-23 16:30:42.783 -0700
+2226,2022,Matt Kelly Elementary School,367,51,Critical,13,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2226,2023,Matt Kelly Elementary School,337,42,Critical,12,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2226,2024,Matt Kelly Elementary School,310,48,Critical,17,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2228,2020,Mountain View Elementary School,533,36,Critical,18,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2228,2021,Mountain View Elementary School,506,47,Critical,27,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2228,2022,Mountain View Elementary School,515,38,Critical,24,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2228,2023,Mountain View Elementary School,361,43,Critical,21,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2228,2024,Mountain View Elementary School,421,34,Critical,32,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2230,2020,Glen C Taylor Elementary School,687,11,Moderate,55,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2230,2021,Glen C Taylor Elementary School,688,29,High,61,FALSE,57,FALSE,2026-06-23 16:30:42.783 -0700
+2230,2022,Glen C Taylor Elementary School,690,26,High,56,FALSE,55,FALSE,2026-06-23 16:30:42.783 -0700
+2230,2023,Glen C Taylor Elementary School,628,20,High,62,FALSE,55,FALSE,2026-06-23 16:30:42.783 -0700
+2230,2024,Glen C Taylor Elementary School,638,19,Moderate,60,FALSE,60,FALSE,2026-06-23 16:30:42.783 -0700
+2231,2020,O K Adcock Elementary School,523,22,High,27,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2231,2021,O K Adcock Elementary School,448,37,Critical,33,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2231,2022,O K Adcock Elementary School,441,36,Critical,36,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2231,2023,O K Adcock Elementary School,430,37,Critical,34,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2231,2024,O K Adcock Elementary School,401,28,High,46,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2232,2020,Paradise Professional Development Elementary School,459,38,Critical,21,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2232,2021,Paradise Professional Development Elementary School,479,58,Critical,19,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2232,2022,Paradise Professional Development Elementary School,476,47,Critical,28,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2232,2023,Paradise Professional Development Elementary School,383,43,Critical,30,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2232,2024,Paradise Professional Development Elementary School,429,38,Critical,22,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2233,2020,Paul E Culley Elementary School,763,32,Critical,19,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2233,2021,Paul E Culley Elementary School,651,45,Critical,30,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2233,2022,Paul E Culley Elementary School,607,30,Critical,36,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2233,2023,Paul E Culley Elementary School,595,30,Critical,34,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2233,2024,Paul E Culley Elementary School,583,30,Critical,33,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2234,2020,Quannah McCall Elementary School,327,30,Critical,14,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2234,2021,Quannah McCall Elementary School,279,42,Critical,22,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2234,2022,Quannah McCall Elementary School,244,41,Critical,32,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2234,2023,Quannah McCall Elementary School,288,41,Critical,26,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2234,2024,Quannah McCall Elementary School,252,25,High,36,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2235,2020,Red Rock Elementary School,690,30,Critical,16,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2235,2021,Red Rock Elementary School,662,42,Critical,20,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2235,2022,Red Rock Elementary School,527,43,Critical,23,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2235,2023,Red Rock Elementary School,452,38,Critical,28,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2235,2024,Red Rock Elementary School,546,30,Critical,24,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2236,2020,Rex Bell Elementary School,757,35,Critical,25,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2236,2021,Rex Bell Elementary School,695,52,Critical,27,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2236,2022,Rex Bell Elementary School,591,47,Critical,28,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2236,2023,Rex Bell Elementary School,543,41,Critical,22,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2236,2024,Rex Bell Elementary School,539,31,Critical,25,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2237,2020,Robert E Lake Elementary School,706,33,Critical,27,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2237,2021,Robert E Lake Elementary School,676,48,Critical,25,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2237,2022,Robert E Lake Elementary School,642,44,Critical,26,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2237,2023,Robert E Lake Elementary School,591,34,Critical,23,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2237,2024,Robert E Lake Elementary School,682,35,Critical,30,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2238,2020,Rose Warren Elementary School,644,21,High,23,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2238,2021,Rose Warren Elementary School,604,48,Critical,24,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2238,2022,Rose Warren Elementary School,561,45,Critical,25,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2238,2023,Rose Warren Elementary School,516,41,Critical,28,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2238,2024,Rose Warren Elementary School,499,34,Critical,29,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2239,2020,Ruby S Thomas Elementary School,755,45,Critical,15,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2239,2021,Ruby S Thomas Elementary School,662,57,Critical,17,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2239,2022,Ruby S Thomas Elementary School,644,57,Critical,17,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2239,2023,Ruby S Thomas Elementary School,624,57,Critical,16,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2239,2024,Ruby S Thomas Elementary School,682,52,Critical,30,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2241,2020,Sunrise Acres Elementary School,637,43,Critical,21,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2241,2021,Sunrise Acres Elementary School,630,51,Critical,31,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2241,2022,Sunrise Acres Elementary School,553,52,Critical,19,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2241,2023,Sunrise Acres Elementary School,549,40,Critical,19,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2241,2024,Sunrise Acres Elementary School,496,33,Critical,26,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2242,2020,Tom Williams Elementary School,665,24,High,30,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2242,2021,Tom Williams Elementary School,648,43,Critical,24,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2242,2022,Tom Williams Elementary School,635,38,Critical,26,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2242,2023,Tom Williams Elementary School,601,24,High,27,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2242,2024,Tom Williams Elementary School,538,25,High,27,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2243,2020,Twin Lakes Elementary School,527,24,High,20,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2243,2021,Twin Lakes Elementary School,550,38,Critical,31,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2243,2022,Twin Lakes Elementary School,549,32,Critical,31,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2243,2023,Twin Lakes Elementary School,542,25,High,29,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2243,2024,Twin Lakes Elementary School,523,17,Moderate,36,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2244,2020,Vail Pittman Elementary School,552,30,Critical,23,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2244,2021,Vail Pittman Elementary School,544,47,Critical,29,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2244,2022,Vail Pittman Elementary School,533,43,Critical,25,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2244,2023,Vail Pittman Elementary School,481,39,Critical,22,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2244,2024,Vail Pittman Elementary School,464,33,Critical,31,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2245,2020,Vegas Verdes Elementary School,732,27,High,24,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2245,2021,Vegas Verdes Elementary School,730,41,Critical,26,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2245,2022,Vegas Verdes Elementary School,727,37,Critical,26,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2245,2023,Vegas Verdes Elementary School,707,26,High,28,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2245,2024,Vegas Verdes Elementary School,710,21,High,33,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2246,2020,Walter Bracken Elementary School,591,9,Low,50,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2246,2021,Walter Bracken Elementary School,577,27,High,53,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2246,2022,Walter Bracken Elementary School,552,19,Moderate,61,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2246,2023,Walter Bracken Elementary School,520,10,Moderate,65,FALSE,48,FALSE,2026-06-23 16:30:42.783 -0700
+2246,2024,Walter Bracken Elementary School,482,8,Low,66,FALSE,53,FALSE,2026-06-23 16:30:42.783 -0700
+2247,2020,Howard Wasden Elementary School,527,39,Critical,27,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2247,2021,Howard Wasden Elementary School,512,50,Critical,25,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2247,2022,Howard Wasden Elementary School,455,42,Critical,28,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2247,2023,Howard Wasden Elementary School,453,39,Critical,34,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2247,2024,Howard Wasden Elementary School,448,28,High,31,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2248,2020,Will Beckley Elementary School,790,27,High,14,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2248,2021,Will Beckley Elementary School,744,42,Critical,27,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2248,2022,Will Beckley Elementary School,784,43,Critical,26,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2248,2023,Will Beckley Elementary School,752,40,Critical,22,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2248,2024,Will Beckley Elementary School,713,30,Critical,23,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2249,2020,Gordon McCaw Elementary School,739,9,Low,63,FALSE,52,FALSE,2026-06-23 16:30:42.783 -0700
+2249,2021,Gordon McCaw Elementary School,718,22,High,72,FALSE,66,FALSE,2026-06-23 16:30:42.783 -0700
+2249,2022,Gordon McCaw Elementary School,747,14,Moderate,71,FALSE,66,FALSE,2026-06-23 16:30:42.783 -0700
+2249,2023,Gordon McCaw Elementary School,742,9,Low,78,FALSE,74,FALSE,2026-06-23 16:30:42.783 -0700
+2249,2024,Gordon McCaw Elementary School,730,9,Low,83,FALSE,79,FALSE,2026-06-23 16:30:42.783 -0700
+2251,2020,C T Sewell Elementary School,554,27,High,39,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2251,2021,C T Sewell Elementary School,483,44,Critical,30,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2251,2022,C T Sewell Elementary School,526,43,Critical,29,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2251,2023,C T Sewell Elementary School,511,42,Critical,28,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2251,2024,C T Sewell Elementary School,570,32,Critical,32,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2252,2020,Indian Springs Elementary School,95,36,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2252,2021,Indian Springs Elementary School,119,45,Critical,45,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2252,2022,Indian Springs Elementary School,144,32,Critical,40,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2252,2023,Indian Springs Elementary School,157,40,Critical,38,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2252,2024,Indian Springs Elementary School,142,34,Critical,37,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2253,2020,Richard C Priest Elementary School,694,32,Critical,30,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2253,2021,Richard C Priest Elementary School,641,42,Critical,36,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2253,2022,Richard C Priest Elementary School,661,43,Critical,39,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2253,2023,Richard C Priest Elementary School,687,32,Critical,37,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2253,2024,Richard C Priest Elementary School,702,35,Critical,40,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2254,2020,Robert L Taylor Elementary School,520,38,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2254,2021,Robert L Taylor Elementary School,559,61,Critical,17,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2254,2022,Robert L Taylor Elementary School,490,51,Critical,14,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2254,2023,Robert L Taylor Elementary School,447,44,Critical,17,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2254,2024,Robert L Taylor Elementary School,430,37,Critical,24,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2255,2020,Virgin Valley Elementary School,520,20,High,34,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2255,2021,Virgin Valley Elementary School,558,32,Critical,48,FALSE,42,FALSE,2026-06-23 16:30:42.783 -0700
+2255,2022,Virgin Valley Elementary School,569,23,High,51,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2255,2023,Virgin Valley Elementary School,613,18,Moderate,51,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2255,2024,Virgin Valley Elementary School,621,19,Moderate,50,FALSE,48,FALSE,2026-06-23 16:30:42.783 -0700
+2256,2020,Whitney Elementary School,428,40,Critical,22,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2256,2021,Whitney Elementary School,400,54,Critical,31,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2256,2022,Whitney Elementary School,396,49,Critical,30,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2256,2023,Whitney Elementary School,379,35,Critical,31,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2256,2024,Whitney Elementary School,410,30,Critical,28,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2257,2020,William E Ferron Elementary School,585,25,High,30,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2257,2021,William E Ferron Elementary School,535,35,Critical,33,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2257,2022,William E Ferron Elementary School,588,32,Critical,34,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2257,2023,William E Ferron Elementary School,538,22,High,38,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2257,2024,William E Ferron Elementary School,548,18,Moderate,44,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2258,2020,Gene Ward Elementary School,639,40,Critical,18,FALSE,6,FALSE,2026-06-23 16:30:42.783 -0700
+2258,2021,Gene Ward Elementary School,590,47,Critical,33,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2258,2022,Gene Ward Elementary School,612,39,Critical,34,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2258,2023,Gene Ward Elementary School,624,31,Critical,24,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2258,2024,Gene Ward Elementary School,599,28,High,23,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2259,2020,Cyril Wengert Elementary School,530,26,High,20,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2259,2021,Cyril Wengert Elementary School,552,42,Critical,33,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2259,2022,Cyril Wengert Elementary School,544,34,Critical,30,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2259,2023,Cyril Wengert Elementary School,543,30,Critical,33,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2259,2024,Cyril Wengert Elementary School,513,23,High,46,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2260,2020,Myrtle Tate Elementary School,751,49,Critical,19,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2260,2021,Myrtle Tate Elementary School,756,54,Critical,28,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2260,2022,Myrtle Tate Elementary School,737,50,Critical,32,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2260,2023,Myrtle Tate Elementary School,655,36,Critical,35,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2260,2024,Myrtle Tate Elementary School,663,29,High,35,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2261,2020,Harley Harmon Elementary School,610,15,Moderate,22,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2261,2021,Harley Harmon Elementary School,558,40,Critical,28,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2261,2022,Harley Harmon Elementary School,582,36,Critical,27,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2261,2023,Harley Harmon Elementary School,592,30,Critical,33,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2261,2024,Harley Harmon Elementary School,629,27,High,36,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2262,2020,George E Harris Elementary School,661,20,High,24,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2262,2021,George E Harris Elementary School,655,46,Critical,35,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2262,2022,George E Harris Elementary School,683,47,Critical,34,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2262,2023,George E Harris Elementary School,647,38,Critical,32,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2262,2024,George E Harris Elementary School,630,35,Critical,30,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2263,2020,P A Diskin Elementary School,602,15,Moderate,27,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2263,2021,P A Diskin Elementary School,575,39,Critical,36,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2263,2022,P A Diskin Elementary School,566,36,Critical,36,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2263,2023,P A Diskin Elementary School,538,28,High,44,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2263,2024,P A Diskin Elementary School,505,22,High,46,FALSE,42,FALSE,2026-06-23 16:30:42.783 -0700
+2264,2020,Helen M Smith Elementary School,506,17,Moderate,41,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2264,2021,Helen M Smith Elementary School,507,32,Critical,52,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2264,2022,Helen M Smith Elementary School,492,24,High,41,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2264,2023,Helen M Smith Elementary School,477,21,High,42,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2264,2024,Helen M Smith Elementary School,452,19,Moderate,45,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2265,2020,Bill Y Tomiyasu Elementary School,454,18,Moderate,35,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2265,2021,Bill Y Tomiyasu Elementary School,422,42,Critical,39,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2265,2022,Bill Y Tomiyasu Elementary School,446,39,Critical,42,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2265,2023,Bill Y Tomiyasu Elementary School,424,33,Critical,38,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2265,2024,Bill Y Tomiyasu Elementary School,412,27,High,44,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2266,2020,Harvey N Dondero Elementary School,799,24,High,29,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2266,2021,Harvey N Dondero Elementary School,740,34,Critical,28,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2266,2022,Harvey N Dondero Elementary School,763,34,Critical,22,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2266,2023,Harvey N Dondero Elementary School,699,25,High,28,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2266,2024,Harvey N Dondero Elementary School,737,26,High,31,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2267,2020,Elbert Edwards Elementary School,578,23,High,20,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2267,2021,Elbert Edwards Elementary School,606,47,Critical,26,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2267,2022,Elbert Edwards Elementary School,541,45,Critical,21,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2267,2023,Elbert Edwards Elementary School,536,33,Critical,27,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2267,2024,Elbert Edwards Elementary School,535,30,Critical,35,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2268,2020,Doris French Elementary School,552,22,High,34,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2268,2021,Doris French Elementary School,546,46,Critical,41,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2268,2022,Doris French Elementary School,473,32,Critical,42,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2268,2023,Doris French Elementary School,466,28,High,38,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2268,2024,Doris French Elementary School,459,21,High,39,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2269,2020,C H Decker Elementary School,632,23,High,31,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2269,2021,C H Decker Elementary School,622,45,Critical,33,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2269,2022,C H Decker Elementary School,612,40,Critical,35,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2269,2023,C H Decker Elementary School,606,32,Critical,40,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2269,2024,C H Decker Elementary School,554,23,High,41,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2270,2020,Walter V Long Elementary School,742,29,High,22,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2270,2021,Walter V Long Elementary School,752,51,Critical,24,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2270,2022,Walter V Long Elementary School,799,46,Critical,30,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2270,2023,Walter V Long Elementary School,773,37,Critical,26,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2270,2024,Walter V Long Elementary School,697,29,High,18,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2271,2020,James Bilbray Elementary School,649,13,Moderate,57,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2271,2021,James Bilbray Elementary School,652,23,High,60,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2271,2022,James Bilbray Elementary School,621,28,High,61,FALSE,56,FALSE,2026-06-23 16:30:42.783 -0700
+2271,2023,James Bilbray Elementary School,659,21,High,64,FALSE,57,FALSE,2026-06-23 16:30:42.783 -0700
+2271,2024,James Bilbray Elementary School,693,21,High,63,FALSE,57,FALSE,2026-06-23 16:30:42.783 -0700
+2272,2020,Charles & Phyllis Frias Elementary School,674,7,Low,51,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2272,2021,Charles & Phyllis Frias Elementary School,642,26,High,67,FALSE,53,FALSE,2026-06-23 16:30:42.783 -0700
+2272,2022,Charles & Phyllis Frias Elementary School,671,24,High,67,FALSE,55,FALSE,2026-06-23 16:30:42.783 -0700
+2272,2023,Charles & Phyllis Frias Elementary School,657,18,Moderate,65,FALSE,62,FALSE,2026-06-23 16:30:42.783 -0700
+2272,2024,Charles & Phyllis Frias Elementary School,650,17,Moderate,71,FALSE,62,FALSE,2026-06-23 16:30:42.783 -0700
+2273,2020,Howard Hollingsworth Elementary School,548,24,High,16,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2273,2021,Howard Hollingsworth Elementary School,531,48,Critical,18,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2273,2022,Howard Hollingsworth Elementary School,528,42,Critical,29,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2273,2023,Howard Hollingsworth Elementary School,500,33,Critical,27,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2273,2024,Howard Hollingsworth Elementary School,517,32,Critical,28,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2274,2020,Sandy Searles Miller Elementary School,765,11,Moderate,38,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2274,2021,Sandy Searles Miller Elementary School,664,27,High,47,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2274,2022,Sandy Searles Miller Elementary School,668,22,High,43,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2274,2023,Sandy Searles Miller Elementary School,594,11,Moderate,44,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2274,2024,Sandy Searles Miller Elementary School,589,9,Low,52,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2275,2020,Oran K Gragson Elementary School,688,32,Critical,21,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2275,2021,Oran K Gragson Elementary School,614,44,Critical,32,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2275,2022,Oran K Gragson Elementary School,567,51,Critical,30,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2275,2023,Oran K Gragson Elementary School,539,36,Critical,33,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2275,2024,Oran K Gragson Elementary School,539,26,High,35,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2276,2020,Fay Galloway Elementary School,561,23,High,34,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2276,2021,Fay Galloway Elementary School,528,39,Critical,39,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2276,2022,Fay Galloway Elementary School,528,36,Critical,39,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2276,2023,Fay Galloway Elementary School,485,30,Critical,40,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2276,2024,Fay Galloway Elementary School,453,26,High,47,FALSE,48,FALSE,2026-06-23 16:30:42.783 -0700
+2277,2020,Nate Mack Elementary School,594,14,Moderate,45,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2277,2021,Nate Mack Elementary School,564,27,High,50,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2277,2022,Nate Mack Elementary School,502,27,High,47,FALSE,50,FALSE,2026-06-23 16:30:42.783 -0700
+2277,2023,Nate Mack Elementary School,538,23,High,56,FALSE,58,FALSE,2026-06-23 16:30:42.783 -0700
+2277,2024,Nate Mack Elementary School,484,24,High,63,FALSE,54,FALSE,2026-06-23 16:30:42.783 -0700
+2278,2020,R Guild Gray Elementary School,456,31,Critical,23,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2278,2021,R Guild Gray Elementary School,402,47,Critical,33,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2278,2022,R Guild Gray Elementary School,394,31,Critical,35,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2278,2023,R Guild Gray Elementary School,368,31,Critical,38,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2278,2024,R Guild Gray Elementary School,351,22,High,40,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2279,2020,Grant Bowler Elementary School,555,19,Moderate,52,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2279,2021,Grant Bowler Elementary School,657,47,Critical,52,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2279,2022,Grant Bowler Elementary School,690,37,Critical,50,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2279,2023,Grant Bowler Elementary School,661,26,High,57,FALSE,50,FALSE,2026-06-23 16:30:42.783 -0700
+2279,2024,Grant Bowler Elementary School,662,27,High,52,FALSE,55,FALSE,2026-06-23 16:30:42.783 -0700
+2280,2020,John C Bass Elementary School,574,17,Moderate,41,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2280,2021,John C Bass Elementary School,602,40,Critical,42,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2280,2022,John C Bass Elementary School,582,29,High,49,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2280,2023,John C Bass Elementary School,543,21,High,59,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2280,2024,John C Bass Elementary School,569,25,High,59,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2281,2020,Reynaldo L Martinez Elementary School,602,34,Critical,22,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2281,2021,Reynaldo L Martinez Elementary School,503,47,Critical,21,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2281,2022,Reynaldo L Martinez Elementary School,493,42,Critical,21,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2281,2023,Reynaldo L Martinez Elementary School,429,26,High,23,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2281,2024,Reynaldo L Martinez Elementary School,442,24,High,33,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2282,2020,William K Moore Elementary School,631,48,Critical,23,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2282,2021,William K Moore Elementary School,585,47,Critical,22,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2282,2022,William K Moore Elementary School,560,44,Critical,25,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2282,2023,William K Moore Elementary School,487,40,Critical,27,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2282,2024,William K Moore Elementary School,497,39,Critical,26,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2283,2020,DVorre & Hal Ober Elementary School,579,24,High,46,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2283,2021,DVorre & Hal Ober Elementary School,620,44,Critical,46,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2283,2022,DVorre & Hal Ober Elementary School,625,36,Critical,47,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2283,2023,DVorre & Hal Ober Elementary School,583,32,Critical,45,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2283,2024,DVorre & Hal Ober Elementary School,536,32,Critical,41,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2284,2020,Hal Smith Elementary School,738,60,Critical,12,FALSE,6,FALSE,2026-06-23 16:30:42.783 -0700
+2284,2021,Hal Smith Elementary School,731,66,Critical,11,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2284,2022,Hal Smith Elementary School,708,52,Critical,16,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2284,2023,Hal Smith Elementary School,740,47,Critical,15,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2284,2024,Hal Smith Elementary School,709,47,Critical,17,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2285,2020,Sheila Tarr Academy of International Studies Elementary School,760,9,Low,46,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2285,2021,Sheila Tarr Academy of International Studies Elementary School,766,24,High,55,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2285,2022,Sheila Tarr Academy of International Studies Elementary School,784,24,High,61,FALSE,50,FALSE,2026-06-23 16:30:42.783 -0700
+2285,2023,Sheila Tarr Academy of International Studies Elementary School,766,16,Moderate,62,FALSE,55,FALSE,2026-06-23 16:30:42.783 -0700
+2285,2024,Sheila Tarr Academy of International Studies Elementary School,696,11,Moderate,63,FALSE,59,FALSE,2026-06-23 16:30:42.783 -0700
+2286,2020,Ethel W Staton Elementary School,756,,Critical,69,FALSE,54,FALSE,2026-06-23 16:30:42.783 -0700
+2286,2021,Ethel W Staton Elementary School,710,19,Moderate,73,FALSE,69,FALSE,2026-06-23 16:30:42.783 -0700
+2286,2022,Ethel W Staton Elementary School,672,20,High,63,FALSE,65,FALSE,2026-06-23 16:30:42.783 -0700
+2286,2023,Ethel W Staton Elementary School,677,17,Moderate,65,FALSE,63,FALSE,2026-06-23 16:30:42.783 -0700
+2286,2024,Ethel W Staton Elementary School,695,13,Moderate,71,FALSE,66,FALSE,2026-06-23 16:30:42.783 -0700
+2287,2020,Elise L Wolff Elementary School,794,10,Moderate,59,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2287,2021,Elise L Wolff Elementary School,755,27,High,74,FALSE,68,FALSE,2026-06-23 16:30:42.783 -0700
+2287,2022,Elise L Wolff Elementary School,741,22,High,78,FALSE,75,FALSE,2026-06-23 16:30:42.783 -0700
+2287,2023,Elise L Wolff Elementary School,750,18,Moderate,73,FALSE,68,FALSE,2026-06-23 16:30:42.783 -0700
+2287,2024,Elise L Wolff Elementary School,751,17,Moderate,75,FALSE,72,FALSE,2026-06-23 16:30:42.783 -0700
+2289,2020,Dean Petersen Elementary School,853,50,Critical,13,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2289,2021,Dean Petersen Elementary School,820,58,Critical,17,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2289,2022,Dean Petersen Elementary School,779,53,Critical,17,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2289,2023,Dean Petersen Elementary School,727,54,Critical,16,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2289,2024,Dean Petersen Elementary School,702,43,Critical,20,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2290,2020,R E Tobler Elementary School,537,32,Critical,32,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2290,2021,R E Tobler Elementary School,503,39,Critical,40,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2290,2022,R E Tobler Elementary School,504,33,Critical,51,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2290,2023,R E Tobler Elementary School,516,17,Moderate,50,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2290,2024,R E Tobler Elementary School,492,15,Moderate,52,FALSE,43,FALSE,2026-06-23 16:30:42.783 -0700
+2291,2020,Sandy Valley Elementary School,101,18,Moderate,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2291,2021,Sandy Valley Elementary School,92,38,Critical,24,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2291,2022,Sandy Valley Elementary School,120,35,Critical,25,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2291,2023,Sandy Valley Elementary School,125,36,Critical,44,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2291,2024,Sandy Valley Elementary School,119,37,Critical,51,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2292,2020,William G Bennett Elementary School,375,61,Critical,24,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2292,2021,William G Bennett Elementary School,346,54,Critical,28,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2292,2022,William G Bennett Elementary School,368,45,Critical,20,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2292,2023,William G Bennett Elementary School,365,36,Critical,20,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2292,2024,William G Bennett Elementary School,330,35,Critical,32,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2293,2020,Clyde C Cox Elementary School,746,29,High,21,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2293,2021,Clyde C Cox Elementary School,680,43,Critical,16,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2293,2022,Clyde C Cox Elementary School,668,40,Critical,19,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2293,2023,Clyde C Cox Elementary School,604,33,Critical,22,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2293,2024,Clyde C Cox Elementary School,592,29,High,25,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2294,2020,Stanford Elementary School,522,14,Moderate,27,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2294,2021,Stanford Elementary School,508,26,High,43,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2294,2022,Stanford Elementary School,494,18,Moderate,37,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2294,2023,Stanford Elementary School,498,21,High,30,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2294,2024,Stanford Elementary School,483,17,Moderate,39,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2295,2020,Doris M Reed Elementary School,725,34,Critical,14,FALSE,6,FALSE,2026-06-23 16:30:42.783 -0700
+2295,2021,Doris M Reed Elementary School,656,52,Critical,25,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2295,2022,Doris M Reed Elementary School,655,50,Critical,27,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2295,2023,Doris M Reed Elementary School,604,41,Critical,29,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2295,2024,Doris M Reed Elementary School,578,35,Critical,30,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2296,2020,Marion B Earl Elementary School,510,19,Moderate,31,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2296,2021,Marion B Earl Elementary School,497,37,Critical,30,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2296,2022,Marion B Earl Elementary School,505,34,Critical,33,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2296,2023,Marion B Earl Elementary School,528,26,High,34,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2296,2024,Marion B Earl Elementary School,522,20,High,46,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2297,2020,Edna F Hinman Elementary School,398,30,Critical,26,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2297,2021,Edna F Hinman Elementary School,380,42,Critical,37,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2297,2022,Edna F Hinman Elementary School,372,34,Critical,26,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2297,2023,Edna F Hinman Elementary School,373,33,Critical,29,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2297,2024,Edna F Hinman Elementary School,363,29,High,34,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2298,2020,Estes M McDoniel Elementary School,451,19,Moderate,48,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2298,2021,Estes M McDoniel Elementary School,413,22,High,51,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2298,2022,Estes M McDoniel Elementary School,393,24,High,56,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2298,2023,Estes M McDoniel Elementary School,416,17,Moderate,66,FALSE,60,FALSE,2026-06-23 16:30:42.783 -0700
+2298,2024,Estes M McDoniel Elementary School,388,13,Moderate,66,FALSE,63,FALSE,2026-06-23 16:30:42.783 -0700
+2299,2020,Odyssey Charter Schools K-5 Elementary School,434,7,Low,52,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2299,2021,Odyssey Charter Schools K-5 Elementary School,425,10,Moderate,49,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2299,2022,Odyssey Charter Schools K-5 Elementary School,366,6,Low,50,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2299,2023,Odyssey Charter Schools K-5 Elementary School,331,,Critical,58,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2299,2024,Odyssey Charter Schools K-5 Elementary School,357,,Critical,64,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2300,2020,Ollie Detwiler Elementary School,666,47,Critical,21,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2300,2021,Ollie Detwiler Elementary School,579,49,Critical,25,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2300,2022,Ollie Detwiler Elementary School,528,42,Critical,25,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2300,2023,Ollie Detwiler Elementary School,555,38,Critical,15,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2300,2024,Ollie Detwiler Elementary School,604,29,High,21,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2301,2020,Ed Von Tobel Middle School,1149,59,Critical,24,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2301,2021,Ed Von Tobel Middle School,1051,51,Critical,23,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2301,2022,Ed Von Tobel Middle School,968,49,Critical,23,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2301,2023,Ed Von Tobel Middle School,888,44,Critical,17,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2301,2024,Ed Von Tobel Middle School,866,37,Critical,23,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2302,2020,Frank F Garside Junior High School,1240,56,Critical,18,FALSE,5,FALSE,2026-06-23 16:30:42.783 -0700
+2302,2021,Frank F Garside Junior High School,1140,44,Critical,24,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2302,2022,Frank F Garside Junior High School,1079,44,Critical,20,FALSE,6,FALSE,2026-06-23 16:30:42.783 -0700
+2302,2023,Frank F Garside Junior High School,1078,39,Critical,21,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2302,2024,Frank F Garside Junior High School,1017,26,High,28,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2303,2020,Hyde Park Middle School,1602,28,High,61,FALSE,52,FALSE,2026-06-23 16:30:42.783 -0700
+2303,2021,Hyde Park Middle School,1475,33,Critical,57,FALSE,48,FALSE,2026-06-23 16:30:42.783 -0700
+2303,2022,Hyde Park Middle School,1387,22,High,55,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2303,2023,Hyde Park Middle School,1339,12,Moderate,52,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2303,2024,Hyde Park Middle School,1371,15,Moderate,51,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2304,2020,James Cashman Middle School,1444,50,Critical,29,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2304,2021,James Cashman Middle School,1294,45,Critical,32,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2304,2022,James Cashman Middle School,1189,45,Critical,28,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2304,2023,James Cashman Middle School,1079,44,Critical,24,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2304,2024,James Cashman Middle School,1043,20,High,32,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2305,2020,J D Smith Middle School,1083,57,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2305,2021,J D Smith Middle School,1122,50,Critical,26,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2305,2022,J D Smith Middle School,1254,50,Critical,19,FALSE,6,FALSE,2026-06-23 16:30:42.783 -0700
+2305,2023,J D Smith Middle School,1244,41,Critical,17,FALSE,6,FALSE,2026-06-23 16:30:42.783 -0700
+2305,2024,J D Smith Middle School,1181,41,Critical,19,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2306,2020,J Harold Brinley Middle School,1033,44,Critical,22,FALSE,6,FALSE,2026-06-23 16:30:42.783 -0700
+2306,2021,J Harold Brinley Middle School,954,47,Critical,27,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2306,2022,J Harold Brinley Middle School,929,46,Critical,24,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2306,2023,J Harold Brinley Middle School,885,40,Critical,21,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2306,2024,J Harold Brinley Middle School,885,34,Critical,24,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2307,2020,Jim Bridger Middle School,1403,38,Critical,29,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2307,2021,Jim Bridger Middle School,1280,43,Critical,27,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2307,2022,Jim Bridger Middle School,1123,45,Critical,23,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2307,2023,Jim Bridger Middle School,1095,34,Critical,25,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2307,2024,Jim Bridger Middle School,1072,24,High,28,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2308,2020,John C Fremont Professional Development Middle School,843,31,Critical,13,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2308,2021,John C Fremont Professional Development Middle School,785,49,Critical,23,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2308,2022,John C Fremont Professional Development Middle School,660,41,Critical,27,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2308,2023,John C Fremont Professional Development Middle School,663,20,High,33,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2308,2024,John C Fremont Professional Development Middle School,651,10,Moderate,48,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2309,2020,K O Knudson Academy of the Arts,1335,44,Critical,38,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2309,2021,K O Knudson Academy of the Arts,1239,39,Critical,46,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2309,2022,K O Knudson Academy of the Arts,1215,40,Critical,37,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2309,2023,K O Knudson Academy of the Arts,1175,32,Critical,42,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2309,2024,K O Knudson Academy of the Arts,1176,24,High,41,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2310,2020,Robert O Gibson Leadership Academy Middle School,1264,48,Critical,26,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2310,2021,Robert O Gibson Leadership Academy Middle School,1240,35,Critical,33,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2310,2022,Robert O Gibson Leadership Academy Middle School,1195,36,Critical,30,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2310,2023,Robert O Gibson Leadership Academy Middle School,1142,30,Critical,30,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2310,2024,Robert O Gibson Leadership Academy Middle School,1152,27,High,37,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2311,2020,Roy W Martin Middle School,1498,53,Critical,31,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2311,2021,Roy W Martin Middle School,1391,43,Critical,30,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2311,2022,Roy W Martin Middle School,1271,50,Critical,25,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2311,2023,Roy W Martin Middle School,1199,41,Critical,27,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2311,2024,Roy W Martin Middle School,1136,38,Critical,28,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2312,2020,William E Orr Middle School,931,61,Critical,18,FALSE,,TRUE,2026-06-23 16:30:42.783 -0700
+2312,2021,William E Orr Middle School,851,55,Critical,21,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2312,2022,William E Orr Middle School,815,51,Critical,23,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2312,2023,William E Orr Middle School,854,49,Critical,15,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2312,2024,William E Orr Middle School,919,46,Critical,17,FALSE,5,FALSE,2026-06-23 16:30:42.783 -0700
+2313,2020,Lyal Burkholder Academy of Environmental Science,605,53,Critical,36,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2313,2021,Lyal Burkholder Academy of Environmental Science,571,45,Critical,31,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2313,2022,Lyal Burkholder Academy of Environmental Science,479,46,Critical,31,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2313,2023,Lyal Burkholder Academy of Environmental Science,498,40,Critical,31,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2313,2024,Lyal Burkholder Academy of Environmental Science,495,24,High,51,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2314,2020,C W Woodbury Middle School,857,62,Critical,28,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2314,2021,C W Woodbury Middle School,836,46,Critical,30,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2314,2022,C W Woodbury Middle School,784,45,Critical,23,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2314,2023,C W Woodbury Middle School,769,42,Critical,19,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2314,2024,C W Woodbury Middle School,767,38,Critical,27,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2315,2020,Dell H Robison Middle School,1129,52,Critical,15,FALSE,,TRUE,2026-06-23 16:30:42.783 -0700
+2315,2021,Dell H Robison Middle School,883,49,Critical,27,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2315,2022,Dell H Robison Middle School,760,46,Critical,23,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2315,2023,Dell H Robison Middle School,726,31,Critical,21,FALSE,6,FALSE,2026-06-23 16:30:42.783 -0700
+2315,2024,Dell H Robison Middle School,626,18,Moderate,26,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2316,2020,Helen C Cannon Junior High School,940,44,Critical,26,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2316,2021,Helen C Cannon Junior High School,839,47,Critical,28,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2316,2022,Helen C Cannon Junior High School,746,40,Critical,25,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2316,2023,Helen C Cannon Junior High School,782,38,Critical,20,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2316,2024,Helen C Cannon Junior High School,730,33,Critical,25,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2317,2020,Kenny C Guinn Middle School,1174,41,Critical,43,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2317,2021,Kenny C Guinn Middle School,1098,32,Critical,47,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2317,2022,Kenny C Guinn Middle School,1045,29,High,41,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2317,2023,Kenny C Guinn Middle School,1047,26,High,42,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2317,2024,Kenny C Guinn Middle School,1069,18,Moderate,48,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2318,2020,Elton M Garrett Junior High School,421,32,Critical,45,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2318,2021,Elton M Garrett Junior High School,353,30,Critical,60,FALSE,43,FALSE,2026-06-23 16:30:42.783 -0700
+2318,2022,Elton M Garrett Junior High School,380,32,Critical,51,FALSE,42,FALSE,2026-06-23 16:30:42.783 -0700
+2318,2023,Elton M Garrett Junior High School,414,24,High,55,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2318,2024,Elton M Garrett Junior High School,399,24,High,61,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2319,2020,B Mahlon Brown Junior High School,1018,41,Critical,39,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2319,2021,B Mahlon Brown Junior High School,938,41,Critical,41,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2319,2022,B Mahlon Brown Junior High School,804,40,Critical,39,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2319,2023,B Mahlon Brown Junior High School,779,40,Critical,35,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2319,2024,B Mahlon Brown Junior High School,783,37,Critical,40,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2320,2020,Sandy Valley JR/SR High School,175,34,Critical,24,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2320,2021,Sandy Valley JR/SR High School,171,32,Critical,35,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2320,2022,Sandy Valley JR/SR High School,188,35,Critical,26,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2320,2023,Sandy Valley JR/SR High School,196,31,Critical,21,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2320,2024,Sandy Valley JR/SR High School,188,29,High,37,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2321,2020,Laughlin JR/SR High School,380,61,Critical,20,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2321,2021,Laughlin JR/SR High School,365,50,Critical,31,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2321,2022,Laughlin JR/SR High School,395,45,Critical,38,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2321,2023,Laughlin JR/SR High School,330,40,Critical,34,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2321,2024,Laughlin JR/SR High School,313,40,Critical,30,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2322,2020,Mike OCallaghan Middle School i3 Learn Academy,1457,31,Critical,42,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2322,2021,Mike OCallaghan Middle School i3 Learn Academy,1426,28,High,57,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2322,2022,Mike OCallaghan Middle School i3 Learn Academy,1451,25,High,58,FALSE,42,FALSE,2026-06-23 16:30:42.783 -0700
+2322,2023,Mike OCallaghan Middle School i3 Learn Academy,1426,13,Moderate,58,FALSE,42,FALSE,2026-06-23 16:30:42.783 -0700
+2322,2024,Mike OCallaghan Middle School i3 Learn Academy,1419,11,Moderate,60,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2323,2020,Walter Johnson Junior High School Academy of International Studies,1597,31,Critical,47,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2323,2021,Walter Johnson Junior High School Academy of International Studies,1487,36,Critical,54,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2323,2022,Walter Johnson Junior High School Academy of International Studies,1356,35,Critical,48,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2323,2023,Walter Johnson Junior High School Academy of International Studies,1298,29,High,47,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2323,2024,Walter Johnson Junior High School Academy of International Studies,1329,24,High,52,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2324,2020,Barbara & Hank Greenspun Junior High School,1523,30,Critical,57,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2324,2021,Barbara & Hank Greenspun Junior High School,1423,31,Critical,50,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2324,2022,Barbara & Hank Greenspun Junior High School,1326,31,Critical,50,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2324,2023,Barbara & Hank Greenspun Junior High School,1341,28,High,49,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2324,2024,Barbara & Hank Greenspun Junior High School,1312,26,High,51,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2325,2020,Theron L Swainston Middle School,1098,62,Critical,27,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2325,2021,Theron L Swainston Middle School,1135,48,Critical,23,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2325,2022,Theron L Swainston Middle School,1041,47,Critical,22,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2325,2023,Theron L Swainston Middle School,1036,31,Critical,19,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2325,2024,Theron L Swainston Middle School,1020,28,High,27,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2326,2020,Thurman White Academy of the Arts Middle School,1647,32,Critical,57,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2326,2021,Thurman White Academy of the Arts Middle School,1578,29,High,64,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2326,2022,Thurman White Academy of the Arts Middle School,1585,25,High,67,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2326,2023,Thurman White Academy of the Arts Middle School,1533,19,Moderate,64,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2326,2024,Thurman White Academy of the Arts Middle School,1501,18,Moderate,68,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2327,2020,Ernest Becker Middle School,1276,22,High,49,FALSE,23,FALSE,2026-06-23 16:30:42.783 -0700
+2327,2021,Ernest Becker Middle School,1214,42,Critical,47,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2327,2022,Ernest Becker Middle School,1127,29,High,45,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2327,2023,Ernest Becker Middle School,1044,16,Moderate,36,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2327,2024,Ernest Becker Middle School,1075,9,Low,48,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2328,2020,Grant Sawyer Middle School,1231,54,Critical,28,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2328,2021,Grant Sawyer Middle School,1187,42,Critical,39,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2328,2022,Grant Sawyer Middle School,1142,35,Critical,35,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2328,2023,Grant Sawyer Middle School,1175,22,High,35,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2328,2024,Grant Sawyer Middle School,1149,24,High,41,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2329,2020,Mack Lyon Middle School,394,33,Critical,55,FALSE,42,FALSE,2026-06-23 16:30:42.783 -0700
+2329,2021,Mack Lyon Middle School,414,49,Critical,57,FALSE,55,FALSE,2026-06-23 16:30:42.783 -0700
+2329,2022,Mack Lyon Middle School,404,40,Critical,54,FALSE,60,FALSE,2026-06-23 16:30:42.783 -0700
+2329,2023,Mack Lyon Middle School,410,36,Critical,55,FALSE,58,FALSE,2026-06-23 16:30:42.783 -0700
+2329,2024,Mack Lyon Middle School,401,29,High,58,FALSE,54,FALSE,2026-06-23 16:30:42.783 -0700
+2330,2020,West Preparatory Institute JR/SR High School,1670,59,Critical,23,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2330,2021,West Preparatory Institute JR/SR High School,1434,45,Critical,25,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2330,2022,West Preparatory Institute JR/SR High School,1231,43,Critical,19,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2330,2023,West Preparatory Institute JR/SR High School,1210,39,Critical,24,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2330,2024,West Preparatory Institute JR/SR High School,1276,33,Critical,22,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2331,2020,Lied STEM Academy Middle School,1682,25,High,56,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2331,2021,Lied STEM Academy Middle School,1643,25,High,61,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2331,2022,Lied STEM Academy Middle School,1601,19,Moderate,61,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2331,2023,Lied STEM Academy Middle School,1564,13,Moderate,60,FALSE,53,FALSE,2026-06-23 16:30:42.783 -0700
+2331,2024,Lied STEM Academy Middle School,1567,9,Low,62,FALSE,53,FALSE,2026-06-23 16:30:42.783 -0700
+2332,2020,Duane D Keller Middle School,1376,57,Critical,22,FALSE,6,FALSE,2026-06-23 16:30:42.783 -0700
+2332,2021,Duane D Keller Middle School,1189,48,Critical,21,FALSE,,TRUE,2026-06-23 16:30:42.783 -0700
+2332,2022,Duane D Keller Middle School,1082,48,Critical,20,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2332,2023,Duane D Keller Middle School,1070,46,Critical,19,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2332,2024,Duane D Keller Middle School,1062,43,Critical,26,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2333,2020,Irwin & Susan Molasky Junior High School,1049,40,Critical,22,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2333,2021,Irwin & Susan Molasky Junior High School,932,51,Critical,25,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2333,2022,Irwin & Susan Molasky Junior High School,922,42,Critical,23,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2333,2023,Irwin & Susan Molasky Junior High School,893,36,Critical,22,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2333,2024,Irwin & Susan Molasky Junior High School,912,35,Critical,28,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2334,2020,Charles Silvestri Junior High School,1415,32,Critical,31,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2334,2021,Charles Silvestri Junior High School,1390,40,Critical,36,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2334,2022,Charles Silvestri Junior High School,1258,39,Critical,31,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2334,2023,Charles Silvestri Junior High School,1144,32,Critical,29,FALSE,13,FALSE,2026-06-23 16:30:42.783 -0700
+2334,2024,Charles Silvestri Junior High School,1076,27,High,39,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2335,2020,Francis H Cortney Junior High School,1193,59,Critical,20,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2335,2021,Francis H Cortney Junior High School,1118,50,Critical,28,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2335,2022,Francis H Cortney Junior High School,1085,50,Critical,22,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2335,2023,Francis H Cortney Junior High School,1017,48,Critical,19,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2335,2024,Francis H Cortney Junior High School,1014,41,Critical,22,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2336,2020,Indian Springs Middle School,61,70,Critical,37,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2336,2021,Indian Springs Middle School,62,42,Critical,45,FALSE,16,FALSE,2026-06-23 16:30:42.783 -0700
+2336,2022,Indian Springs Middle School,81,19,Moderate,57,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2336,2023,Indian Springs Middle School,82,32,Critical,51,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2336,2024,Indian Springs Middle School,87,31,Critical,45,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2337,2020,Clifford J Lawrence Junior High School,1385,35,Critical,19,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2337,2021,Clifford J Lawrence Junior High School,1302,42,Critical,41,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2337,2022,Clifford J Lawrence Junior High School,1263,37,Critical,39,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2337,2023,Clifford J Lawrence Junior High School,1289,35,Critical,34,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2337,2024,Clifford J Lawrence Junior High School,1227,28,High,41,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2338,2020,Bob Miller Middle School,1631,20,High,60,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2338,2021,Bob Miller Middle School,1540,23,High,67,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2338,2022,Bob Miller Middle School,1532,24,High,65,FALSE,53,FALSE,2026-06-23 16:30:42.783 -0700
+2338,2023,Bob Miller Middle School,1449,21,High,60,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2338,2024,Bob Miller Middle School,1522,18,Moderate,65,FALSE,54,FALSE,2026-06-23 16:30:42.783 -0700
+2339,2020,Sig Rogich Middle School,1723,15,Moderate,72,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2339,2021,Sig Rogich Middle School,1567,24,High,73,FALSE,50,FALSE,2026-06-23 16:30:42.783 -0700
+2339,2022,Sig Rogich Middle School,1587,26,High,67,FALSE,54,FALSE,2026-06-23 16:30:42.783 -0700
+2339,2023,Sig Rogich Middle School,1668,21,High,67,FALSE,56,FALSE,2026-06-23 16:30:42.783 -0700
+2339,2024,Sig Rogich Middle School,1636,18,Moderate,72,FALSE,62,FALSE,2026-06-23 16:30:42.783 -0700
+2341,2020,Justice Myron E Leavitt Middle School,1421,22,High,50,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2341,2021,Justice Myron E Leavitt Middle School,1335,33,Critical,46,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2341,2022,Justice Myron E Leavitt Middle School,1352,33,Critical,42,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2341,2023,Justice Myron E Leavitt Middle School,1420,27,High,45,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2341,2024,Justice Myron E Leavitt Middle School,1399,27,High,48,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2342,2020,Brian & Teri Cram Middle School,1581,24,High,32,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2342,2021,Brian & Teri Cram Middle School,1519,27,High,38,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2342,2022,Brian & Teri Cram Middle School,1402,38,Critical,35,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2342,2023,Brian & Teri Cram Middle School,1369,36,Critical,36,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2342,2024,Brian & Teri Cram Middle School,1431,32,Critical,34,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2343,2020,Mario C & JoAnne Monaco Middle School,1253,47,Critical,26,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2343,2021,Mario C & JoAnne Monaco Middle School,1131,50,Critical,28,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2343,2022,Mario C & JoAnne Monaco Middle School,1123,50,Critical,23,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2343,2023,Mario C & JoAnne Monaco Middle School,1020,40,Critical,22,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2343,2024,Mario C & JoAnne Monaco Middle School,925,34,Critical,27,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2344,2020,Jack Lund Schofield Middle School,1084,36,Critical,36,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2344,2021,Jack Lund Schofield Middle School,987,41,Critical,41,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2344,2022,Jack Lund Schofield Middle School,1019,39,Critical,27,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2344,2023,Jack Lund Schofield Middle School,1001,26,High,35,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2344,2024,Jack Lund Schofield Middle School,988,22,High,45,FALSE,21,FALSE,2026-06-23 16:30:42.783 -0700
+2345,2020,Marvin M Sedway Middle School,1216,59,Critical,21,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2345,2021,Marvin M Sedway Middle School,1074,48,Critical,21,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2345,2022,Marvin M Sedway Middle School,1041,50,Critical,25,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2345,2023,Marvin M Sedway Middle School,1027,46,Critical,22,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2345,2024,Marvin M Sedway Middle School,1038,43,Critical,22,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2346,2020,Kathleen & Tim Harney Middle School,1609,53,Critical,25,FALSE,12,FALSE,2026-06-23 16:30:42.783 -0700
+2346,2021,Kathleen & Tim Harney Middle School,1451,57,Critical,26,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2346,2022,Kathleen & Tim Harney Middle School,1279,46,Critical,22,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2346,2023,Kathleen & Tim Harney Middle School,1248,44,Critical,17,FALSE,6,FALSE,2026-06-23 16:30:42.783 -0700
+2346,2024,Kathleen & Tim Harney Middle School,1292,41,Critical,21,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2347,2020,Victoria Fertitta Middle School,1378,37,Critical,57,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2347,2021,Victoria Fertitta Middle School,1256,29,High,56,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2347,2022,Victoria Fertitta Middle School,1243,21,High,47,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2347,2023,Victoria Fertitta Middle School,1216,11,Moderate,50,FALSE,40,FALSE,2026-06-23 16:30:42.783 -0700
+2347,2024,Victoria Fertitta Middle School,1172,6,Low,55,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2348,2020,Ralph Cadwallader Middle School,1445,29,High,48,FALSE,34,FALSE,2026-06-23 16:30:42.783 -0700
+2348,2021,Ralph Cadwallader Middle School,1402,29,High,51,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2348,2022,Ralph Cadwallader Middle School,1396,25,High,46,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2348,2023,Ralph Cadwallader Middle School,1522,21,High,43,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2348,2024,Ralph Cadwallader Middle School,1519,19,Moderate,55,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2349,2020,Lawrence & Heidi Canarelli Middle School,1594,31,Critical,54,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2349,2021,Lawrence & Heidi Canarelli Middle School,1471,31,Critical,56,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2349,2022,Lawrence & Heidi Canarelli Middle School,1500,28,High,47,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2349,2023,Lawrence & Heidi Canarelli Middle School,1529,27,High,46,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2349,2024,Lawrence & Heidi Canarelli Middle School,1540,24,High,52,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2350,2020,Charles Arthur Hughes Middle School,541,40,Critical,31,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2350,2021,Charles Arthur Hughes Middle School,566,38,Critical,39,FALSE,26,FALSE,2026-06-23 16:30:42.783 -0700
+2350,2022,Charles Arthur Hughes Middle School,541,26,High,45,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2350,2023,Charles Arthur Hughes Middle School,548,24,High,39,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2350,2024,Charles Arthur Hughes Middle School,552,30,Critical,42,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2352,2020,Clifford O Findlay Middle School,1180,58,Critical,27,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2352,2021,Clifford O Findlay Middle School,1085,54,Critical,21,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2352,2022,Clifford O Findlay Middle School,1206,48,Critical,19,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2352,2023,Clifford O Findlay Middle School,1211,41,Critical,21,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2352,2024,Clifford O Findlay Middle School,1333,41,Critical,24,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2353,2020,Jack & Terry Mannion Middle School,1429,20,High,56,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2353,2021,Jack & Terry Mannion Middle School,1408,25,High,62,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2353,2022,Jack & Terry Mannion Middle School,1368,27,High,61,FALSE,42,FALSE,2026-06-23 16:30:42.783 -0700
+2353,2023,Jack & Terry Mannion Middle School,1390,21,High,59,FALSE,41,FALSE,2026-06-23 16:30:42.783 -0700
+2353,2024,Jack & Terry Mannion Middle School,1463,18,Moderate,64,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2354,2020,Anthony Saville Middle School,1549,41,Critical,46,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2354,2021,Anthony Saville Middle School,1446,35,Critical,49,FALSE,27,FALSE,2026-06-23 16:30:42.783 -0700
+2354,2022,Anthony Saville Middle School,1480,35,Critical,39,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2354,2023,Anthony Saville Middle School,1415,31,Critical,41,FALSE,29,FALSE,2026-06-23 16:30:42.783 -0700
+2354,2024,Anthony Saville Middle School,1477,29,High,47,FALSE,32,FALSE,2026-06-23 16:30:42.783 -0700
+2355,2020,Del E Webb Middle School,1616,20,High,65,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2355,2021,Del E Webb Middle School,1584,26,High,64,FALSE,45,FALSE,2026-06-23 16:30:42.783 -0700
+2355,2022,Del E Webb Middle School,1582,28,High,56,FALSE,48,FALSE,2026-06-23 16:30:42.783 -0700
+2355,2023,Del E Webb Middle School,1640,20,High,53,FALSE,47,FALSE,2026-06-23 16:30:42.783 -0700
+2355,2024,Del E Webb Middle School,1684,22,High,62,FALSE,48,FALSE,2026-06-23 16:30:42.783 -0700
+2356,2020,Jerome Mack Middle School,1220,31,Critical,15,FALSE,6,FALSE,2026-06-23 16:30:42.783 -0700
+2356,2021,Jerome Mack Middle School,1114,51,Critical,26,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2356,2022,Jerome Mack Middle School,1069,55,Critical,20,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2356,2023,Jerome Mack Middle School,956,43,Critical,16,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2356,2024,Jerome Mack Middle School,947,36,Critical,22,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2357,2020,Dr William H Bailey Middle School,1395,66,Critical,26,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2357,2021,Dr William H Bailey Middle School,1295,55,Critical,24,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2357,2022,Dr William H Bailey Middle School,1294,58,Critical,19,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2357,2023,Dr William H Bailey Middle School,1181,42,Critical,15,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2357,2024,Dr William H Bailey Middle School,1121,34,Critical,20,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2358,2020,Odyssey Charter Schools 6-8 Middle School,653,,Critical,62,FALSE,28,FALSE,2026-06-23 16:30:42.783 -0700
+2358,2021,Odyssey Charter Schools 6-8 Middle School,620,,Critical,59,FALSE,24,FALSE,2026-06-23 16:30:42.783 -0700
+2358,2022,Odyssey Charter Schools 6-8 Middle School,599,,Critical,56,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2358,2023,Odyssey Charter Schools 6-8 Middle School,595,,Critical,51,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2358,2024,Odyssey Charter Schools 6-8 Middle School,605,,Critical,57,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2359,2020,Carroll M Johnston STEM Academy of Environmental Studies,1279,52,Critical,30,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2359,2021,Carroll M Johnston STEM Academy of Environmental Studies,1236,51,Critical,31,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2359,2022,Carroll M Johnston STEM Academy of Environmental Studies,1265,55,Critical,21,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2359,2023,Carroll M Johnston STEM Academy of Environmental Studies,1266,48,Critical,20,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2359,2024,Carroll M Johnston STEM Academy of Environmental Studies,967,33,Critical,33,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2360,2020,Lois & Jerry Tarkanian Middle School,1998,22,High,52,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2360,2021,Lois & Jerry Tarkanian Middle School,1336,31,Critical,60,FALSE,36,FALSE,2026-06-23 16:30:42.783 -0700
+2360,2022,Lois & Jerry Tarkanian Middle School,1264,28,High,54,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2360,2023,Lois & Jerry Tarkanian Middle School,1271,21,High,55,FALSE,38,FALSE,2026-06-23 16:30:42.783 -0700
+2360,2024,Lois & Jerry Tarkanian Middle School,1313,22,High,62,FALSE,44,FALSE,2026-06-23 16:30:42.783 -0700
+2361,2020,Edmundo Eddie Elementary Schoolcobedo Sr Middle School,974,38,Critical,42,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2361,2021,Edmundo Eddie Elementary Schoolcobedo Sr Middle School,914,35,Critical,39,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2361,2022,Edmundo Eddie Elementary Schoolcobedo Sr Middle School,871,36,Critical,34,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2361,2023,Edmundo Eddie Elementary Schoolcobedo Sr Middle School,865,34,Critical,36,FALSE,15,FALSE,2026-06-23 16:30:42.783 -0700
+2361,2024,Edmundo Eddie Elementary Schoolcobedo Sr Middle School,918,33,Critical,44,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2362,2020,Wilbur & Theresa Faiss Middle School,1762,46,Critical,38,FALSE,18,FALSE,2026-06-23 16:30:42.783 -0700
+2362,2021,Wilbur & Theresa Faiss Middle School,1253,30,Critical,50,FALSE,25,FALSE,2026-06-23 16:30:42.783 -0700
+2362,2022,Wilbur & Theresa Faiss Middle School,1270,36,Critical,40,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2362,2023,Wilbur & Theresa Faiss Middle School,1252,22,High,43,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2362,2024,Wilbur & Theresa Faiss Middle School,1284,18,Moderate,51,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2363,2020,Innovations International Charter JR/SR High School,305,8,Low,24,FALSE,7,FALSE,2026-06-23 16:30:42.783 -0700
+2363,2021,Innovations International Charter JR/SR High School,283,49,Critical,26,FALSE,6,FALSE,2026-06-23 16:30:42.783 -0700
+2363,2022,Innovations International Charter JR/SR High School,346,51,Critical,25,FALSE,10,FALSE,2026-06-23 16:30:42.783 -0700
+2363,2023,Innovations International Charter JR/SR High School,302,49,Critical,16,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2363,2024,Innovations International Charter JR/SR High School,287,35,Critical,35,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2364,2020,FuturEdge Academy Middle School,163,19,Moderate,11,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2364,2021,FuturEdge Academy Middle School,147,32,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2364,2022,FuturEdge Academy Middle School,104,47,Critical,24,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2364,2023,FuturEdge Academy Middle School,71,32,Critical,18,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2364,2024,FuturEdge Academy Middle School,76,32,Critical,28,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2368,2021,Barry and June Gunderson Middle School,1288,30,Critical,58,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2368,2022,Barry and June Gunderson Middle School,1336,27,High,54,FALSE,43,FALSE,2026-06-23 16:30:42.783 -0700
+2368,2023,Barry and June Gunderson Middle School,1438,22,High,57,FALSE,49,FALSE,2026-06-23 16:30:42.783 -0700
+2368,2024,Barry and June Gunderson Middle School,1517,21,High,65,FALSE,51,FALSE,2026-06-23 16:30:42.783 -0700
+2369,2020,Jo Mackey Middle School,91,11,Moderate,35,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2369,2021,Jo Mackey Middle School,171,29,High,65,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2369,2022,Jo Mackey Middle School,262,22,High,47,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2369,2023,Jo Mackey Middle School,254,18,Moderate,62,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2369,2024,Jo Mackey Middle School,244,9,Low,69,FALSE,33,FALSE,2026-06-23 16:30:42.783 -0700
+2501,2021,Hannah Marie Brown Elementary School,600,17,Moderate,68,FALSE,59,FALSE,2026-06-23 16:30:42.783 -0700
+2501,2022,Hannah Marie Brown Elementary School,629,16,Moderate,63,FALSE,52,FALSE,2026-06-23 16:30:42.783 -0700
+2501,2023,Hannah Marie Brown Elementary School,661,17,Moderate,57,FALSE,46,FALSE,2026-06-23 16:30:42.783 -0700
+2501,2024,Hannah Marie Brown Elementary School,626,18,Moderate,58,FALSE,50,FALSE,2026-06-23 16:30:42.783 -0700
+2607,2023,Centennial High School,2988,38,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2615,2020,Explore Knowledge Academy Elementary School,446,,Critical,46,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2615,2021,Explore Knowledge Academy Elementary School,404,14,Moderate,54,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2615,2022,Explore Knowledge Academy Elementary School,402,22,High,57,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2615,2023,Explore Knowledge Academy Elementary School,369,15,Moderate,54,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2615,2024,Explore Knowledge Academy Elementary School,329,10,Moderate,60,FALSE,37,FALSE,2026-06-23 16:30:42.783 -0700
+2616,2020,Explore Knowledge Academy JR/SR High School,279,,Critical,56,FALSE,30,FALSE,2026-06-23 16:30:42.783 -0700
+2616,2021,Explore Knowledge Academy JR/SR High School,279,12,Moderate,64,FALSE,20,FALSE,2026-06-23 16:30:42.783 -0700
+2616,2022,Explore Knowledge Academy JR/SR High School,300,13,Moderate,57,FALSE,31,FALSE,2026-06-23 16:30:42.783 -0700
+2616,2023,Explore Knowledge Academy JR/SR High School,282,8,Low,67,FALSE,39,FALSE,2026-06-23 16:30:42.783 -0700
+2616,2024,Explore Knowledge Academy JR/SR High School,270,5,Low,70,FALSE,35,FALSE,2026-06-23 16:30:42.783 -0700
+2621,2020,The Delta Academy JR/SR High School,734,,Critical,26,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2621,2021,The Delta Academy JR/SR High School,771,9,Low,26,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2621,2022,The Delta Academy JR/SR High School,1141,10,Moderate,24,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2621,2023,The Delta Academy JR/SR High School,1218,12,Moderate,17,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2621,2024,The Delta Academy JR/SR High School,1445,16,Moderate,35,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2625,2020,NV Learning Academy JR/SR High School,348,,Critical,76,FALSE,57,FALSE,2026-06-23 16:30:42.783 -0700
+2625,2021,NV Learning Academy JR/SR High School,4053,,Critical,54,FALSE,22,FALSE,2026-06-23 16:30:42.783 -0700
+2625,2022,NV Learning Academy JR/SR High School,3137,60,Critical,34,FALSE,9,FALSE,2026-06-23 16:30:42.783 -0700
+2625,2023,NV Learning Academy JR/SR High School,3204,57,Critical,30,FALSE,11,FALSE,2026-06-23 16:30:42.783 -0700
+2625,2024,NV Learning Academy JR/SR High School,3352,51,Critical,30,FALSE,8,FALSE,2026-06-23 16:30:42.783 -0700
+2626,2020,NV Learning Academy Elementary School,52,14,Moderate,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2626,2021,NV Learning Academy Elementary School,3988,48,Critical,38,FALSE,19,FALSE,2026-06-23 16:30:42.783 -0700
+2626,2022,NV Learning Academy Elementary School,1728,45,Critical,33,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2626,2023,NV Learning Academy Elementary School,1204,34,Critical,22,FALSE,17,FALSE,2026-06-23 16:30:42.783 -0700
+2626,2024,NV Learning Academy Elementary School,1029,33,Critical,33,FALSE,14,FALSE,2026-06-23 16:30:42.783 -0700
+2716,2021,Acceleration Academy,825,,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2777,2022,Clark County Detention Center JR/SR High School,28,,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2911,2020,Variety JR/SR High School,123,35,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2911,2021,Variety JR/SR High School,117,52,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2911,2022,Variety JR/SR High School,104,44,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2911,2023,Variety JR/SR High School,106,41,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2912,2020,Juvenile Detention 6-12 JR/SR High School,34,9,Low,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2912,2021,Juvenile Detention 6-12 JR/SR High School,31,13,Moderate,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2912,2022,Juvenile Detention 6-12 JR/SR High School,68,6,Low,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2912,2023,Juvenile Detention 6-12 JR/SR High School,97,,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2912,2024,Juvenile Detention 6-12 JR/SR High School,105,,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2913,2020,Spring Mountain JR/SR High School,51,,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2913,2021,Spring Mountain JR/SR High School,44,,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2913,2022,Spring Mountain JR/SR High School,60,,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2913,2023,Spring Mountain JR/SR High School,77,,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2913,2024,Spring Mountain JR/SR High School,81,,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2916,2020,Miley Achievement Center JR/SR High School,89,83,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2916,2021,Miley Achievement Center JR/SR High School,82,75,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2916,2022,Miley Achievement Center JR/SR High School,64,69,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2916,2023,Miley Achievement Center JR/SR High School,54,77,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2916,2024,Miley Achievement Center JR/SR High School,59,53,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2917,2020,Miley Achievement Center Elementary School,31,84,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2917,2021,Miley Achievement Center Elementary School,,81,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2917,2022,Miley Achievement Center Elementary School,11,62,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2917,2023,Miley Achievement Center Elementary School,12,41,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2917,2024,Miley Achievement Center Elementary School,23,42,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2927,2020,Desert Willow JR/SR High School,16,14,Moderate,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2927,2021,Desert Willow JR/SR High School,,11,Moderate,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2927,2022,Desert Willow JR/SR High School,15,,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2927,2023,Desert Willow JR/SR High School,20,8,Low,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2927,2024,Desert Willow JR/SR High School,32,8,Low,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2928,2020,South Academic Center JR/SR High School,54,93,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2928,2021,South Academic Center JR/SR High School,26,68,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2928,2022,South Academic Center JR/SR High School,182,52,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2928,2023,South Academic Center JR/SR High School,121,73,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2928,2024,South Academic Center JR/SR High School,115,69,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2932,2020,Cowan Academic Center JR/SR High School,26,89,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2932,2021,Cowan Academic Center JR/SR High School,20,72,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2932,2022,Cowan Academic Center JR/SR High School,80,72,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2932,2023,Cowan Academic Center JR/SR High School,127,76,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2932,2024,Cowan Academic Center JR/SR High School,98,62,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2933,2020,Peterson Academic Center JR/SR High School,41,75,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2933,2021,Peterson Academic Center JR/SR High School,53,74,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2933,2022,Peterson Academic Center JR/SR High School,127,71,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2933,2023,Peterson Academic Center JR/SR High School,154,70,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2933,2024,Peterson Academic Center JR/SR High School,113,64,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2935,2020,Variety Elementary School,31,53,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2935,2021,Variety Elementary School,21,67,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2935,2022,Variety Elementary School,19,45,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2935,2023,Variety Elementary School,21,61,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2965,2023,Quest Program,11,,Critical,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2965,2024,Quest Program,,5,Low,,FALSE,,FALSE,2026-06-23 16:30:42.783 -0700
+2935,2024,Variety Elementary School,28,49,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2716,2023,Acceleration Academy,1594,,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2619,2020,Legacy High School,2789,58,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2087,2020,Rainbow Dreams Early Learning Academy,88,89,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2716,2024,Acceleration Academy,2092,,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2607,2020,Centennial High School,2745,51,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2607,2021,Centennial High School,2787,51,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2215,2022,John F Miller ,113,72,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2215,2021,John F Miller ,118,77,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2777,2020,Clark County Detention Center JR/SR High School,36,,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2911,2024,Variety JR/SR High School,113,43,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2087,2024,Rainbow Dreams Early Learning Academy,231,22,High,,,,,2026-06-23 16:30:42.783 -0700
+2087,2021,Rainbow Dreams Early Learning Academy,273,53,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2619,2023,Legacy High School,2640,47,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2215,2023,John F Miller ,111,61,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2250,2023,Andrew Mitchell Elementary School,373,18,Moderate,,,,,2026-06-23 16:30:42.783 -0700
+2619,2021,Legacy High School,2853,52,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2607,2024,Centennial High School,2961,37,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2087,2022,Rainbow Dreams Early Learning Academy,276,51,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2716,2020,Acceleration Academy,582,,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2777,2023,Clark County Detention Center JR/SR High School,37,,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2777,2024,Clark County Detention Center JR/SR High School,44,,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2607,2022,Centennial High School,2865,42,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2716,2022,Acceleration Academy,1148,,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2619,2022,Legacy High School,2750,50,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2777,2021,Clark County Detention Center JR/SR High School,49,,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2619,2024,Legacy High School,2682,46,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2250,2020,Andrew Mitchell Elementary School,340,14,Moderate,,,,,2026-06-23 16:30:42.783 -0700
+2250,2021,Andrew Mitchell Elementary School,366,27,High,,,,,2026-06-23 16:30:42.783 -0700
+2215,2024,John F Miller ,102,57,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2087,2023,Rainbow Dreams Early Learning Academy,265,31,Critical,,,,,2026-06-23 16:30:42.783 -0700
+2250,2024,Andrew Mitchell Elementary School,356,20,High,,,,,2026-06-23 16:30:42.783 -0700
+2103,2023,Earl B. Lundy Elementary School,,10,Moderate,,,,,2026-06-23 16:30:42.783 -0700
+2250,2022,Andrew Mitchell Elementary School,386,27,High,,,,,2026-06-23 16:30:42.783 -0700

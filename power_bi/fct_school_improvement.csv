@@ -1,0 +1,301 @@
+SCHOOL_ID,SCHOOL_NAME,REGION,ELA_FIRST_YEAR,ELA_LATEST_YEAR,ELA_FIRST_PCT,ELA_LATEST_PCT,ELA_OVERALL_CHANGE,MATH_FIRST_YEAR,MATH_LATEST_YEAR,MATH_FIRST_PCT,MATH_LATEST_PCT,MATH_OVERALL_CHANGE,COMPOSITE_OVERALL_CHANGE,ELA_YEARS_IMPROVED,ELA_YEARS_DECLINED,ELA_YEARS_MEASURED,MATH_YEARS_IMPROVED,MATH_YEARS_DECLINED,MATH_YEARS_MEASURED,COMPOSITE_YEARS_IMPROVED,COMPOSITE_YEARS_DECLINED,ELA_PEAK_YOY,MATH_PEAK_YOY,COMPOSITE_PEAK_YOY,CONSISTENCY_SCORE,IMPROVEMENT_SCORE,ELA_OVERALL_RANK,MATH_OVERALL_RANK,COMPOSITE_OVERALL_RANK,CONSISTENCY_RANK,ELA_PEAK_RANK,MATH_PEAK_RANK,COMPOSITE_PEAK_RANK,IMPROVEMENT_CATEGORY,OVERALL_IMPROVEMENT_RANK,REGIONAL_IMPROVEMENT_RANK
+2188,William & Mary Scherkenbach Elementary School,Region 2,2020,2024,36,65,29,2020,2024,14,56,42,35.5,3,0,4,4,0,4,4,0,11,19,15.0,1,1.31,3,1,1,1,62,17,23,Consistently Improving,1,1
+2181,Roger D Gehring Academy of Science and Technology Elementary School,Region 3,2020,2024,56,84,28,2020,2024,48,82,34,31.0,4,0,4,3,1,4,4,0,19,13,16.0,1,1.22,4,3,2,1,6,63,18,Consistently Improving,2,1
+2202,Mabel Hoggard Elementary School,Region 1,2020,2024,42,63,21,2020,2024,23,58,35,28.0,4,0,4,4,0,4,4,0,9,17,11.0,1,1.16,22,2,3,1,104,25,68,Consistently Improving,3,1
+2066,Shirley A Barber Elementary School,Region 3,2020,2024,31,56,25,2020,2024,20,49,29,27.0,4,0,4,4,0,4,4,0,11,15,9.0,1,1.14,11,14,5,1,62,38,114,Consistently Improving,4,2
+2118,Dorothy Eisenberg Elementary School,Region 1,2020,2024,27,53,26,2020,2024,15,42,27,26.5,2,2,4,4,0,4,4,0,17,13,15.0,1,1.13,6,28,8,1,12,63,23,Consistently Improving,5,2
+2308,John C Fremont Professional Development Middle School,Region 2,2020,2024,13,48,35,2021,2024,7,25,18,26.5,4,0,4,3,0,3,4,0,15,8,11.5,1,1.13,1,98,8,1,20,157,55,Consistently Improving,5,2
+2263,P A Diskin Elementary School,Region 2,2020,2024,27,46,19,2020,2024,10,42,32,25.5,3,0,4,4,0,4,4,0,9,12,8.5,1,1.11,30,5,12,1,104,80,128,Consistently Improving,7,3
+2158,Roberta C Cartwright Elementary School,Region 3,2020,2024,33,54,21,2020,2024,12,42,30,25.5,2,1,4,3,0,4,3,0,15,13,14.0,1,1.11,22,9,12,1,20,63,29,Consistently Improving,7,3
+2298,Estes M McDoniel Elementary School,Region 3,2020,2024,48,66,18,2020,2024,31,63,32,25.0,3,0,4,4,0,4,4,0,10,14,9.5,1,1.1,32,5,15,1,87,49,98,Consistently Improving,9,4
+2234,Quannah McCall Elementary School,Region 3,2020,2024,14,36,22,2020,2024,8,35,27,24.5,3,1,4,4,0,4,3,0,10,9,9.5,1,1.09,16,28,18,1,87,132,98,Consistently Improving,10,5
+2277,Nate Mack Elementary School,Region 3,2020,2024,45,63,18,2020,2024,24,54,30,24.0,3,1,4,3,1,4,4,0,9,15,10.0,1,1.08,32,9,19,1,104,38,88,Consistently Improving,11,6
+2079,Charlotte & Jerry Keller Elementary School,Region 3,2020,2024,23,46,23,2020,2024,12,37,25,24.0,4,0,4,4,0,4,4,0,8,10,8.5,1,1.08,13,43,19,1,135,112,128,Consistently Improving,11,6
+2259,Cyril Wengert Elementary School,Region 3,2020,2024,20,46,26,2020,2024,12,33,21,23.5,3,1,4,3,1,4,4,0,13,10,11.5,1,1.07,6,68,21,1,40,112,55,Consistently Improving,13,8
+2290,R E Tobler Elementary School,Region 1,2020,2024,32,52,20,2020,2024,16,43,27,23.5,3,1,4,4,0,4,4,0,11,15,11.5,1,1.07,24,28,21,1,62,38,55,Consistently Improving,13,3
+2179,Eileen B Brookman Elementary School,Region 2,2020,2024,33,50,17,2020,2024,15,44,29,23.0,3,0,4,3,1,4,4,0,8,13,9.5,1,1.06,37,14,27,1,135,63,98,Consistently Improving,15,4
+2272,Charles & Phyllis Frias Elementary School,Region 2,2020,2024,51,71,20,2020,2024,37,62,25,22.5,2,1,4,3,0,4,4,0,16,16,16.0,1,1.05,24,43,29,1,16,30,18,Consistently Improving,16,5
+2092,Innovations International Charter Elementary School,Charter,2020,2024,21,37,16,2020,2024,8,36,28,22.0,4,0,4,4,0,4,4,0,8,14,9.0,1,1.04,45,19,30,1,135,49,114,Consistently Improving,17,1
+2285,Sheila Tarr Academy of International Studies Elementary School,Region 1,2020,2024,46,63,17,2020,2024,32,59,27,22.0,4,0,4,4,0,4,4,0,9,12,10.5,1,1.04,37,28,30,1,104,80,80,Consistently Improving,17,4
+2246,Walter Bracken Elementary School,Region 2,2020,2024,50,66,16,2020,2024,25,53,28,22.0,4,0,4,4,0,4,4,0,8,10,9.0,1,1.04,45,19,30,1,135,112,114,Consistently Improving,17,6
+2180,Steve and Linda Cozine Elementary School,Region 2,2020,2024,26,48,22,2020,2024,17,38,21,21.5,3,1,4,4,0,4,3,0,10,12,11.0,1,1.03,16,68,33,1,87,80,68,Consistently Improving,20,7
+2156,Roger M Bryan Elementary School,Region 2,2020,2024,35,49,14,2020,2024,22,50,28,21.0,2,1,4,4,0,4,3,0,13,21,17.0,1,1.02,67,19,36,1,40,8,10,Consistently Improving,21,8
+2132,Ernest May Elementary School,Region 2,2020,2024,33,59,26,2020,2024,16,46,30,28.0,3,1,4,4,0,4,3,1,20,19,19.5,0.75,1.01,6,9,3,69,4,17,3,Consistently Improving,22,9
+2276,Fay Galloway Elementary School,Region 2,2020,2024,34,47,13,2020,2024,21,48,27,20.0,3,0,4,4,0,4,4,0,7,11,8.0,1,1,82,28,43,1,166,96,137,Consistently Improving,23,10
+2083,Thomas ORoarke Elementary School,Region 1,2020,2024,56,70,14,2020,2024,35,61,26,20.0,3,1,4,3,1,4,4,0,9,19,14.0,1,1,67,36,43,1,104,17,29,Consistently Improving,23,5
+2083,Thomas ORoarke Elementary School,Region 1,2020,2024,56,70,14,2020,2024,35,61,26,20.0,3,1,4,3,1,4,4,0,9,19,14.0,1,1,67,36,43,1,104,17,29,Consistently Improving,23,5
+2197,Theron H & Naomi D Goynes Elementary School,Region 1,2020,2024,45,62,17,2020,2024,26,49,23,20.0,4,0,4,3,0,4,4,0,6,14,8.5,1,1,37,54,43,1,190,49,128,Consistently Improving,23,5
+2152,Eva Wolfe Elementary School,Region 1,2020,2024,17,43,26,2020,2024,5,33,28,27.0,3,0,4,3,1,4,3,1,14,22,18.0,0.75,0.99,6,19,5,69,31,4,5,Consistently Improving,27,8
+2152,Eva Wolfe Elementary School,Transformation Network,2020,2024,17,43,26,2020,2024,5,33,28,27.0,3,0,4,3,1,4,3,1,14,22,18.0,0.75,0.99,6,19,5,69,31,4,5,Consistently Improving,27,1
+2260,Myrtle Tate Elementary School,Region 3,2020,2024,19,35,16,2020,2024,15,38,23,19.5,3,0,4,4,0,4,4,0,9,13,11.0,1,0.99,45,54,48,1,104,63,68,Consistently Improving,27,9
+2214,J M Ullom Elementary School,Region 2,2020,2024,22,37,15,2020,2024,7,29,22,18.5,4,0,4,2,1,4,4,0,6,13,9.5,1,0.97,59,58,54,1,190,63,98,Consistently Improving,30,11
+2231,O K Adcock Elementary School,Region 2,2020,2024,27,46,19,2020,2024,12,45,33,26.0,3,1,4,3,1,4,3,1,12,16,12.0,0.75,0.97,30,4,10,69,47,30,47,Consistently Improving,30,11
+2141,William Lummis Elementary School,Region 1,2020,2024,52,68,16,2020,2024,42,63,21,18.5,3,1,4,4,0,4,3,0,9,7,7.5,1,0.97,45,68,54,1,104,183,151,Consistently Improving,30,9
+2295,Doris M Reed Elementary School,Region 1,2020,2024,14,30,16,2020,2024,6,27,21,18.5,4,0,4,3,0,4,4,0,11,11,11.0,1,0.97,45,68,54,1,62,96,68,Consistently Improving,30,9
+2171,Kay Carl Elementary School,Region 1,2020,2024,30,50,20,2020,2024,15,47,32,26.0,3,1,4,4,0,4,3,1,9,13,10.5,0.75,0.97,24,5,10,69,104,63,80,Consistently Improving,30,9
+2280,John C Bass Elementary School,Region 3,2020,2024,41,59,18,2020,2024,28,47,19,18.5,3,0,4,3,0,4,3,0,10,8,7.5,1,0.97,32,87,54,1,87,157,151,Consistently Improving,30,10
+2084,Carolyn S Reedom Elementary School,Region 2,2020,2024,43,54,11,2020,2024,29,54,25,18.0,3,0,4,4,0,4,4,0,5,11,7.5,1,0.96,100,43,58,1,226,96,151,Consistently Improving,36,13
+2168,Keith C & Karen W Hayes Elementary School,Region 2,2020,2024,47,62,15,2020,2024,31,52,21,18.0,3,1,4,4,0,4,4,0,8,11,7.5,1,0.96,59,68,58,1,135,96,151,Consistently Improving,36,13
+2278,R Guild Gray Elementary School,Region 2,2020,2024,23,40,17,2020,2024,12,31,19,18.0,4,0,4,3,0,4,4,0,10,11,7.0,1,0.96,37,87,58,1,87,96,168,Consistently Improving,36,13
+2153,Daniel Goldfarb Elementary School,Transformation Network,2020,2024,26,49,23,2020,2024,14,42,28,25.5,3,1,4,2,1,4,3,1,17,18,16.5,0.75,0.96,13,19,12,69,12,24,11,Consistently Improving,36,2
+2120,James Gibson Elementary School,Region 3,2020,2024,39,61,22,2020,2024,24,52,28,25.0,2,2,4,3,1,4,3,1,22,21,21.5,0.75,0.95,16,19,15,69,2,8,1,Consistently Improving,40,11
+2257,William E Ferron Elementary School,Region 2,2020,2024,30,44,14,2020,2024,15,36,21,17.5,4,0,4,4,0,4,4,0,6,13,8.0,1,0.95,67,68,65,1,190,63,137,Consistently Improving,40,16
+2261,Harley Harmon Elementary School,Region 2,2020,2024,22,36,14,2020,2024,12,33,21,17.5,3,1,4,4,0,4,4,0,6,7,6.5,1,0.95,67,68,65,1,190,183,182,Consistently Improving,40,16
+2149,Elizabeth Wilhelm Elementary School,Transformation Network,2020,2024,19,34,15,2020,2024,11,31,20,17.5,3,0,4,3,0,4,4,0,6,11,8.5,1,0.95,59,83,65,1,190,96,128,Consistently Improving,40,3
+2129,Helen Herr Elementary School,Transformation Network,2020,2024,15,37,22,2020,2024,6,34,28,25.0,3,0,4,3,1,4,3,1,8,14,10.0,0.75,0.95,16,19,15,69,135,49,88,Consistently Improving,40,3
+2108,John R Beatty Elementary School,Region 3,2020,2024,42,55,13,2020,2024,18,40,22,17.5,4,0,4,4,0,4,4,0,6,9,7.0,1,0.95,82,58,65,1,190,132,168,Consistently Improving,40,11
+2322,Mike OCallaghan Middle School i3 Learn Academy,Region 3,2020,2024,42,60,18,2020,2024,29,45,16,17.0,3,0,4,3,0,4,3,0,15,9,12.0,1,0.94,32,117,72,1,20,132,47,Consistently Improving,46,13
+2176,Neil C Twitchell Elementary School,Region 3,2020,2024,60,72,12,2020,2024,47,69,22,17.0,3,0,4,3,1,4,4,0,7,10,7.5,1,0.94,91,58,72,1,166,112,151,Consistently Improving,46,13
+2249,Gordon McCaw Elementary School,Region 3,2020,2024,63,83,20,2020,2024,52,79,27,23.5,3,1,4,3,0,4,3,1,9,14,11.5,0.75,0.92,24,28,21,69,104,49,55,Consistently Improving,48,15
+2089,West Preparatory Academy Elementary School,Transformation Network,2020,2024,19,43,24,2020,2024,9,32,23,23.5,3,1,4,3,1,4,3,1,14,13,11.0,0.75,0.92,12,54,21,69,31,63,68,Consistently Improving,48,5
+2136,Martha P King Elementary School,Region 3,2020,2024,44,67,23,2020,2024,34,58,24,23.5,3,1,4,3,1,4,3,1,10,10,10.0,0.75,0.92,13,49,21,69,87,112,88,Consistently Improving,48,15
+2369,Jo Mackey Middle School,Transformation Network,2020,2024,35,69,34,2021,2024,20,33,13,23.5,3,1,4,3,0,3,3,1,30,8,11.5,0.75,0.92,2,152,21,69,1,157,55,Consistently Improving,48,5
+2106,Ruthe Deskin Elementary School,Region 1,2020,2024,33,49,16,2020,2024,20,36,16,16.0,3,1,4,3,0,4,4,0,11,8,9.0,1,0.92,45,117,85,1,62,157,114,Consistently Improving,48,12
+2615,Explore Knowledge Academy Elementary School,Charter,2020,2024,46,60,14,2020,2024,20,37,17,15.5,3,1,4,3,1,4,4,0,8,10,6.5,1,0.91,67,106,89,1,135,112,182,Consistently Improving,53,2
+2162,Sue H Morrow Elementary School,Region 3,2020,2024,47,67,20,2020,2024,27,53,26,23.0,3,1,4,3,1,4,3,1,14,25,19.5,0.75,0.91,24,36,27,69,31,2,3,Consistently Improving,53,17
+2245,Vegas Verdes Elementary School,Region 2,2020,2024,24,33,9,2020,2024,9,31,22,15.5,3,0,4,4,0,4,4,0,5,8,5.0,1,0.91,130,58,89,1,226,157,221,Consistently Improving,53,18
+2326,Thurman White Academy of the Arts Middle School,Region 3,2020,2024,57,68,11,2020,2024,27,46,19,15.0,3,1,4,4,0,4,3,0,7,11,7.5,1,0.9,100,87,94,1,166,96,151,Consistently Improving,56,18
+2267,Elbert Edwards Elementary School,Region 3,2020,2024,20,35,15,2020,2024,9,24,15,15.0,3,1,4,4,0,4,4,0,8,8,5.0,1,0.9,59,130,94,1,135,157,221,Consistently Improving,56,18
+2082,Vincent L Triggs Elementary School,Region 1,2020,2024,41,53,12,2020,2024,27,45,18,15.0,3,1,4,3,0,4,4,0,6,10,7.0,1,0.9,91,98,94,1,190,112,168,Consistently Improving,56,13
+2269,C H Decker Elementary School,Region 2,2020,2024,31,41,10,2020,2024,20,38,18,14.0,4,0,4,3,1,4,3,0,5,8,5.0,1,0.88,118,98,101,1,226,157,221,Consistently Improving,59,19
+2219,Helen Anderson Toland International Academy,Region 1,2020,2024,28,46,18,2021,2024,20,45,25,21.5,2,2,4,3,0,3,3,1,16,15,10.0,0.75,0.88,32,43,33,69,16,38,88,Consistently Improving,59,14
+2148,Richard H Bryan Elementary School,Region 1,2020,2024,42,53,11,2020,2024,31,48,17,14.0,3,0,4,3,1,4,3,0,5,9,6.5,1,0.88,100,106,101,1,226,132,182,Consistently Improving,59,14
+2133,Marc Kahre Elementary School,Region 1,2020,2024,35,40,5,2020,2024,14,37,23,14.0,3,1,4,3,0,4,4,0,3,8,5.0,1,0.88,183,54,101,1,270,157,221,Consistently Improving,59,14
+2255,Virgin Valley Elementary School,Region 1,2020,2024,34,50,16,2020,2024,21,48,27,21.5,2,1,4,3,1,4,3,1,14,21,17.5,0.75,0.88,45,28,33,69,31,8,8,Consistently Improving,59,14
+2067,Kenneth Divich Elementary School,Region 1,2020,2024,57,65,8,2020,2024,37,56,19,13.5,3,1,4,3,0,4,4,0,9,9,6.0,1,0.87,139,87,107,1,104,132,194,Consistently Improving,64,18
+2090,James E & A Rae Smalley Elementary School,Region 3,2020,2024,69,85,16,2020,2024,51,77,26,21.0,3,1,4,3,1,4,3,1,11,22,16.5,0.75,0.87,45,36,36,69,62,4,11,Consistently Improving,64,20
+2172,Marshall C Darnell Elementary School,Region 1,2020,2024,46,58,12,2020,2024,23,53,30,21.0,2,2,4,3,1,4,3,1,17,16,16.5,0.75,0.87,91,9,36,69,12,30,11,Consistently Improving,64,18
+2065,Dennis Ortwein Elementary School,Region 2,2020,2024,43,53,10,2020,2024,26,43,17,13.5,2,2,4,4,0,4,4,0,11,7,6.0,1,0.87,118,106,107,1,62,183,194,Consistently Improving,64,20
+2205,Crestwood Elementary School,Region 2,2020,2024,22,39,17,2020,2024,11,35,24,20.5,3,1,4,4,0,4,3,1,8,8,8.0,0.75,0.86,37,49,39,69,135,157,137,Consistently Improving,68,21
+2253,Richard C Priest Elementary School,Region 1,2020,2024,30,40,10,2020,2024,15,31,16,13.0,3,1,4,2,1,4,4,0,6,13,9.5,1,0.86,118,117,112,1,190,63,98,Consistently Improving,68,20
+2287,Elise L Wolff Elementary School,Region 3,2020,2024,59,75,16,2020,2024,47,72,25,20.5,3,1,4,3,1,4,3,1,15,21,18.0,0.75,0.86,45,43,39,69,20,8,5,Consistently Improving,68,21
+2073,Lomie G Heard Elementary School,Region 3,2020,2024,37,47,10,2020,2024,17,48,31,20.5,2,1,4,4,0,4,3,1,7,12,9.5,0.75,0.86,118,8,39,69,166,80,98,Consistently Improving,68,21
+2274,Sandy Searles Miller Elementary School,Region 3,2020,2024,38,52,14,2020,2024,20,47,27,20.5,3,1,4,3,1,4,3,1,9,20,14.5,0.75,0.86,67,28,39,69,104,13,28,Consistently Improving,68,21
+2121,Elaine Wynn Elementary School,Transformation Network,2020,2024,15,25,10,2020,2024,6,21,15,12.5,2,1,4,4,0,4,4,0,6,6,6.0,1,0.85,118,130,118,1,190,202,194,Consistently Improving,73,7
+2145,Piggott Academy Elementary School,Region 2,2020,2024,53,64,11,2020,2024,33,62,29,20.0,3,1,4,3,1,4,3,1,9,20,14.0,0.75,0.85,100,14,43,69,104,13,29,Consistently Improving,73,22
+2165,Manuel J Cortez Elementary School,Region 3,2020,2024,15,32,17,2021,2024,8,30,22,19.5,4,0,4,3,0,3,3,1,6,10,8.0,0.75,0.84,37,58,48,69,190,112,137,Consistently Improving,75,24
+2296,Marion B Earl Elementary School,Region 3,2020,2024,31,46,15,2020,2024,12,36,24,19.5,3,1,4,3,1,4,3,1,12,12,9.0,0.75,0.84,59,49,48,69,47,80,114,Consistently Improving,75,24
+2238,Rose Warren Elementary School,Region 2,2020,2024,23,29,6,2020,2024,12,30,18,12.0,4,0,4,4,0,4,4,0,3,6,3.5,1,0.84,171,98,130,1,270,202,262,Consistently Improving,75,23
+2190,Wayne N Tanaka Elementary School,Region 2,2020,2024,46,58,12,2020,2024,40,52,12,12.0,3,1,4,4,0,4,3,0,9,5,7.0,1,0.84,91,158,130,1,104,225,168,Consistently Improving,75,23
+2081,Henry & Evelyn Bozarth Elementary School,Region 1,2020,2024,51,68,17,2020,2024,36,58,22,19.5,3,1,4,2,1,4,3,1,13,20,16.5,0.75,0.84,37,58,48,69,40,13,11,Consistently Improving,75,21
+2112,John F Mendoza Elementary School,Region 3,2020,2024,20,40,20,2020,2024,13,32,19,19.5,3,1,4,3,1,4,3,1,13,15,14.0,0.75,0.84,24,87,48,69,40,38,29,Consistently Improving,75,24
+2265,Bill Y Tomiyasu Elementary School,Region 2,2020,2024,35,44,9,2020,2024,17,31,14,11.5,3,1,4,3,0,4,4,0,6,8,6.0,1,0.83,130,138,142,1,190,157,194,Consistently Improving,81,25
+2185,Linda Rankin Givens Elementary School,Region 2,2020,2024,72,76,4,2020,2024,55,74,19,11.5,2,1,4,4,0,4,4,0,5,10,4.5,1,0.83,204,87,142,1,226,112,237,Consistently Improving,81,25
+2116,Gwendolyn Woolley Elementary School,Region 2,2020,2024,21,32,11,2020,2024,7,19,12,11.5,4,0,4,3,1,4,4,0,5,8,6.5,1,0.83,100,158,142,1,226,157,182,Consistently Improving,81,25
+2126,David M Cox Elementary School,Region 3,2020,2024,49,63,14,2020,2024,32,56,24,19.0,3,0,4,3,1,4,3,1,7,17,12.0,0.75,0.83,67,49,53,69,166,25,47,Consistently Improving,81,27
+2139,Jim Thorpe Elementary School,Region 2,2020,2024,27,38,11,2020,2024,15,26,11,11.0,3,0,4,4,0,4,4,0,6,3,4.5,1,0.82,100,179,149,1,190,259,237,Consistently Improving,85,28
+2184,Eileen Conners Elementary School,Region 1,2020,2024,44,54,10,2020,2024,21,47,26,18.0,3,1,4,3,1,4,3,1,5,19,11.0,0.75,0.81,118,36,58,69,226,17,68,Consistently Improving,86,22
+2099,Steve Schorr Elementary School,Region 3,2020,2024,48,53,5,2020,2024,28,44,16,10.5,3,1,4,3,1,4,4,0,5,10,4.0,1,0.81,183,117,154,1,226,112,251,Consistently Improving,86,28
+2122,Charlotte Hill Elementary School,Region 3,2020,2024,47,54,7,2020,2024,24,53,29,18.0,3,1,4,3,1,4,3,1,7,19,13.0,0.75,0.81,157,14,58,69,166,17,38,Consistently Improving,86,28
+2137,Selma F Bartlett Elementary School,Region 3,2020,2024,54,60,6,2020,2024,26,56,30,18.0,3,1,4,3,1,4,3,1,4,22,12.5,0.75,0.81,171,9,58,69,257,4,41,Consistently Improving,86,28
+2331,Lied STEM Academy Middle School,Region 1,2020,2024,56,62,6,2020,2024,38,53,15,10.5,2,1,4,3,0,4,4,0,5,7,5.5,1,0.81,171,130,154,1,226,183,205,Consistently Improving,86,22
+2193,Kathy L Batterman Elementary School,Region 2,2020,2024,55,69,14,2020,2024,36,58,22,18.0,3,1,4,2,2,4,3,1,10,25,17.5,0.75,0.81,67,58,58,69,87,2,8,Consistently Improving,86,29
+2127,Harriet Treem Elementary School,Region 3,2020,2024,46,52,6,2020,2024,19,48,29,17.5,3,1,4,3,1,4,3,1,4,21,11.0,0.75,0.8,171,14,65,69,257,8,68,Consistently Improving,92,31
+2195,Liliam Lujan Hickey Elementary School,Region 3,2020,2024,19,27,8,2020,2024,7,19,12,10.0,3,1,4,4,0,4,4,0,5,6,4.5,1,0.8,139,158,163,1,226,202,237,Consistently Improving,92,31
+2178,Tony Alamo Elementary School,Region 2,2020,2024,44,55,11,2020,2024,28,52,24,17.5,2,1,4,3,0,4,3,1,11,16,13.5,0.75,0.8,100,49,65,69,62,30,36,Consistently Improving,92,30
+2100,Kitty McDonough Ward Elementary School,Region 1,2020,2024,51,65,14,2020,2024,40,61,21,17.5,2,2,4,3,0,4,3,1,9,11,10.0,0.75,0.8,67,68,65,69,104,96,88,Consistently Improving,92,24
+2135,Helen Jydstrup Elementary School,Region 2,2020,2024,42,50,8,2020,2024,25,51,26,17.0,2,1,4,4,0,4,3,1,12,12,12.0,0.75,0.79,139,36,72,69,47,80,47,Consistently Improving,96,31
+2094,D L Dusty Dickens Elementary School,Transformation Network,2020,2024,33,40,7,2020,2024,20,32,12,9.5,2,0,4,3,0,4,3,0,4,5,4.5,1,0.79,157,158,167,1,257,225,237,Consistently Improving,96,8
+2199,Don E Hayden Elementary School,Region 1,2020,2024,28,33,5,2020,2024,12,26,14,9.5,2,2,4,3,1,4,3,0,7,8,7.5,1,0.79,183,138,167,1,166,157,151,Consistently Improving,96,25
+2113,James B McMillan Elementary School,Region 1,2020,2024,18,40,22,2021,2024,18,30,12,17.0,3,1,4,2,0,3,3,1,12,8,10.0,0.75,0.79,16,158,72,69,47,157,88,Consistently Improving,96,25
+2368,Barry and June Gunderson Middle School,Region 2,2021,2024,58,65,7,2021,2024,39,51,12,9.5,2,1,3,3,0,3,2,0,8,6,5.0,1,0.79,157,158,167,1,135,202,221,Consistently Improving,96,31
+2070,Shelley Berkley Elementary School,Region 2,2020,2024,50,63,13,2020,2024,34,55,21,17.0,3,1,4,4,0,4,3,1,7,14,10.5,0.75,0.79,82,68,72,69,166,49,80,Consistently Improving,96,31
+2115,Ann Lynch Elementary School,Transformation Network,2021,2024,13,21,8,2021,2024,7,17,10,9.0,2,0,3,3,0,3,3,0,6,5,5.5,1,0.78,139,189,174,1,190,225,205,Consistently Improving,102,9
+2128,Richard Rundle Elementary School,Transformation Network,2020,2024,18,33,15,2020,2024,11,29,18,16.5,3,1,4,4,0,4,3,1,14,7,10.5,0.75,0.78,59,98,81,69,31,183,80,Consistently Improving,102,9
+2143,H P Fitzgerald Elementary School,Region 1,2020,2024,24,31,7,2020,2024,10,36,26,16.5,2,1,4,3,1,4,3,1,10,15,12.5,0.75,0.78,157,36,81,69,87,38,41,Consistently Improving,102,27
+2095,Sister Robert Joseph Bailey Elementary School,Region 3,2020,2024,27,38,11,2020,2024,11,33,22,16.5,2,1,4,4,0,4,3,1,11,12,11.5,0.75,0.78,100,58,81,69,62,80,55,Consistently Improving,102,33
+2124,Herbert A Derfelt Elementary School,Region 2,2020,2024,26,42,16,2020,2024,18,34,16,16.0,2,2,4,3,1,4,3,1,15,10,12.5,0.75,0.77,45,117,85,69,20,112,41,Consistently Improving,106,34
+2109,M J Christensen Elementary School,Region 2,2020,2024,45,52,7,2020,2024,16,41,25,16.0,2,2,4,4,0,4,3,1,10,12,9.0,0.75,0.77,157,43,85,69,87,80,114,Consistently Improving,106,34
+2221,Lewis E Rowe Elementary School,Region 2,2020,2024,32,48,16,2020,2024,18,34,16,16.0,3,1,4,3,1,4,3,1,15,12,13.5,0.75,0.77,45,117,85,69,20,80,36,Consistently Improving,106,34
+2192,Joseph E Thiriot Elementary School,Region 2,2020,2024,34,45,11,2020,2024,14,34,20,15.5,3,1,4,2,2,4,3,1,9,17,13.0,0.75,0.76,100,83,89,69,104,25,38,Consistently Improving,109,37
+2243,Twin Lakes Elementary School,Region 1,2020,2024,20,36,16,2020,2024,13,28,15,15.5,2,1,4,3,1,4,3,1,11,8,9.5,0.75,0.76,45,130,89,69,62,157,98,Consistently Improving,109,28
+2157,John W Bonner Elementary School,Region 2,2020,2024,66,75,9,2020,2024,50,71,21,15.0,3,1,4,3,1,4,3,1,6,16,9.5,0.75,0.75,130,68,94,69,190,30,98,Consistently Improving,111,38
+2289,Dean Petersen Elementary School,Transformation Network,2020,2024,13,20,7,2020,2024,8,16,8,7.5,2,1,4,3,0,4,3,0,4,4,4.0,1,0.75,157,209,193,1,257,244,251,Consistently Improving,111,11
+2362,Wilbur & Theresa Faiss Middle School,Region 2,2020,2024,38,51,13,2020,2024,18,35,17,15.0,3,1,4,3,0,4,3,1,12,7,9.5,0.75,0.75,82,106,94,69,47,183,98,Consistently Improving,111,38
+2203,C C Ronnow Elementary School,Region 3,2020,2024,14,30,16,2020,2024,9,23,14,15.0,3,1,4,2,2,4,3,1,19,11,15.0,0.75,0.75,45,138,94,69,6,96,23,Consistently Improving,111,34
+2294,Stanford Elementary School,Region 3,2020,2024,27,39,12,2020,2024,11,33,22,17.0,2,2,4,3,1,4,2,1,16,14,15.0,0.67,0.742,91,58,72,187,16,49,23,Big Gains,115,35
+2291,Sandy Valley Elementary School,Region 3,2021,2024,24,51,27,2021,2024,26,33,7,17.0,3,0,3,1,2,3,2,1,19,14,16.5,0.67,0.742,5,218,72,187,6,49,11,Big Gains,115,35
+2170,Joseph M Neal Elementary School,Region 1,2020,2024,34,51,17,2020,2024,26,43,17,17.0,3,1,4,2,2,4,2,1,14,10,11.5,0.67,0.742,37,106,72,187,31,112,55,Big Gains,115,29
+2318,Elton M Garrett Junior High School,Region 3,2020,2024,45,61,16,2020,2024,28,45,17,16.5,3,1,4,2,2,4,2,1,15,15,15.0,0.67,0.732,45,106,81,187,20,38,23,Big Gains,118,37
+2166,Frank Lamping Elementary School,Region 3,2020,2024,67,74,7,2020,2024,47,68,21,14.0,3,1,4,3,1,4,3,1,8,11,8.0,0.75,0.73,157,68,101,69,135,96,137,Consistently Improving,119,38
+2217,Jo Mackey Elementary School,Transformation Network,2020,2024,39,51,12,2020,2024,24,39,15,13.5,3,1,4,3,1,4,3,1,9,10,7.5,0.75,0.72,91,130,107,69,104,112,151,Consistently Improving,120,12
+2233,Paul E Culley Elementary School,Region 1,2020,2024,19,33,14,2020,2024,8,25,17,15.5,2,2,4,4,0,4,2,1,11,8,9.5,0.67,0.712,67,106,89,187,62,157,98,Big Gains,121,30
+2228,Mountain View Elementary School,Region 3,2020,2024,18,32,14,2021,2024,14,26,12,13.0,2,2,4,2,1,3,3,1,11,7,8.5,0.75,0.71,67,158,112,69,62,183,128,Consistently Improving,122,39
+2200,William V Wright Elementary School,Region 1,2020,2024,44,51,7,2020,2024,27,46,19,13.0,3,1,4,3,1,4,3,1,8,14,11.0,0.75,0.71,157,87,112,69,135,49,68,Consistently Improving,122,31
+2271,James Bilbray Elementary School,Region 1,2020,2024,57,63,6,2020,2024,37,57,20,13.0,3,1,4,3,0,4,3,1,3,14,8.5,0.75,0.71,171,83,112,69,270,49,128,Consistently Improving,122,31
+2060,Tyrone Thompson Elementary School,Region 2,2020,2024,63,66,3,2020,2024,41,63,22,12.5,3,1,4,3,1,4,3,1,7,17,11.5,0.75,0.7,219,58,118,69,166,25,55,Consistently Improving,125,40
+2264,Helen M Smith Elementary School,Region 2,2020,2024,41,45,4,2020,2024,18,39,21,12.5,3,1,4,4,0,4,3,1,11,14,12.5,0.75,0.7,204,68,118,69,62,49,41,Consistently Improving,125,40
+2235,Red Rock Elementary School,Region 2,2020,2024,16,24,8,2020,2024,10,27,17,12.5,3,1,4,4,0,4,3,1,5,8,6.5,0.75,0.7,139,106,118,69,226,157,182,Consistently Improving,125,40
+2097,Robert L Forbuss Elementary School,Region 2,2020,2024,54,58,4,2020,2024,34,55,21,12.5,3,1,4,4,0,4,3,1,5,9,6.0,0.75,0.7,204,68,118,69,226,132,194,Consistently Improving,125,40
+2198,Sandra L Thompson Elementary School,Region 1,2020,2024,45,50,5,2020,2024,26,46,20,12.5,2,1,4,3,1,4,3,1,8,20,14.0,0.75,0.7,183,83,118,69,135,13,29,Consistently Improving,125,33
+2140,Lee Antonello Elementary School,Region 1,2020,2024,24,37,13,2020,2024,18,30,12,12.5,2,1,4,3,1,4,3,1,10,8,9.0,0.75,0.7,82,158,118,69,87,157,114,Consistently Improving,125,33
+2281,Reynaldo L Martinez Elementary School,Region 1,2020,2024,22,33,11,2020,2024,11,25,14,12.5,2,1,4,3,1,4,3,1,10,7,8.0,0.75,0.7,100,138,118,69,87,183,137,Consistently Improving,125,33
+2208,E W Griffith Elementary School,Region 3,2020,2024,21,34,13,2020,2024,14,26,12,12.5,3,1,4,2,0,4,3,1,12,7,9.5,0.75,0.7,82,158,118,69,47,183,98,Consistently Improving,125,40
+2062,Earl N Jenkins Elementary School,Region 3,2020,2024,39,45,6,2020,2024,22,41,19,12.5,2,1,4,3,1,4,3,1,5,12,8.0,0.75,0.7,171,87,118,69,226,80,137,Consistently Improving,125,40
+2275,Oran K Gragson Elementary School,Region 3,2020,2024,21,35,14,2020,2024,12,23,11,12.5,3,1,4,3,1,4,3,1,11,6,8.0,0.75,0.7,67,179,118,69,62,202,137,Consistently Improving,125,40
+2201,Bertha Ronzone Elementary School,Region 1,2020,2024,17,25,8,2020,2024,7,23,16,12.0,2,2,4,3,1,4,3,1,12,10,11.0,0.75,0.69,139,117,130,69,47,112,68,Consistently Improving,135,36
+2222,Lincoln Elementary School,Region 1,2020,2024,17,26,9,2020,2024,7,22,15,12.0,3,1,4,4,0,4,3,1,6,9,7.5,0.75,0.69,130,130,130,69,190,132,151,Consistently Improving,135,36
+2164,Raul P Elizondo Elementary School,Region 1,2020,2024,20,30,10,2020,2024,10,24,14,12.0,3,1,4,2,2,4,3,1,12,9,10.0,0.75,0.69,118,138,130,69,47,132,88,Consistently Improving,135,36
+2072,Dr Beverly S Mathis Elementary School,Region 2,2020,2024,54,59,5,2020,2024,41,60,19,12.0,2,2,4,3,0,4,3,1,6,8,6.5,0.75,0.69,183,87,130,69,190,157,182,Consistently Improving,135,44
+2248,Will Beckley Elementary School,Region 2,2020,2024,14,23,9,2020,2024,7,22,15,12.0,2,2,4,3,1,4,3,1,13,10,11.5,0.75,0.69,130,130,130,69,40,112,55,Consistently Improving,135,44
+2210,Halle Hewetson Elementary School,Region 3,2020,2024,15,26,11,2021,2024,8,21,13,12.0,3,1,4,3,0,3,3,1,5,6,5.5,0.75,0.69,100,152,130,69,226,202,205,Consistently Improving,135,43
+2159,Joseph L Bowler Elementary School,Region 1,2020,2024,34,39,5,2020,2024,14,32,18,11.5,2,2,4,4,0,4,3,1,10,8,6.5,0.75,0.68,183,98,142,69,87,157,182,Consistently Improving,141,39
+2096,Dr C Owen Roundy Elementary School,Region 2,2020,2024,17,26,9,2020,2024,8,22,14,11.5,2,2,4,3,1,4,3,1,8,14,11.0,0.75,0.68,130,138,142,69,135,49,68,Consistently Improving,141,46
+2191,John Tartan Elementary School,Transformation Network,2020,2024,18,32,14,2021,2024,11,19,8,11.0,3,1,4,3,0,3,3,1,6,5,5.0,0.75,0.67,67,209,149,69,190,225,221,Consistently Improving,143,13
+2187,John R Hummel Elementary School,Region 3,2020,2024,26,34,8,2020,2024,15,29,14,11.0,2,1,4,3,1,4,3,1,9,8,8.5,0.75,0.67,139,138,149,69,104,157,128,Consistently Improving,143,44
+2069,Billy & Rosemary Vassiliadis Elementary School,Region 2,2020,2024,77,81,4,2020,2024,62,80,18,11.0,2,2,4,2,2,4,3,1,4,11,6.5,0.75,0.67,204,98,149,69,257,96,182,Consistently Improving,143,47
+2256,Whitney Elementary School,Region 2,2020,2024,22,28,6,2020,2024,13,29,16,11.0,2,2,4,3,1,4,3,1,9,9,9.0,0.75,0.67,171,117,149,69,104,132,114,Consistently Improving,143,47
+2186,Judy & John L Goolsby Elementary School,Region 1,2020,2024,75,78,3,2020,2024,57,75,18,10.5,1,2,4,3,1,4,3,1,8,16,8.0,0.75,0.66,219,98,154,69,135,30,137,Consistently Improving,147,40
+2068,Jan L Jones Blackhurst Elementary School,Region 2,2020,2024,65,69,4,2020,2024,41,58,17,10.5,3,1,4,4,0,4,3,1,5,8,5.5,0.75,0.66,204,106,154,69,226,157,205,Consistently Improving,147,49
+2328,Grant Sawyer Middle School,Region 2,2020,2024,28,41,13,2020,2024,14,22,8,10.5,2,1,4,3,0,4,3,1,11,3,5.5,0.75,0.66,82,209,154,69,62,259,205,Consistently Improving,147,49
+2230,Glen C Taylor Elementary School,Region 3,2020,2024,55,60,5,2020,2024,44,60,16,10.5,2,2,4,2,1,4,3,1,6,13,9.5,0.75,0.66,183,117,154,69,190,63,98,Consistently Improving,147,45
+2268,Doris French Elementary School,Region 2,2020,2024,34,39,5,2020,2024,16,32,16,10.5,3,1,4,3,0,4,3,1,7,6,6.5,0.75,0.66,183,117,154,69,166,202,182,Consistently Improving,147,49
+2360,Lois & Jerry Tarkanian Middle School,Region 2,2020,2024,52,62,10,2020,2024,30,44,14,12.0,3,1,4,3,1,4,2,1,8,6,7.0,0.67,0.642,118,138,130,187,135,202,168,Big Gains,152,52
+2244,Vail Pittman Elementary School,Region 2,2020,2024,23,31,8,2020,2024,11,27,16,12.0,2,2,4,4,0,4,2,1,9,9,7.5,0.67,0.642,139,117,130,187,104,132,151,Big Gains,152,52
+2266,Harvey N Dondero Elementary School,Region 2,2020,2024,29,31,2,2020,2024,16,33,17,9.5,2,2,4,3,1,4,3,1,6,9,5.0,0.75,0.64,229,106,167,69,190,132,221,Consistently Improving,154,54
+2337,Clifford J Lawrence Junior High School,Region 3,2020,2024,19,41,22,2020,2024,10,22,12,17.0,2,2,4,3,1,4,2,2,22,9,15.5,0.5,0.64,16,158,72,215,2,132,21,Big Gains,154,46
+2211,Kermit R Booker Sr Elementary School,Transformation Network,2020,2024,17,30,13,2021,2024,12,18,6,9.5,3,1,4,3,0,3,3,1,8,4,4.5,0.75,0.64,82,232,167,69,135,244,237,Consistently Improving,154,14
+2117,Robert Lunt Elementary School,Transformation Network,2020,2024,16,20,4,2020,2024,7,21,14,9.0,3,1,4,2,0,4,3,1,6,8,7.0,0.75,0.63,204,138,174,69,190,157,168,Consistently Improving,157,15
+2064,Robert & Sandy Ellis Elementary School,Region 3,2020,2024,66,67,1,2020,2024,45,61,16,8.5,1,2,4,2,2,4,3,1,4,12,6.0,0.75,0.62,237,117,178,69,257,80,194,Consistently Improving,158,47
+2144,Mary & Zel Lowman Elementary School,Transformation Network,2020,2024,15,23,8,2020,2024,7,16,9,8.5,3,1,4,3,1,4,3,1,8,6,7.0,0.75,0.62,139,197,178,69,135,202,168,Consistently Improving,158,16
+2076,Ruby Duncan Elementary School,Transformation Network,2020,2024,29,34,5,2020,2024,11,23,12,8.5,3,1,4,2,1,4,3,1,3,8,5.5,0.75,0.62,183,158,178,69,270,157,205,Consistently Improving,158,16
+2353,Jack & Terry Mannion Middle School,Region 3,2020,2024,56,64,8,2020,2024,38,47,9,8.5,2,2,4,2,2,4,3,1,6,6,5.5,0.75,0.62,139,197,178,69,190,202,205,Consistently Improving,158,47
+2131,Kirk Adams Elementary School,Region 3,2020,2024,27,32,5,2020,2024,13,25,12,8.5,3,1,4,3,1,4,3,1,3,8,5.5,0.75,0.62,183,158,178,69,270,157,205,Consistently Improving,158,47
+2147,Lucile Bruner Elementary School,Region 1,2020,2024,23,28,5,2020,2024,10,22,12,8.5,2,1,4,3,1,4,3,1,15,7,11.0,0.75,0.62,183,158,178,69,20,183,68,Consistently Improving,158,41
+2339,Sig Rogich Middle School,Region 2,2020,2024,72,72,0,2020,2024,45,62,17,8.5,2,1,4,4,0,4,3,1,5,6,5.5,0.75,0.62,248,106,178,69,226,202,205,Consistently Improving,158,55
+2155,Arturo Cambeiro Elementary School,Region 3,2020,2024,21,27,6,2020,2024,10,20,10,8.0,2,2,4,3,1,4,3,1,9,6,7.5,0.75,0.61,171,189,188,69,104,202,151,Consistently Improving,165,50
+2344,Jack Lund Schofield Middle School,Region 3,2020,2024,36,45,9,2020,2024,14,21,7,8.0,3,1,4,3,0,4,3,1,10,4,6.0,0.75,0.61,130,218,188,69,87,244,194,Consistently Improving,165,50
+2310,Robert O Gibson Leadership Academy Middle School,Region 1,2020,2024,26,37,11,2020,2024,12,17,5,8.0,2,1,4,2,0,4,3,1,7,4,5.5,0.75,0.61,100,238,188,69,166,244,205,Consistently Improving,165,42
+2150,Aggie Roberts Elementary School,Transformation Network,2020,2024,34,38,4,2020,2024,15,26,11,7.5,2,2,4,3,1,4,3,1,8,7,7.5,0.75,0.6,204,179,193,69,135,183,151,Consistently Improving,168,18
+2061,Sandra B Abston Elementary School,Region 2,2020,2024,50,51,1,2020,2024,31,45,14,7.5,1,1,4,3,0,4,3,1,4,9,4.5,0.75,0.6,237,138,193,69,257,132,237,Consistently Improving,168,56
+2363,Innovations International Charter JR/SR High School,Charter,2020,2024,24,35,11,2020,2024,7,11,4,7.5,2,2,4,1,1,2,3,1,19,4,7.0,0.75,0.6,100,254,193,69,6,244,168,Consistently Improving,168,3
+2302,Frank F Garside Junior High School,Region 2,2020,2024,18,28,10,2020,2024,5,10,5,7.5,3,1,4,3,1,4,3,1,7,2,4.5,0.75,0.6,118,238,193,69,166,280,237,Consistently Improving,168,56
+2077,Shirley & Bill Wallin Elementary School,Region 2,2020,2024,61,70,9,2020,2024,45,66,21,15.0,2,2,4,3,1,4,2,2,8,15,11.5,0.5,0.6,130,68,94,215,135,38,55,Big Gains,168,56
+2093,FuturEdge Academy Elementary School,Region 1,2022,2024,18,17,-1,2022,2022,10,10,0,-0.5,1,1,2,0,0,0,1,0,3,,3.0,1,0.59,259,283,281,1,270,299,273,Consistent but Flat,173,43
+2237,Robert E Lake Elementary School,Region 2,2020,2024,27,30,3,2020,2024,14,25,11,7.0,2,2,4,3,1,4,3,1,7,9,8.0,0.75,0.59,219,179,203,69,166,132,137,Consistently Improving,173,59
+2338,Bob Miller Middle School,Region 2,2020,2024,60,65,5,2020,2024,45,54,9,7.0,2,2,4,3,1,4,3,1,7,7,5.0,0.75,0.59,183,197,203,69,166,183,221,Consistently Improving,173,59
+2247,Howard Wasden Elementary School,Region 2,2020,2024,27,31,4,2020,2024,14,24,10,7.0,2,2,4,3,1,4,3,1,6,5,5.5,0.75,0.59,204,189,203,69,190,225,205,Consistently Improving,173,59
+2093,FuturEdge Academy Elementary School,Transformation Network,2022,2024,18,17,-1,2022,2022,10,10,0,-0.5,1,1,2,0,0,0,1,0,3,,3.0,1,0.59,259,283,281,1,270,299,273,Consistent but Flat,173,19
+2313,Lyal Burkholder Academy of Environmental Science,Region 3,2020,2024,36,51,15,2020,2024,16,29,13,14.0,1,1,4,3,1,4,2,2,20,13,16.5,0.5,0.58,59,152,101,215,4,63,11,Big Gains,178,52
+2258,Gene Ward Elementary School,Region 1,2020,2024,18,23,5,2020,2024,6,18,12,8.5,2,2,4,3,0,4,2,1,15,9,12.0,0.67,0.572,183,158,178,187,20,132,47,Mixed Progress,179,44
+2348,Ralph Cadwallader Middle School,Region 2,2020,2024,48,55,7,2020,2024,34,44,10,8.5,2,2,4,4,0,4,2,1,12,3,7.5,0.67,0.572,157,189,178,187,47,259,151,Mixed Progress,179,62
+2292,William G Bennett Elementary School,Region 3,2020,2024,24,32,8,2020,2024,9,28,19,13.5,2,1,4,2,2,4,2,2,12,12,12.0,0.5,0.57,139,87,107,215,47,80,47,Big Gains,181,53
+2080,Mark L Fine Elementary School,Region 2,2020,2024,45,45,0,2020,2024,29,41,12,6.0,2,1,4,2,1,4,3,1,9,11,10.0,0.75,0.57,248,158,209,69,104,96,88,Consistently Improving,181,63
+2232,Paradise Professional Development Elementary School,Region 2,2020,2024,21,22,1,2020,2024,10,21,11,6.0,2,2,4,3,1,4,3,1,9,6,7.5,0.75,0.57,237,179,209,69,104,202,151,Consistently Improving,181,63
+2297,Edna F Hinman Elementary School,Region 3,2020,2024,26,34,8,2021,2024,22,26,4,6.0,3,1,4,2,1,3,3,1,11,9,7.0,0.75,0.57,139,254,209,69,62,132,168,Consistently Improving,181,53
+2173,Howard E Heckethorn Elementary School,Region 1,2020,2024,54,62,8,2020,2024,35,54,19,13.5,2,2,4,2,1,4,2,2,10,14,10.0,0.5,0.57,139,87,107,215,87,49,88,Big Gains,181,45
+2206,CVT Gilbert Elementary School,Region 1,2020,2024,40,41,1,2020,2024,20,31,11,6.0,2,1,4,3,1,4,3,1,3,7,3.5,0.75,0.57,237,179,209,69,270,183,262,Consistently Improving,181,45
+2134,Edythe & Lloyd Katz Elementary School,Region 1,2020,2024,19,29,10,2020,2024,7,23,16,13.0,2,2,4,3,1,4,2,2,13,12,12.5,0.5,0.56,118,117,112,215,40,80,41,Big Gains,187,47
+2177,Fredric W Watson Elementary School,Region 1,2020,2024,25,37,12,2020,2024,11,25,14,13.0,2,2,4,2,2,4,2,2,11,15,11.5,0.5,0.56,91,138,112,215,62,38,55,Big Gains,187,47
+2321,Laughlin JR/SR High School,Region 1,2020,2024,20,30,10,2021,2024,15,20,5,7.5,2,2,4,2,0,3,2,1,11,4,4.0,0.67,0.552,118,238,193,187,62,244,251,Mixed Progress,189,49
+2218,J T McWilliams Elementary School,Region 1,2020,2024,23,27,4,2020,2024,12,23,11,7.5,2,2,4,4,0,4,2,1,9,5,6.5,0.67,0.552,204,179,193,187,104,225,182,Mixed Progress,189,49
+2309,K O Knudson Academy of the Arts,Region 2,2020,2024,38,41,3,2020,2024,11,18,7,5.0,2,2,4,3,0,4,3,1,8,4,5.0,0.75,0.55,219,218,222,69,135,244,221,Consistently Improving,191,65
+2107,Frank Kim Elementary School,Region 2,2020,2024,43,47,4,2020,2024,19,40,21,12.5,2,2,4,3,1,4,2,2,11,11,11.0,0.5,0.55,204,68,118,215,62,96,68,Big Gains,191,65
+2282,William K Moore Elementary School,Region 3,2020,2024,23,26,3,2020,2024,13,20,7,5.0,2,2,4,3,1,4,3,1,3,6,4.0,0.75,0.55,219,218,222,69,270,202,251,Consistently Improving,191,55
+2286,Ethel W Staton Elementary School,Region 2,2020,2024,69,71,2,2020,2024,54,66,12,7.0,3,1,4,2,2,4,2,1,6,15,9.5,0.67,0.542,229,158,203,187,190,38,98,Mixed Progress,194,67
+2333,Irwin & Susan Molasky Junior High School,Region 2,2020,2024,22,28,6,2020,2024,10,13,3,4.5,2,2,4,2,1,4,3,1,6,3,3.5,0.75,0.54,171,265,229,69,190,259,262,Consistent but Flat,195,68
+2207,Doris Hancock Elementary School,Region 2,2020,2024,29,31,2,2020,2024,16,23,7,4.5,3,1,4,3,1,4,3,1,5,5,3.5,0.75,0.54,229,218,229,69,226,225,262,Consistent but Flat,195,68
+2293,Clyde C Cox Elementary School,Region 3,2020,2024,21,25,4,2020,2024,8,13,5,4.5,3,1,4,2,0,4,3,1,3,3,2.5,0.75,0.54,204,238,229,69,270,259,284,Consistent but Flat,195,56
+2354,Anthony Saville Middle School,Region 3,2020,2024,46,47,1,2020,2024,24,32,8,4.5,3,1,4,4,0,4,3,1,6,3,4.5,0.75,0.54,237,209,229,69,190,259,237,Consistent but Flat,195,56
+2239,Ruby S Thomas Elementary School,Region 2,2020,2024,15,30,15,2020,2024,8,17,9,12.0,2,1,4,2,1,4,2,2,14,7,10.5,0.5,0.54,59,197,130,215,31,183,80,Big Gains,195,68
+2236,Rex Bell Elementary School,Region 2,2020,2024,25,25,0,2020,2024,9,18,9,4.5,3,1,4,3,1,4,3,1,3,6,4.0,0.75,0.54,248,197,229,69,270,202,251,Consistent but Flat,195,68
+2299,Odyssey Charter Schools K-5 Elementary School,Region 3,2020,2024,52,64,12,2020,2024,34,46,12,12.0,3,1,4,2,2,4,2,2,8,12,9.0,0.5,0.54,91,158,130,215,135,80,114,Big Gains,195,56
+2119,Wing and Lilly Fong Elementary School,Region 1,2020,2024,26,34,8,2020,2024,11,26,15,11.5,2,2,4,3,1,4,2,2,9,16,12.5,0.5,0.53,139,130,142,215,104,30,41,Big Gains,202,51
+2273,Howard Hollingsworth Elementary School,Region 2,2020,2024,16,28,12,2021,2024,12,23,11,11.5,3,1,4,2,1,3,2,2,11,8,9.5,0.5,0.53,91,179,142,215,62,157,98,Big Gains,202,72
+2284,Hal Smith Elementary School,Region 2,2020,2024,12,17,5,2020,2024,6,9,3,4.0,2,2,4,2,1,4,3,1,5,3,2.5,0.75,0.53,183,265,238,69,226,259,284,Consistent but Flat,202,72
+2317,Kenny C Guinn Middle School,Region 2,2020,2024,43,48,5,2020,2024,28,35,7,6.0,3,1,4,1,1,4,2,1,6,8,7.0,0.67,0.522,183,218,209,187,190,157,168,Mixed Progress,205,74
+2254,Robert L Taylor Elementary School,Region 3,2021,2024,17,24,7,2021,2024,14,19,5,6.0,2,1,3,2,1,3,2,1,7,4,4.5,0.67,0.522,157,238,209,187,166,244,237,Mixed Progress,205,59
+2125,Cynthia Cunningham Elementary School,Region 3,2020,2024,23,27,4,2020,2024,18,21,3,3.5,2,2,4,2,1,4,3,1,4,3,3.0,0.75,0.52,204,265,246,69,257,259,273,Consistent but Flat,207,60
+2220,Laura Dearing Elementary School,Transformation Network,2020,2024,18,20,2,2020,2024,11,16,5,3.5,1,2,4,3,0,4,3,1,8,3,4.0,0.75,0.52,229,238,246,69,135,259,251,Consistent but Flat,207,20
+2300,Ollie Detwiler Elementary School,Region 3,2020,2024,21,21,0,2020,2024,10,17,7,3.5,2,1,4,3,1,4,3,1,6,5,4.5,0.75,0.52,248,218,246,69,190,225,237,Consistent but Flat,207,60
+2323,Walter Johnson Junior High School Academy of International Studies,Region 3,2020,2024,47,52,5,2020,2024,27,33,6,5.5,2,2,4,3,1,4,2,1,7,4,5.5,0.67,0.512,183,232,219,187,166,244,205,Mixed Progress,210,62
+2213,J E Manch Elementary School,Region 1,2020,2024,14,21,7,2020,2024,7,11,4,5.5,3,1,4,2,2,4,2,1,7,5,6.0,0.67,0.512,157,254,219,187,166,225,194,Mixed Progress,210,52
+2194,Aldeane Comito Ries Elementary School,Region 2,2020,2024,40,48,8,2020,2024,28,41,13,10.5,2,2,4,2,1,4,2,2,11,15,13.0,0.5,0.51,139,152,154,215,62,38,38,Big Gains,212,75
+2078,Evelyn Stuckey Elementary School,Region 2,2020,2024,54,65,11,2020,2024,47,57,10,10.5,2,1,4,2,2,4,2,2,9,11,10.0,0.5,0.51,100,189,154,215,104,96,88,Big Gains,212,75
+2241,Sunrise Acres Elementary School,Region 2,2020,2024,21,26,5,2020,2024,16,21,5,5.0,2,1,4,2,1,4,2,1,10,9,9.5,0.67,0.502,183,238,222,187,87,132,98,Mixed Progress,214,77
+2262,George E Harris Elementary School,Region 3,2020,2024,24,30,6,2020,2024,7,21,14,10.0,1,3,4,2,2,4,2,2,11,10,10.5,0.5,0.5,171,138,163,215,62,112,80,Big Gains,215,63
+2146,Ulis Newton Elementary School,Region 3,2020,2024,45,56,11,2020,2024,37,46,9,10.0,2,2,4,1,2,4,2,2,19,13,16.0,0.5,0.5,100,197,163,215,6,63,18,Big Gains,215,63
+2307,Jim Bridger Middle School,Region 3,2020,2024,29,28,-1,2020,2024,13,19,6,2.5,2,2,4,3,1,4,3,1,3,3,2.5,0.75,0.5,259,232,256,69,270,259,284,Consistent but Flat,215,63
+2071,Josh Stevens Elementary School,Region 3,2020,2024,56,63,7,2020,2024,38,51,13,10.0,2,2,4,3,1,4,2,2,14,9,9.5,0.5,0.5,157,152,163,215,31,132,98,Big Gains,215,63
+2242,Tom Williams Elementary School,Region 3,2020,2024,30,27,-3,2020,2024,12,20,8,2.5,2,1,4,2,0,4,3,1,2,5,2.5,0.75,0.5,273,209,256,69,289,225,284,Consistent but Flat,215,63
+2196,Jay W Jeffers Elementary School,Transformation Network,2020,2024,24,24,0,2020,2024,13,18,5,2.5,2,2,4,2,2,4,3,1,6,5,3.5,0.75,0.5,248,238,256,69,190,225,262,Consistent but Flat,215,21
+2110,Claude & Stella Parson Elementary School,Region 1,2020,2024,16,24,8,2021,2024,13,14,1,4.5,3,1,4,1,1,3,2,1,8,2,3.5,0.67,0.492,139,277,229,187,135,280,262,Mixed Progress,221,53
+2332,Duane D Keller Middle School,Region 2,2020,2024,22,26,4,2020,2024,6,11,5,4.5,1,3,4,2,0,2,2,1,7,2,7.0,0.67,0.492,204,238,229,187,166,280,168,Mixed Progress,221,78
+2320,Sandy Valley JR/SR High School,Region 3,2020,2024,24,37,13,2021,2024,15,21,6,9.5,2,2,4,2,0,3,2,2,16,4,8.0,0.5,0.49,82,232,167,215,16,244,137,Mixed Progress,223,68
+2616,Explore Knowledge Academy JR/SR High School,Charter,2020,2024,56,70,14,2020,2024,30,35,5,9.5,3,1,4,2,2,4,2,2,10,11,9.0,0.5,0.49,67,238,167,215,87,96,114,Mixed Progress,223,4
+2212,Ira J Earl Elementary School,Transformation Network,2020,2024,15,18,3,2020,2024,11,16,5,4.0,2,1,4,1,0,4,2,1,4,5,4.5,0.67,0.482,219,238,238,187,257,225,237,Mixed Progress,225,22
+2226,Matt Kelly Elementary School,Transformation Network,2021,2024,10,17,7,2021,2024,6,7,1,4.0,2,1,3,1,1,3,2,1,5,3,3.0,0.67,0.482,157,277,238,187,226,259,273,Mixed Progress,225,22
+2086,Jesse D Scott Elementary School,Region 1,2020,2024,17,27,10,2021,2024,10,18,8,9.0,3,1,4,2,1,3,2,2,9,9,9.0,0.5,0.48,118,209,174,215,104,132,114,Mixed Progress,227,54
+2350,Charles Arthur Hughes Middle School,Region 1,2020,2024,31,42,11,2020,2024,20,27,7,9.0,3,1,4,2,1,4,2,2,8,6,7.0,0.5,0.48,100,218,174,215,135,202,168,Mixed Progress,227,54
+2111,John Dooley Elementary School,Region 3,2020,2024,48,48,0,2020,2024,18,46,28,14.0,1,3,4,2,1,4,1,2,5,28,16.5,0.33,0.478,248,19,101,277,226,1,11,Big Gains,229,69
+2347,Victoria Fertitta Middle School,Region 2,2020,2024,57,55,-2,2020,2024,32,41,9,3.5,2,2,4,3,1,4,2,1,5,9,3.0,0.67,0.472,269,197,246,187,226,132,273,Mixed Progress,230,79
+2182,Mervin Iverson Elementary School,Region 3,2020,2024,40,45,5,2020,2024,32,44,12,8.5,2,2,4,2,2,4,2,2,5,10,7.5,0.5,0.47,183,158,178,215,226,112,151,Mixed Progress,231,70
+2085,Ruben P Diaz Elementary School,Region 3,2020,2024,21,25,4,2020,2024,11,23,12,8.0,2,2,4,2,2,4,2,2,15,16,15.5,0.5,0.46,204,158,188,215,20,30,21,Mixed Progress,232,71
+2160,Betsy Rhodes Elementary School,Region 1,2020,2024,55,60,5,2020,2024,41,52,11,8.0,2,2,4,3,0,4,2,2,11,7,9.0,0.5,0.46,183,179,188,215,62,183,114,Mixed Progress,232,56
+2101,Blue Diamond Elementary School,Region 2,2020,2023,71,82,11,2021,2023,94,88,-6,2.5,2,1,3,1,1,2,2,1,17,1,20.0,0.67,0.452,100,297,256,187,12,291,2,Mixed Progress,234,80
+2329,Mack Lyon Middle School,Region 3,2020,2024,55,58,3,2020,2024,42,54,12,7.5,3,1,4,2,2,4,2,2,3,13,7.5,0.5,0.45,219,158,193,215,270,63,151,Mixed Progress,235,72
+2175,William E Snyder Elementary School,Region 2,2020,2024,19,24,5,2020,2024,10,20,10,7.5,2,1,4,2,1,4,2,2,6,6,6.0,0.5,0.45,183,189,193,215,190,202,194,Mixed Progress,235,81
+2224,Wendell Williams Elementary School,Transformation Network,2021,2024,18,18,0,2021,2024,9,12,3,1.5,2,1,3,0,0,1,2,1,3,0,1.5,0.67,0.432,248,265,265,187,270,297,294,Mixed Progress,237,24
+2345,Marvin M Sedway Middle School,Region 2,2020,2024,21,22,1,2020,2024,7,9,2,1.5,1,1,4,2,1,4,2,1,4,2,3.0,0.67,0.432,237,271,265,187,257,280,273,Mixed Progress,237,82
+2098,Judith D Steele Elementary School,Region 2,2020,2024,48,54,6,2020,2024,41,48,7,6.5,1,1,4,2,2,4,2,2,7,14,10.5,0.5,0.43,171,218,207,215,166,49,80,Mixed Progress,239,83
+2359,Carroll M Johnston STEM Academy of Environmental Studies,Region 1,2020,2024,30,33,3,2020,2024,10,19,9,6.0,2,2,4,1,1,4,2,2,13,10,11.5,0.5,0.42,219,197,209,215,40,112,55,Mixed Progress,240,57
+2138,Patricia A Bendorf Elementary School,Region 2,2020,2024,41,39,-2,2020,2024,17,31,14,6.0,1,2,4,3,1,4,2,2,7,6,6.5,0.5,0.42,269,138,209,215,166,202,182,Mixed Progress,240,84
+2074,Don & Dee Snyder Elementary School,Region 2,2020,2024,49,54,5,2020,2024,31,38,7,6.0,2,1,4,2,2,4,2,2,9,9,6.0,0.5,0.42,183,218,209,215,104,132,194,Mixed Progress,240,84
+2356,Jerome Mack Middle School,Region 2,2020,2024,15,22,7,2020,2024,6,11,5,6.0,2,2,4,3,1,4,2,2,11,5,8.0,0.5,0.42,157,238,209,215,62,225,137,Mixed Progress,240,84
+2270,Walter V Long Elementary School,Region 3,2020,2024,22,18,-4,2020,2024,11,16,5,0.5,2,2,4,2,2,4,2,1,6,6,4.0,0.67,0.412,278,238,272,187,190,202,251,Mixed Progress,244,73
+2216,John S Park Elementary School,Region 2,2020,2024,31,31,0,2020,2024,17,27,10,5.0,2,2,4,2,2,4,2,2,9,9,9.0,0.5,0.4,248,189,222,215,104,132,114,Mixed Progress,245,87
+2130,Jack Dailey Elementary School,Region 2,2020,2024,27,33,6,2020,2024,19,23,4,5.0,2,1,4,1,2,4,2,2,9,7,8.0,0.5,0.4,171,254,222,215,104,183,137,Mixed Progress,245,87
+2225,Marion Cahlan Elementary School,Region 1,2020,2024,29,29,0,2020,2024,18,28,10,5.0,2,2,4,2,2,4,2,2,12,9,10.5,0.5,0.4,248,189,222,215,47,132,80,Mixed Progress,245,58
+2315,Dell H Robison Middle School,Region 3,2020,2024,15,26,11,2021,2024,9,7,-2,4.5,2,2,4,1,2,3,2,2,12,1,3.0,0.5,0.39,100,289,229,215,47,291,273,Mixed Progress,248,74
+2251,C T Sewell Elementary School,Region 3,2020,2024,39,32,-7,2020,2024,20,25,5,-1.0,1,3,4,3,1,4,2,1,4,4,4.0,0.67,0.382,291,238,284,187,257,244,251,Needs Attention,249,75
+2334,Charles Silvestri Junior High School,Region 3,2020,2024,31,39,8,2020,2024,19,19,0,4.0,2,2,4,1,2,4,2,2,10,6,8.0,0.5,0.38,139,283,238,215,87,202,137,Mixed Progress,250,76
+2209,Fay Herron Elementary School,Region 3,2020,2024,33,32,-1,2020,2024,23,32,9,4.0,2,2,4,2,2,4,2,2,6,9,5.5,0.5,0.38,259,197,238,215,190,132,205,Mixed Progress,250,76
+2142,Louis Wiener Jr Elementary School,Region 1,2020,2024,34,35,1,2020,2024,20,27,7,4.0,2,2,4,2,1,4,2,2,5,9,5.5,0.5,0.38,237,218,238,215,226,132,205,Mixed Progress,250,59
+2174,Lucille S Rogers Elementary School,Region 1,2020,2024,56,52,-4,2020,2024,37,49,12,4.0,2,2,4,2,2,4,2,2,7,10,7.0,0.5,0.38,278,158,238,215,166,112,168,Mixed Progress,250,59
+2161,Addeliar D Guy III Elementary School,Region 1,2020,2024,39,40,1,2020,2024,28,34,6,3.5,1,2,4,2,2,4,2,2,15,13,14.0,0.5,0.37,237,232,246,215,20,63,29,Mixed Progress,254,61
+2349,Lawrence & Heidi Canarelli Middle School,Region 2,2020,2024,54,52,-2,2020,2024,27,36,9,3.5,2,2,4,2,2,4,2,2,6,7,3.0,0.5,0.37,269,197,246,215,190,183,273,Mixed Progress,254,89
+2167,Edith Garehime Elementary School,Region 1,2020,2024,39,42,3,2020,2024,32,36,4,3.5,3,1,4,3,1,4,2,2,4,3,3.0,0.5,0.37,219,254,246,215,257,259,273,Mixed Progress,254,61
+2335,Francis H Cortney Junior High School,Region 3,2020,2024,20,22,2,2020,2024,8,12,4,3.0,2,2,4,3,1,4,2,2,8,3,4.5,0.5,0.36,229,254,253,215,135,259,237,Mixed Progress,257,78
+2343,Mario C & JoAnne Monaco Middle School,Region 3,2020,2024,26,27,1,2020,2024,7,12,5,3.0,2,2,4,2,1,4,2,2,5,5,3.5,0.5,0.36,237,238,253,215,226,225,262,Mixed Progress,257,78
+2306,J Harold Brinley Middle School,Region 1,2020,2024,22,24,2,2020,2024,6,10,4,3.0,2,2,4,2,2,4,2,2,5,4,4.5,0.5,0.36,229,254,253,215,226,244,237,Mixed Progress,257,63
+2304,James Cashman Middle School,Region 2,2020,2024,29,32,3,2020,2024,14,16,2,2.5,2,2,4,2,2,4,2,2,8,3,5.5,0.5,0.35,219,271,256,215,135,259,205,Mixed Progress,260,90
+2342,Brian & Teri Cram Middle School,Region 1,2020,2024,32,34,2,2020,2024,21,24,3,2.5,2,2,4,2,2,4,2,2,6,4,2.5,0.5,0.35,229,265,256,215,190,244,284,Mixed Progress,260,64
+2341,Justice Myron E Leavitt Middle School,Region 1,2020,2024,50,48,-2,2020,2024,22,29,7,2.5,2,2,4,3,1,4,2,2,3,4,3.5,0.5,0.35,269,218,256,215,270,244,262,Mixed Progress,260,64
+2621,The Delta Academy JR/SR High School,Charter,2020,2024,26,35,9,2020,2024,11,17,6,7.5,1,2,4,2,1,4,1,2,18,6,12.0,0.33,0.348,130,232,193,277,11,202,47,Mixed Progress,263,5
+2189,Eva G Simmons Elementary School,Region 1,2020,2024,49,36,-13,2020,2024,25,32,7,-3.0,0,4,4,3,1,4,2,1,-1,6,2.0,0.67,0.342,299,218,292,187,298,202,292,Needs Attention,264,66
+2330,West Preparatory Institute JR/SR High School,Region 3,2020,2024,23,22,-1,2020,2024,7,11,4,1.5,2,2,4,2,0,4,2,2,5,2,3.5,0.5,0.33,259,254,265,215,226,280,262,Mixed Progress,265,80
+2361,Edmundo Eddie Elementary Schoolcobedo Sr Middle School,Region 1,2020,2024,42,44,2,2020,2024,19,20,1,1.5,2,2,4,1,2,4,2,2,8,5,6.5,0.5,0.33,229,277,265,215,135,225,182,Mixed Progress,265,67
+2283,DVorre & Hal Ober Elementary School,Region 2,2020,2024,46,41,-5,2020,2024,25,33,8,1.5,1,2,4,2,2,4,2,2,1,7,4.0,0.5,0.33,283,209,265,215,293,183,251,Mixed Progress,265,91
+2316,Helen C Cannon Junior High School,Region 2,2020,2024,26,25,-1,2020,2024,8,10,2,0.5,2,2,4,3,1,4,2,2,5,3,3.5,0.5,0.31,259,271,272,215,226,259,262,Mixed Progress,268,92
+2319,B Mahlon Brown Junior High School,Region 3,2020,2024,39,40,1,2020,2024,20,20,0,0.5,2,2,4,2,2,4,2,2,5,5,3.0,0.5,0.31,237,283,272,215,226,225,273,Mixed Progress,268,81
+2252,Indian Springs Elementary School,Region 1,2021,2024,45,37,-8,2021,2024,26,35,9,0.5,0,3,3,3,0,3,1,1,-1,5,1.0,0.5,0.31,295,197,272,215,298,225,295,Mixed Progress,268,68
+2279,Grant Bowler Elementary School,Region 1,2020,2024,52,52,0,2020,2024,44,55,11,5.5,1,2,4,2,2,4,1,2,7,11,9.0,0.33,0.308,248,179,219,277,166,96,114,Mixed Progress,271,69
+2314,C W Woodbury Middle School,Region 2,2020,2024,28,27,-1,2020,2024,8,9,1,0.0,2,2,4,2,2,4,2,2,8,2,5.0,0.5,0.3,259,277,278,215,135,280,221,Mixed Progress,272,93
+2358,Odyssey Charter Schools 6-8 Middle School,Region 3,2020,2024,62,57,-5,2020,2024,28,33,5,0.0,1,3,4,1,2,4,2,2,6,12,4.5,0.5,0.3,283,238,278,215,190,80,237,Mixed Progress,272,82
+2114,Ute Perkins Elementary School,Region 1,2020,2024,53,46,-7,2020,2024,31,38,7,0.0,2,2,4,2,2,4,2,2,7,13,5.5,0.5,0.3,291,218,278,215,166,63,205,Mixed Progress,272,70
+2163,Berkeley L Bunker Elementary School,Region 1,2020,2024,25,21,-4,2020,2024,8,22,14,5.0,1,2,4,1,1,4,1,2,6,17,11.5,0.33,0.298,278,138,222,277,190,25,55,Mixed Progress,275,71
+2223,Lois Craig Elementary School,Region 1,2020,2024,18,13,-5,2020,2024,9,13,4,-0.5,2,2,4,2,1,4,2,2,5,5,5.0,0.5,0.29,283,254,281,215,226,225,221,Needs Attention,276,72
+2324,Barbara & Hank Greenspun Junior High School,Region 3,2020,2024,57,51,-6,2020,2024,30,34,4,-1.0,1,2,4,2,1,4,2,2,2,3,2.5,0.5,0.28,289,254,284,215,289,259,284,Needs Attention,277,83
+2204,C P Squires Elementary School,Region 3,2020,2024,18,22,4,2020,2024,8,17,9,6.5,1,2,4,1,3,4,1,3,12,12,12.0,0.25,0.28,204,197,207,290,47,80,47,Mixed Progress,277,83
+2151,Dean LaMar Allen Elementary School,Region 1,2020,2024,50,45,-5,2020,2024,31,44,13,4.0,0,3,4,2,2,4,1,2,0,13,6.0,0.33,0.278,283,152,238,277,295,63,194,Mixed Progress,279,73
+2352,Clifford O Findlay Middle School,Region 1,2020,2024,27,24,-3,2020,2024,9,8,-1,-2.0,2,2,4,1,1,4,2,2,3,1,2.0,0.5,0.26,273,287,286,215,270,291,292,Needs Attention,280,74
+2311,Roy W Martin Middle School,Region 3,2020,2024,31,28,-3,2021,2024,14,12,-2,-2.5,2,2,4,1,1,3,2,2,2,1,1.0,0.5,0.25,273,289,289,215,289,291,295,Needs Attention,281,85
+2336,Indian Springs Middle School,Region 1,2020,2024,37,45,8,2021,2024,16,17,1,4.5,2,2,4,1,2,3,1,3,12,3,7.5,0.25,0.24,139,277,229,290,47,259,151,Mixed Progress,282,75
+2325,Theron L Swainston Middle School,Region 1,2020,2024,27,27,0,2020,2024,8,11,3,1.5,1,3,4,3,1,4,1,2,8,2,5.0,0.33,0.228,248,265,265,277,135,280,221,Mixed Progress,283,76
+2105,Martin Luther King Jr Elementary School,Transformation Network,2020,2024,17,18,1,2020,2024,9,10,1,1.0,1,2,4,1,1,4,1,2,5,5,5.0,0.33,0.218,237,277,271,277,226,225,221,Mixed Progress,284,25
+2327,Ernest Becker Middle School,Region 3,2020,2024,49,48,-1,2020,2024,23,25,2,0.5,1,3,4,3,1,4,1,2,12,2,5.0,0.33,0.208,259,271,272,277,47,280,221,Mixed Progress,285,86
+2355,Del E Webb Middle School,Region 3,2020,2024,65,62,-3,2020,2024,44,48,4,0.5,1,3,4,3,1,4,1,2,9,3,5.0,0.33,0.208,273,254,272,277,104,259,221,Mixed Progress,285,86
+2169,Lorna J Kesterson Elementary School,Region 3,2020,2024,53,50,-3,2020,2024,41,49,8,2.5,1,3,4,2,1,4,1,3,7,10,8.5,0.25,0.2,273,209,256,290,166,112,128,Mixed Progress,287,88
+2123,Walter Jacobson Elementary School,Transformation Network,2020,2024,47,39,-8,2020,2024,34,32,-2,-5.0,1,3,4,3,1,4,1,1,3,7,5.0,0.5,0.2,295,289,296,215,270,183,221,Needs Attention,287,26
+2183,J Marlan Walker International School Elementary School,Region 3,2020,2024,58,54,-4,2020,2024,39,47,8,2.0,1,3,4,1,3,4,1,3,3,19,8.5,0.25,0.19,278,209,264,290,270,17,128,Mixed Progress,289,89
+2305,J D Smith Middle School,Region 3,2021,2024,26,19,-7,2021,2024,7,9,2,-2.5,1,2,3,1,1,3,1,2,2,3,2.5,0.33,0.148,291,271,289,277,289,259,284,Needs Attention,290,90
+2301,Ed Von Tobel Middle School,Region 3,2020,2024,24,23,-1,2020,2024,12,9,-3,-2.0,1,2,4,1,3,4,1,3,6,2,4.0,0.25,0.11,259,292,286,290,190,280,251,Needs Attention,291,91
+2312,William E Orr Middle School,Region 2,2020,2024,18,17,-1,2021,2024,8,5,-3,-2.0,3,1,4,1,2,3,1,3,3,1,0.5,0.25,0.11,259,292,286,290,270,291,298,Needs Attention,291,94
+2154,John Vanderburg Elementary School,Region 3,2020,2024,77,72,-5,2020,2024,72,68,-4,-4.5,0,2,4,1,2,4,1,2,0,2,1.0,0.33,0.108,283,295,295,277,295,280,295,Needs Attention,293,92
+2091,Dr Claude G Perkins Elementary School,Transformation Network,2020,2024,32,25,-7,2020,2024,18,20,2,-2.5,1,3,4,2,2,4,1,3,8,6,7.0,0.25,0.1,291,271,289,290,135,202,168,Needs Attention,294,27
+2626,NV Learning Academy Elementary School,Charter,2021,2024,38,33,-5,2021,2024,19,14,-5,-5.0,1,2,3,1,2,3,1,2,11,3,4.0,0.33,0.098,283,296,296,277,62,259,251,Needs Attention,295,6
+2346,Kathleen & Tim Harney Middle School,Region 3,2020,2024,25,21,-4,2020,2024,12,9,-3,-3.5,2,2,4,1,3,4,1,3,4,3,3.5,0.25,0.08,278,292,293,290,257,259,262,Needs Attention,296,93
+2357,Dr William H Bailey Middle School,Region 3,2020,2024,26,20,-6,2020,2024,9,8,-1,-3.5,1,3,4,1,2,4,1,3,5,1,3.0,0.25,0.08,289,287,293,290,226,291,273,Needs Attention,296,93
+2501,Hannah Marie Brown Elementary School,Region 3,2021,2024,68,58,-10,2021,2024,59,50,-9,-9.5,1,2,3,1,2,3,1,2,1,4,2.5,0.33,0.008,297,299,299,277,293,244,284,Needs Attention,298,95
+2303,Hyde Park Middle School,Region 2,2020,2024,61,51,-10,2020,2024,52,44,-8,-9.0,0,4,4,0,3,4,0,4,-1,0,-1.5,0,-0.18,297,298,298,299,298,297,300,Needs Attention,299,95
+2625,NV Learning Academy JR/SR High School,Charter,2020,2024,76,30,-46,2020,2024,57,8,-49,-47.5,0,3,4,1,3,4,0,4,0,2,-1.0,0,-0.95,300,300,300,299,295,280,299,Needs Attention,300,7

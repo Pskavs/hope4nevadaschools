@@ -181,7 +181,7 @@ combined as (
                + case when fl.math_latest_pct is not null and fl.math_first_pct is not null then 1 else 0 end),
                 0
             ), 1
-        )                                                           as composite_overall_change,
+        ) as composite_overall_change,
 
         -- Consistency
         agg.ela_years_improved,
@@ -203,7 +203,31 @@ combined as (
             agg.composite_years_improved::float
             / nullif(agg.composite_years_improved + agg.composite_years_declined, 0),
             2
-        )                                                           as consistency_score
+        ) as consistency_score,
+        -- Improvement score: weighted combination of consistency and magnitude
+        -- Consistency weighted 60% (are they improving regularly?)
+        -- Overall change weighted 40% (how much are they improving?)
+        round(
+            (
+                round(
+                    agg.composite_years_improved::float
+                    / nullif(agg.composite_years_improved + agg.composite_years_declined, 0),
+                    2
+                ) * 0.6
+            )
+            +
+            (
+                (coalesce(fl.ela_latest_pct - fl.ela_first_pct, 0)
+               + coalesce(fl.math_latest_pct - fl.math_first_pct, 0))
+                / nullif(
+                    (case when fl.ela_latest_pct is not null and fl.ela_first_pct is not null then 1 else 0 end
+                   + case when fl.math_latest_pct is not null and fl.math_first_pct is not null then 1 else 0 end),
+                    0
+                )
+                / 20.0 * 0.4
+            ),
+            3
+        ) as improvement_score
 
     from first_last fl
     inner join agg on fl.school_id = agg.school_id
@@ -238,7 +262,16 @@ ranked as (
             when composite_overall_change >= 10 then 'Big Gains'
             when composite_overall_change >= 0 then 'Mixed Progress'
             else 'Needs Attention'
-        end as improvement_category
+        end as improvement_category,
+
+        rank() over (
+            order by improvement_score desc nulls last
+        )  as overall_improvement_rank,
+
+        rank() over (
+            partition by region
+            order by improvement_score desc nulls last
+        ) as regional_improvement_rank
 
     from combined
 )
