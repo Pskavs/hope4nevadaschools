@@ -8,7 +8,7 @@
 with
 
 schools as (
-    select school_id, school_name
+    select school_id, school_name, region
     from {{ ref('dim_schools') }}
 ),
 
@@ -46,6 +46,7 @@ final as (
         s.school_id,
         at.school_year,
         s.school_name,
+        s.region,
         e.total_enrollment,
         at.chronic_absenteeism_rate,
         at.absenteeism_tier,

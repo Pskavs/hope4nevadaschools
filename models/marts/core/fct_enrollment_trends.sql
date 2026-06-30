@@ -19,7 +19,7 @@ enrollment as (
 ),
 
 schools as (
-    select school_id, school_name
+    select school_id, school_name, region
     from {{ ref('dim_schools') }}
 ),
 
@@ -28,6 +28,7 @@ joined as (
         e.school_id,
         e.school_year,
         s.school_name,
+        s.region,
         e.total_enrolled,
         e.num_hispanic,
         e.num_black,
