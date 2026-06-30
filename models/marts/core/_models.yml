@@ -24,6 +24,7 @@ models:
       - name: school_year
         tests: [not_null]
       - name: school_name
+      - name: region
       - name: total_enrolled
       - name: dbt_updated_at
 
@@ -37,6 +38,7 @@ models:
       - name: school_year
         tests: [not_null]
       - name: school_name
+      - name: region
       - name: total_enrollment
       - name: chronic_absenteeism_rate
       - name: absenteeism_tier
