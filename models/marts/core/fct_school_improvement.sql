@@ -203,31 +203,12 @@ combined as (
             agg.composite_years_improved::float
             / nullif(agg.composite_years_improved + agg.composite_years_declined, 0),
             2
-        ) as consistency_score,
-        -- Improvement score: weighted combination of consistency and magnitude
-        -- Consistency weighted 60% (are they improving regularly?)
-        -- Overall change weighted 40% (how much are they improving?)
-        round(
-            (
-                round(
-                    agg.composite_years_improved::float
-                    / nullif(agg.composite_years_improved + agg.composite_years_declined, 0),
-                    2
-                ) * 0.6
-            )
-            +
-            (
-                (coalesce(fl.ela_latest_pct - fl.ela_first_pct, 0)
-               + coalesce(fl.math_latest_pct - fl.math_first_pct, 0))
-                / nullif(
-                    (case when fl.ela_latest_pct is not null and fl.ela_first_pct is not null then 1 else 0 end
-                   + case when fl.math_latest_pct is not null and fl.math_first_pct is not null then 1 else 0 end),
-                    0
-                )
-                / 20.0 * 0.4
-            ),
-            3
-        ) as improvement_score
+        ) as consistency_score
+
+        -- Note: improvement_score is calculated later, after min/max bounds
+        -- of composite_overall_change are known (see `scored` CTE below).
+        -- This replaces an earlier version that divided by a guessed
+        -- constant (20) to normalize the change value onto a 0-1 scale.
 
     from first_last fl
     inner join agg on fl.school_id = agg.school_id
@@ -236,6 +217,34 @@ combined as (
       and fl.math_first_pct is not null
       and fl.ela_latest_pct is not null
       and fl.math_latest_pct is not null
+),
+
+-- Calculate min/max bounds for normalization across all schools. This is done so that we can normalize the overall change scores to a 0-1 scale for the improvement score calculation.
+bounds as (
+    select
+        min(composite_overall_change) as min_change,
+        max(composite_overall_change) as max_change
+    from combined
+),
+
+-- Min-max normalize composite_overall_change to a 0-1 scale using the
+-- actual range of the data, then combine with consistency_score
+-- (60% consistency, 40% normalized overall change) to produce improvement_score.
+scored as (
+    select
+        c.*,
+        round(
+            (c.consistency_score * 0.6)
+            +
+            (
+                (c.composite_overall_change - b.min_change)
+                / nullif(b.max_change - b.min_change, 0)
+                * 0.4
+            ),
+            3
+        ) as improvement_score
+    from combined c
+    cross join bounds b
 ),
 
 ranked as (
@@ -273,7 +282,7 @@ ranked as (
             order by improvement_score desc nulls last
         ) as regional_improvement_rank
 
-    from combined
+    from scored
 )
 
 select * from ranked
