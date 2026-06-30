@@ -2,32 +2,33 @@ version: 2
 
 exposures:
 
-  # ── CCSD School Performance Dashboard ─────────────────────────────────────
-  - name: ccsd_school_performance_dashboard
-    label: "CCSD School Performance Dashboard"
+  # ── CCSD School Improvement Dashboard ─────────────────────────────────────
+  - name: ccsd_school_improvement_dashboard
+    label: "CCSD School Improvement Dashboard"
     type: dashboard
-    maturity: high
-    url: https://app.tableau.com/ccsd/school-performance   # replace with real URL
+    maturity: medium
     description: >
-      Tableau dashboard surfacing school-level enrollment, attendance, and
-      SBAC proficiency trends for CCSD leadership and the public.
-      Refreshed nightly after the dbt prod run.
+      Power BI dashboard surfacing which CCSD schools are most consistently
+      improving in ELA and Math proficiency, broken out by region and the
+      Transformation Network. Built as a portfolio project by a former
+      CCSD 3rd grade teacher turned analytics engineer.
     depends_on:
-      - ref('fct_school_performance')
+      - ref('fct_school_improvement')
+      - ref('fct_school_improvement_yoy')
       - ref('dim_schools')
     owner:
-      name: Analytics Engineering Team
-      email: analytics@ccsd.net
-    tags: ['dashboard', 'tableau', 'school_performance']
+      name: Christian Paskevicius
+      email: pskavs@gmail.com
+    tags: ['dashboard', 'power_bi', 'school_improvement']
 
   # ── Enrollment Trends Report ───────────────────────────────────────────────
   - name: enrollment_trends_report
     label: "Annual Enrollment Trends Report"
-    type: ml          # downstream input to forecasting model
+    type: ml
     maturity: medium
     description: >
       Python-based enrollment forecasting model that reads fct_enrollment_trends
-      to project future year headcounts by school and grade band.
+      to project future year headcounts by school, grade band, and region.
       Used for facilities planning and budget allocation.
     depends_on:
       - ref('fct_enrollment_trends')
