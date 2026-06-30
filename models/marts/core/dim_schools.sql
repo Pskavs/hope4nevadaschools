@@ -14,8 +14,13 @@ enrollment as (
 regions as (
     select
         organization_code::varchar as school_id,
-        region
+        region,
+        row_number() over (
+            partition by organization_code
+            order by case when region = 'Transformation Network' then 1 else 2 end
+        ) as rn
     from {{ ref('school_regions') }}
+    qualify rn = 1
 ),
 
 final as (

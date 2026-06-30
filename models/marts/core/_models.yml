@@ -11,6 +11,7 @@ models:
         tests: [unique, not_null]
       - name: school_name
         tests: [not_null]
+      - name: region
       - name: dbt_updated_at
 
   - name: fct_enrollment_trends
@@ -44,3 +45,102 @@ models:
       - name: math_pct_proficient
       - name: math_suppressed
       - name: dbt_updated_at
+
+  - name: fct_school_improvement
+    description: >
+      Summary fact table. Grain: one row per school.
+      Tracks ELA and Math proficiency improvement from each school's
+      first measured year to its most recent year, plus consistency
+      (years improved vs declined) and peak single-year growth.
+    columns:
+      - name: school_id
+        tests: [not_null]
+      - name: school_name
+      - name: region
+      - name: ela_first_year
+      - name: ela_latest_year
+      - name: ela_first_pct
+      - name: ela_latest_pct
+      - name: ela_overall_change
+      - name: math_first_year
+      - name: math_latest_year
+      - name: math_first_pct
+      - name: math_latest_pct
+      - name: math_overall_change
+      - name: composite_overall_change
+      - name: ela_years_improved
+      - name: ela_years_declined
+      - name: ela_years_measured
+      - name: math_years_improved
+      - name: math_years_declined
+      - name: math_years_measured
+      - name: composite_years_improved
+      - name: composite_years_declined
+      - name: ela_peak_yoy
+      - name: math_peak_yoy
+      - name: composite_peak_yoy
+      - name: consistency_score
+        description: >
+          Proportion of measured years where composite proficiency improved
+          (0-1 scale). 1.0 means the school improved every single year.
+      - name: improvement_score
+        description: >
+          Weighted composite score (0-1 scale) combining consistency (60%)
+          and overall proficiency change (40%). Overall change is min-max
+          normalized using the highest and lowest composite_overall_change
+          values across all CCSD schools, so the scale adapts automatically
+          as new years of assessment data are added.
+      - name: ela_overall_rank
+      - name: math_overall_rank
+      - name: composite_overall_rank
+      - name: consistency_rank
+      - name: ela_peak_rank
+      - name: math_peak_rank
+      - name: composite_peak_rank
+      - name: improvement_category
+        description: >
+          Categorical label based on consistency and overall change:
+          Consistently Improving, Consistent but Flat, Big Gains,
+          Mixed Progress, or Needs Attention.
+        tests:
+          - accepted_values:
+              arguments:
+                values:
+                  - 'Consistently Improving'
+                  - 'Consistent but Flat'
+                  - 'Big Gains'
+                  - 'Mixed Progress'
+                  - 'Needs Attention'
+      - name: overall_improvement_rank
+      - name: regional_improvement_rank
+
+  - name: fct_school_improvement_yoy
+    description: >
+      Detail fact table. Grain: school x year.
+      Year-over-year ELA and Math proficiency changes for each school,
+      used to power trend visuals and the improvement story analysis.
+    columns:
+      - name: school_id
+        tests: [not_null]
+      - name: school_name
+      - name: region
+      - name: school_year
+        tests: [not_null]
+      - name: ela_pct
+      - name: ela_prior_year
+      - name: ela_yoy_change
+      - name: ela_direction
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Up', 'Down', 'Flat']
+      - name: math_pct
+      - name: math_prior_year
+      - name: math_yoy_change
+      - name: math_direction
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Up', 'Down', 'Flat']
+      - name: composite_pct
+      - name: composite_yoy_change
