@@ -22,12 +22,24 @@ regions as (
     from {{ ref('school_regions') }}
     qualify rn = 1
 ),
-
+locations as (
+    select
+        organization_code::varchar as school_id,
+        address,
+        city,
+        state,
+        zip_code
+        from {{ ref('school_locations') }}
+),
 final as (
     select
         e.school_id,
         e.school_name,
         coalesce(reg.region, 'Unknown') as region,
+        loc.address,
+        loc.city,
+        loc.state,
+        loc.zip_code,
         current_timestamp() as dbt_updated_at
     from (
         select
@@ -41,6 +53,8 @@ final as (
     ) e
     left join regions reg
         on e.school_id = reg.school_id
+    left join locations loc
+        on e.school_id = loc.school_id
     where e.rn = 1
 )
 
